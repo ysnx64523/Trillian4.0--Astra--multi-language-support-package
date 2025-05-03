@@ -16,6 +16,6 @@ Note: When dealing with "language type=" attributes in any context, you should a
 
 Full translations would follow this pattern:
 - in xml
-<language type="Chinese(Simplified)">
+#<language type="Chinese(Simplified)">
 - in dtd file
-<!-- Chinese(Simplified) Language Pack for Skins -->
+#<!-- Chinese(Simplified) Language Pack for Skins -->
