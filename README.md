@@ -2,7 +2,7 @@
 How to use? 
 Just copy the Languages ​​folder of this repository and paste it into the installation path of Trillian4.0 (Astra)  
 
-Currently only English and Simplified Chinese supported by Trillian4.0 (Astra) are supported 
+Currently only the officially supported English and Chinese (Simplified) versions created and maintained by me are supported
 
 You can also fork this repository and modify it based on the original English language of Trillian4.0 (Astra) that comes with this repository. Replace the XML, DTD and txt in the Languages\en folder with the language of your region 
 
