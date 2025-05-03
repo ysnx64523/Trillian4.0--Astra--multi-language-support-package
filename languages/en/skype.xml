@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="english">
+	
+<!-- Text for console and message windows -->
+	
+	<translation from="infoCreateConn" to="Creating connection &quot;%username%&quot;"/>
+	<translation from="infoConnect" to="Connecting to %medium% as &quot;%username%&quot;."/>
+	<translation from="infoReconn" to ="Reconnecting to %medium% as &quot;%username%&quot;."/>
+	<translation from="infoConnSucceed" to="You have successfully connected to %medium%."/>
+	<translation from="infoDisconnected" to="Disconnected."/>
+	
+	<translation from="infoSendSMSWindow" to="This window allows you to send SMS messages to %contact% at (%phone_number%)."/>
+	<translation from="infoChatWindow" to="This window allows you chat with %contact%."/>
+	
+	<translation from="infoSignedOn" to="&quot;%contact%&quot; signed on at %time%."/>
+	<translation from="infoSignedOff" to="&quot;%contact%&quot; signed off at %time%."/>
+	<translation from="infoWasMarked" to="&quot;%contact%&quot; was marked &quot;%was_marked%&quot; on %time%."/>
+	
+	<translation from="infoConnSkypeIsNotLoaded" to="Skype is not currently loaded.  Left click this alert to load."/>
+	<translation from="infoConnSkypeIsNotInstalled" to="Skype is not currently installed on the system and is required for Trillian to connect to the Skype network."/>
+	
+	<translation from="infoSmsHasBeenDelivered" to="Your SMS Message has been delivered."/>
+	
+	<translation from="Duration" to="Duration"/>
+	<translation from="Conference" to="Conference"/>
+	
+<!-- Attach message -->
+	<translation from="attach_refused" to="The user has denied access to the Skype client."/>
+	<translation from="attach_not_available" to="Attach not available."/>
+
+<!-- Contact tooltip -->	
+	
+	<translation from="NICKNAME" to="Nickname"/>
+	<translation from="FULLNAME" to="Fullname"/>
+	<translation from="COUNTRY" to="Country"/>
+	<translation from="PROVINCE" to="Province"/>
+	<translation from="CITY" to="City"/>
+	<translation from="PHONE_HOME" to="Phone Home"/>
+	<translation from="PHONE_OFFICE" to="Phome Office"/>
+	<translation from="PHONE_MOBILE" to="Phone Mobile"/>
+	<translation from="GENDER" to="Gender"/>
+	<translation from="MALE" to="Male"/>
+	<translation from="FEMALE" to="Female"/>
+	<translation from="LANGUAGE" to="Language"/>
+	<translation from="HOMEPAGE" to="Homepage"/>
+	<translation from="STATUS" to="Status"/>
+	<translation from="OFFLINE" to="Offline"/>
+	<translation from="ONLINE" to="Online"/>
+	<translation from="SKYPEME" to="Skype Me"/>
+	<translation from="AWAY" to="Away"/>
+	<translation from="NA" to="Not Available"/>
+	<translation from="DND" to="Do Not Disturb"/>
+	<translation from="INVISIBLE" to="Invisible"/>
+	
+<!-- USER OBJECT FAILUREREASON -->
+
+	<translation from="MISC_ERROR" to="failure to supply a meaningful error message"/>
+	<translation from="SERVER_CONNECT_FAILED" to="unable to connect to SMS server"/>
+	<translation from="NO_SMS_CAPABILITY" to="recepient is unable to receive SMS messages"/>
+	<translation from="INSUFFICIENT_FUNDS" to="insufficient Skype Credit to send an SMS message"/>
+	<translation from="INVALID_CONFIRMATION_CODE" to="erroneous confirmation code was submitted"/>
+	<translation from="USER_BLOCKED" to="user is blocked from the server"/>
+	<translation from="IP_BLOCKED" to="user's IP is blocked from the server"/>
+	<translation from="NODE_BLOCKED" to="user's p2p network node has been blocked from the server"/>
+	<translation from="FAILUREREASON_UNKNOWN" to="unknown failure reason"/>
+	<translation from="NO_SENDERID_CAPABILITY" to="unknown failure reason"/>
+	<translation from="TARGET_NOT_ROUTABLE" to="target not routable"/>
+	
+<!-- CALL OBJECT FAILUREREASON -->
+
+	<translation from="CALL_FAILURE_REASON_1" to="Miscellaneous error."/>
+	<translation from="CALL_FAILURE_REASON_2" to="User or phone number does not exist."/>
+	<translation from="CALL_FAILURE_REASON_3" to="%contact% is offline."/>
+	<translation from="CALL_FAILURE_REASON_4" to="No proxy found."/>
+	<translation from="CALL_FAILURE_REASON_5" to="Session terminated."/>
+	<translation from="CALL_FAILURE_REASON_6" to="No common codec found."/>
+	<translation from="CALL_FAILURE_REASON_7" to="Sound I/O error."/>
+	<translation from="CALL_FAILURE_REASON_8" to="Problem with remote sound device."/>
+	<translation from="CALL_FAILURE_REASON_9" to="Call blocked by %contact%."/>
+	<translation from="CALL_FAILURE_REASON_10" to="%contact% not a friend."/>
+	<translation from="CALL_FAILURE_REASON_11" to="%username% not authorized by %contact%."/>
+	<translation from="CALL_FAILURE_REASON_12" to="Sound recording error."/>
+	
+<!-- CALL OBJECT STATUSES' DESCRIPTION -->
+
+	<translation from="CALL_STATUS_RINGING_INCOMING" to="%contact% is calling..."/>
+	<translation from="CALL_STATUS_RINGING" to="%username% is calling..."/>
+	<translation from="CALL_STATUS_FINISHED" to="Call is finished."/>
+	<translation from="CALL_STATUS_REFUSED" to="%contact% has denied the call."/>
+	<translation from="CALL_STATUS_CANCELLED" to="Call was cancelled."/>
+	<translation from="CALL_STATUS_MISSED" to="Call was missed."/>
+	<translation from="CALL_STATUS_BUSY" to="%contact% is busy."/>
+	<translation from="CALL_STATUS_FAILED" to="Call failed"/>
+	<translation from="CALL_STATUS_INPROGRESS" to="A call has been established."/>
+	<translation from="CALL_STATUS_REFUSED_BY_ME" to="%username% has denied the call."/>
+	
+<!-- CALL SYSTRAY ALERT -->
+	<translation from="callRequestingSkypeCall" to="&lt;b&gt;%contact%&lt;/b&gt; (%medium%) is requesting a skype call..."/>
+
+<!-- Account creating -->
+	
+	<translation from="prefsConnectionInvitation" to="Enter your username below and click connect"/>
+	<translation from="prefsConnectionAutoConnect" to="Automatically connect to this account at startup"/>
+	<translation from="prefsConnectionUsername" to="User name"/>
+	<translation from="prefsConnectionPassword" to="Password"/>
+	
+<!-- Account preferences -->
+
+	<translation from="prefsMiscellaneousAdvanced" to="Advanced"/>
+	<translation from="prefsMiscellaneousHideConnectionOfInactiveAccount" to="When this account is not active, hide its connection icon from the contact list"/>
+	
+<!-- menu -->
+	<translation from="menuConnectionDisconnect" to="Disconnect"/>
+	<translation from="menuConnectionReconnect" to="Reconnect"/>
+	<translation from="menuConnectionSetSilentMode" to="Enable Skype Silent Mode"/>
+	<translation from="menuConnectionCancelSilentMode" to="Disable Skype Silent Mode"/>
+	<translation from="menuContactCall" to="Call"/>
+	<translation from="menuContactCallFinish" to="End call"/>
+	<translation from="menuContactVideoCallStart" to="Video call"/>
+	<translation from="menuContactVideoCallFinish" to="Turn off video"/>
+	<translation from="menuContactChat" to="Send Message..."/>
+	<translation from="menuContactSendSMSTo" to="Send SMS to"/>
+	<translation from="menuContactSendSMSToPhoneHome" to="Home"/>
+	<translation from="menuContactSendSMSToPhoneMobile" to="Mobile"/>
+	<translation from="menuContactSendSMSToPhoneOffice" to="Office"/>
+	<translation from="menuContactViewContactInformation" to="View User Information"/>
+	<translation from="menuConnectionSetStatus" to="Set Status"/>
+	<translation from="menuContactAppendToChat" to="Invite to Conversation..."/>
+		
+<!--Connection Settings-->
+	
+	
+<!--Miscellaneous-->
+	<translation from="from" to="from"/>
+	
+	<translation from="infoAccountRemoveDialogText" to="Are you sure you wish to remove this account?"/>
+	<translation from="infoAccountRemoveDialogCaption" to="Trillian"/>
+	
+</language>

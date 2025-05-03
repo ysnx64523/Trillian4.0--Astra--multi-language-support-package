@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="English">
+<!-- Account additional  preferences -->
+	<translation from="prefsConnectionSettingsMailServer" to="Incoming Mail Server:"/>
+	<translation from="prefsConnectionSettingsPort" to="Port:"/>
+	<translation from="prefsConnectionSettingsConnectionType" to="Connection type:"/>
+	<translation from="prefsConnectionSettingsConnectionTypeStandart" to="Standard connection"/>
+	<translation from="prefsConnectionSettingsConnectionTypeSSL_V2" to="SSL V2"/>
+	<translation from="prefsConnectionSettingsConnectionTypeSSL_V3" to="SSL V3"/>
+	<translation from="prefsConnectionSettingsConnectionTypeSSL_TLS" to="SSL TLS"/>
+
+	<translation from="prefsConnectionSettingsUseDefaultProxyChoice" to="Use default proxy settings"/>
+	<translation from="prefsConnectionSettingsUseManualProxyChoice" to="Manually specify proxy"/>
+
+	<translation from="prefsConnectionSettingsProxyProtocol" to="Protocol:"/>
+	<translation from="prefsConnectionSettingsProxyProtocolNone" to="None"/>
+	<translation from="prefsConnectionSettingsProxyProtocolHTTP" to="HTTP"/>
+	<translation from="prefsConnectionSettingsProxyProtocolSOCKS4" to="SOCKS4"/>
+	<translation from="prefsConnectionSettingsProxyProtocolSOCKS5" to="SOCKS5"/>
+
+	<translation from="prefsConnectionSettingsProxyHost" to="Host:"/>
+	<translation from="prefsConnectionSettingsProxyPort" to="Port:"/>
+	<translation from="prefsConnectionSettingsProxyUsername" to="Username:"/>
+	<translation from="prefsConnectionSettingsProxyPassword" to="Password:"/>
+
+	<translation from="prefsMiscellaneousMailCheckTimeout" to="Check my mail every %prefsMiscellaneousMailCheckTimeout% minutes"/>
+	<translation from="prefsMiscellaneousMailExpiredTime" to="Mail expires as old in %prefsMiscellaneousMailExpiredTime% hours"/>
+	<translation from="prefsMiscellaneousMailArriveAlert" to="Alert me when mail arrives for this account"/>
+	<translation from="prefsMiscellaneousMarkAllMailsAsReadOnViewInboxEvent" to="Mark all mail as read on view inbox event"/>
+
+	<translation from="prefsMiscellaneousViewInboxEventDefaultAppChoice" to="My default email application: "/>
+	<translation from="prefsMiscellaneousViewInboxEventWebSiteChoice" to="The following website: %prefsMiscellaneousViewInboxEventWebSite%"/>
+	<translation from="prefsMiscellaneousViewInboxEventAppChoice" to="The following program: %prefsMiscellaneousViewInboxEventApp%"/>
+
+	<translation from="prefsMiscellaneousViewInboxEventWebSite" to="The following website:"/>
+	<translation from="prefsMiscellaneousViewInboxEventApp" to="The following program:"/>
+
+	<translation from="prefsMiscellaneousIMAPSearchInSubfolders" to="Search in subfolders for new mail"/>
+
+	<translation from="prefsMiscellaneousMailExpiredTimeChoice" to="Only display unread mail received in the last %prefsMiscellaneousMailExpiredTime% hours"/>
+	<translation from="prefsMiscellaneousPOP3DisplayAllMailsChoice" to="Display all mail stored on the server"/>
+
+	<translation from="prefsMiscellaneousAdvanced" to="Advanced"/>
+	<translation from="prefsMiscellaneousHideConnectionOfInactiveAccount" to="When this account is not active, hide its connection icon from the contact list"/>
+
+<!-- Account base settings -->
+
+	<translation from="prefsConnectionUsername" to="Email"/>
+	<translation from="prefsConnectionSection" to="Section"/>
+	<translation from="prefsConnectionPassword" to="Password"/>
+	<translation from="prefsConnectionAutoConnect" to="Automatically connect to this account at startup"/>
+	<translation from="prefsConnectionInvitation" to="Enter your e-mail address and password below, and click connect."/>
+	<translation from="prefsConnectionMailServer" to="Incoming Mail Server"/>
+	<translation from="prefsConnectionMailUsername" to="User Name"/>
+
+<!-- Text for console and message windows -->
+
+	<translation from="infoCreateConn" to="Creating connection &quot;%username%&quot;."/>
+	<translation from="infoConnSucceed" to="You have successfully connected to %server%."/>
+	<translation from="infoReconn" to ="Reconnecting to %medium% as &quot;%username%&quot;."/>
+	<translation from="infoDisconnected" to="You have been disconnected."/>
+	<translation from="infoErrorConn" to="Error while connecting to the mail server.  Error code: %errorcode%."/>
+	<translation from="infoErrorAuth" to="Authentication error.  Please verify your mail name and password.  Server response: %response%"/>
+	<translation from="infoErrorOther" to="Mail session error.  Server response: %response%"/>
+
+	<translation from="infoStopMailCheckSuccessfullyWithNewMails" to="You have %unread% unread messages out of %total% messages."/>
+	<translation from="infoStopMailCheckSuccessfullyWithoutNewMails" to="You have no new messages."/>
+
+	<translation from="infoConnectionSettingsTitle" to="Fine tune the server and proxy settings for this connection."/>
+	<translation from="infoConnectionSettingsMailServerHeader" to="Server"/>
+	<translation from="infoConnectionSettingsConnectionTypeHeader" to="Connection type"/>
+	<translation from="infoConnectionSettingsProxyHeader" to="Proxy"/>
+
+	<translation from="infoMiscellaneousTitle" to="Manage other options for this account"/>
+	<translation from="infoMiscellaneousMailCheckHeader" to="Notifications"/>
+	<translation from="infoMiscellaneousInboxHeader" to="When viewing my inbox, launch:"/>
+	<translation from="infoMiscellaneousOptionsHeader" to="Options"/>
+	<translation from="infoAccountSettingsTitle" to="Mail account settings"/>
+
+	<translation from="infoAccountRemoveDialogText" to="Are you sure you wish to remove this account?"/>
+	<translation from="infoAccountRemoveDialogCaption" to="Trillian"/>
+
+	<translation from="systrayMailStatsP" to="%username%: You have %count% messages in your inbox."/>
+	<translation from="infoSystrayMailFrom" to="%username%: You have new mail from &lt;b&gt;%from%&lt;/b&gt; regarding: &quot;&lt;b&gt;%subject%&lt;/b&gt;&quot;."/>
+
+<!-- Menus -->
+
+	<translation from="menuConnectionDisconnect" to="Disconnect"/>
+	<translation from="menuConnectionReconnect" to="Reconnect"/>
+	<translation from="menuMailAccountMarkAllAsRead" to="Mark All as Read"/>
+	<translation from="menuMailAccountViewInbox" to="View Inbox"/>
+	<translation from="menuMailAccountCheckMail" to="Check Mail"/>
+
+<!-- Statuses -->
+
+	<translation from="statusOnline" to="Online"/>
+	<translation from="statusOffline" to="Offline"/>
+	<translation from="statusConnecting" to="Connecting"/>
+
+</language>

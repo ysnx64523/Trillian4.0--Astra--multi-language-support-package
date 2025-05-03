@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)">
+	<translation from="Custom" to="自定义"/>
+	<translation from="Enter your Yahoo! username and password below and click connect." to="在下方输入您的 Yahoo! 账号和密码，然后点击连接。"/>
+	<translation from="Please join my conference..." to="请加入我的会议..."/>
+	<translation from="Not At Home" to="不在家"/>
+	<translation from="Not At My Desk" to="不在座位"/>
+	<translation from="Not In The Office" to="不在办公室"/>
+	<translation from="On Vacation" to="休假中"/>
+	<translation from="Stepped Out" to="暂时离开"/>
+	<translation from="Webcam" to="摄像头"/>
+	<translation from="Yahoo! Messenger support." to="Yahoo! Messenger 支持。"/>
+	<translation from="Yahoo: New Mail" to="Yahoo: 新邮件"/>
+	<translation from="ftRelayConnectInfo" to="*** 通知：正在尝试连接至 relay.msg.yahoo.com 并请求文件传输会话。"/>
+	<translation from="ftConnectInfoServerSucceed" to="*** 通知：成功连接至中继服务器。正在开始文件传输。"/>
+	<translation from="ftErrorHTTP" to="*** 错误：验证文件传输时收到代码 %code%。"/>
+	<translation from="infoChatMOTD" to="您已进入聊天室“%chatname%”。%motd%"/>
+	<translation from="infoChatFull" to="聊天室“%chatname%”已满。"/>
+	<translation from="infoCookieError" to="与 Yahoo! 登录服务器验证时出错：代码 %errcode%。"/>
+	<translation from="infoLoginErrAccount" to="错误：无效用户账户。请确认用户名输入正确后重试。"/>
+	<translation from="infoLoginErrGen" to="登录 %medium% 时出错：%message%。"/>
+	<translation from="infoLoginErrLocked" to="登录 %medium% 时出错：您的账户已被锁定 12 小时，请稍后重试。"/>
+	<translation from="infoLoginErrUnknown" to="登录 %medium% 时出错：未知错误 %code%。"/>
+	<translation from="infoLoggedoffOtherAcctY" to="您将被强制退出 Yahoo! Messenger，因为 IP 地址为“%ip%”的计算机使用您的账户登录了。"/>
+	<translation from="Manage webcam-related settings." to="管理摄像头相关设置。"/>
+	<translation from="Broadcast My Webcam As" to="将我的摄像头广播为"/>
+	<translation from="Small Image" to="小画面"/>
+	<translation from="Large Image" to="大画面"/>
+	<translation from="Ignore List" to="忽略列表"/>
+	<translation from="Ignore a User..." to="忽略用户..."/>
+	<translation from="Ignore" to="忽略"/>
+	<translation from="Always ask my permission for someone to view my Webcam" to="始终要求我允许他人查看我的摄像头"/>
+	<translation from="Allow everyone to view my Webcam" to="允许所有人查看我的摄像头"/>
+	<translation from="Always allow the following users to view my Webcam" to="始终允许以下用户查看我的摄像头"/>
+	<translation from="Deny other view requests" to="拒绝其他查看请求"/>
+	<translation from="systrayWebcam" to="%username% 希望查看您的摄像头。是否允许此用户访问？"/>
+	<translation from="Start Webcam" to="启动摄像头"/>
+	<translation from="When I show my webcam, change my status message to: %prefsYMSGWebcamStatusName%" to="当我展示摄像头时，将状态消息更改为：%prefsYMSGWebcamStatusName%"/>
+	<translation from="Status Message" to="状态消息"/>
+	<translation from="View My Webcam" to="查看我的摄像头"/>
+	<translation from="View Webcam..." to="查看摄像头..."/>
+	<translation from="Invite to View Webcam..." to="邀请查看摄像头..."/>
+	<translation from="User does not have a webcam online." to="该用户未开启摄像头。"/>
+	<translation from="The webcam server is unavailable.  Please try again later." to="摄像头服务器不可用，请稍后重试。"/>
+	<translation from="User has closed the webcam." to="用户已关闭摄像头。"/>
+	<translation from="Messenger ID" to="Messenger 账号"/>
+	<translation from="ftErrorSize" to="*** 错误：无法通过 Yahoo 发送超过 2GB 的文件。"/>
+</language>

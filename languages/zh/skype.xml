@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)">
+	
+<!-- Text for console and message windows -->
+	
+	<translation from="infoCreateConn" to="正在创建连接 &quot;%username%&quot;"/>
+	<translation from="infoConnect" to="正在以 &quot;%username%&quot; 的身份连接到 %medium%。"/>
+	<translation from="infoReconn" to ="正在以 &quot;%username%&quot; 的身份重新连接至 %medium%。"/>
+	<translation from="infoConnSucceed" to="您已成功连接到 %medium%。"/>
+	<translation from="infoDisconnected" to="已断开连接。"/>
+	
+	<translation from="infoSendSMSWindow" to="此窗口允许您向 %contact% 发送短信至 (%phone_number%)。"/>
+	<translation from="infoChatWindow" to="此窗口允许您与 %contact% 进行聊天。"/>
+	
+	<translation from="infoSignedOn" to="&quot;%contact%&quot; 于 %time% 登录。"/>
+	<translation from="infoSignedOff" to="&quot;%contact%&quot; 于 %time% 离线。"/>
+	<translation from="infoWasMarked" to="&quot;%contact%&quot; 在 %time% 被标记为 &quot;%was_marked%&quot;。"/>
+	
+	<translation from="infoConnSkypeIsNotLoaded" to="当前未加载 Skype。左键单击此提示以加载。"/>
+	<translation from="infoConnSkypeIsNotInstalled" to="系统未安装 Skype，Trillian 需依赖 Skype 连接至其网络。"/>
+	
+	<translation from="infoSmsHasBeenDelivered" to="您的短信已送达。"/>
+	
+	<translation from="Duration" to="通话时长"/>
+	<translation from="Conference" to="会议通话"/>
+	
+<!-- Attach messag -->
+	<translation from="attach_refused" to="用户拒绝访问 Skype 客户端。"/>
+	<translation from="attach_not_available" to="无法附加。"/>
+
+<!-- Contact tooltip -->	
+	
+	<translation from="NICKNAME" to="昵称"/>
+	<translation from="FULLNAME" to="全名"/>
+	<translation from="COUNTRY" to="国家/地区"/>
+	<translation from="PROVINCE" to="省份"/>
+	<translation from="CITY" to="城市"/>
+	<translation from="PHONE_HOME" to="家庭电话"/>
+	<translation from="PHONE_OFFICE" to="办公电话"/>
+	<translation from="PHONE_MOBILE" to="手机号码"/>
+	<translation from="GENDER" to="性别"/>
+	<translation from="MALE" to="男"/>
+	<translation from="FEMALE" to="女"/>
+	<translation from="LANGUAGE" to="语言"/>
+	<translation from="HOMEPAGE" to="主页"/>
+	<translation from="STATUS" to="状态"/>
+	<translation from="OFFLINE" to="离线"/>
+	<translation from="ONLINE" to="在线"/>
+	<translation from="SKYPEME" to="Skype 联系我"/>
+	<translation from="AWAY" to="离开"/>
+	<translation from="NA" to="暂不可用"/>
+	<translation from="DND" to="请勿打扰"/>
+	<translation from="INVISIBLE" to="隐身"/>
+	
+<!-- USER OBJECT FAILUREREASON -->
+
+	<translation from="MISC_ERROR" to="未能提供有效的错误信息"/>
+	<translation from="SERVER_CONNECT_FAILED" to="无法连接到短信服务器"/>
+	<translation from="NO_SMS_CAPABILITY" to="接收方无法接收短信"/>
+	<translation from="INSUFFICIENT_FUNDS" to="Skype 余额不足，无法发送短信"/>
+	<translation from="INVALID_CONFIRMATION_CODE" to="提交的验证码错误"/>
+	<translation from="USER_BLOCKED" to="用户已被服务器封禁"/>
+	<translation from="IP_BLOCKED" to="用户 IP 已被服务器封禁"/>
+	<translation from="NODE_BLOCKED" to="用户的 P2P 网络节点已被服务器封禁"/>
+	<translation from="FAILUREREASON_UNKNOWN" to="未知失败原因"/>
+	<translation from="NO_SENDERID_CAPABILITY" to="未知失败原因"/>
+	<translation from="TARGET_NOT_ROUTABLE" to="目标不可路由"/>
+	
+<!-- CALL OBJECT FAILUREREASON -->
+
+	<translation from="CALL_FAILURE_REASON_1" to="其他错误。"/>
+	<translation from="CALL_FAILURE_REASON_2" to="用户或电话号码不存在。"/>
+	<translation from="CALL_FAILURE_REASON_3" to="%contact% 处于离线状态。"/>
+	<translation from="CALL_FAILURE_REASON_4" to="未找到代理服务器。"/>
+	<translation from="CALL_FAILURE_REASON_5" to="会话已终止。"/>
+	<translation from="CALL_FAILURE_REASON_6" to="未找到通用编解码器。"/>
+	<translation from="CALL_FAILURE_REASON_7" to="音频输入/输出错误。"/>
+	<translation from="CALL_FAILURE_REASON_8" to="对方音频设备异常。"/>
+	<translation from="CALL_FAILURE_REASON_9" to="通话被 %contact% 阻止。"/>
+	<translation from="CALL_FAILURE_REASON_10" to="%contact% 不是好友。"/>
+	<translation from="CALL_FAILURE_REASON_11" to="%contact% 未授权 %username%。"/>
+	<translation from="CALL_FAILURE_REASON_12" to="录音错误。"/>
+	
+<!-- CALL OBJECT STATUSES' DESCRIPTION -->
+
+	<translation from="CALL_STATUS_RINGING_INCOMING" to="%contact% 正在呼叫..."/>
+	<translation from="CALL_STATUS_RINGING" to="%username% 正在呼叫..."/>
+	<translation from="CALL_STATUS_FINISHED" to="通话已结束。"/>
+	<translation from="CALL_STATUS_REFUSED" to="%contact% 已拒绝通话。"/>
+	<translation from="CALL_STATUS_CANCELLED" to="通话已取消。"/>
+	<translation from="CALL_STATUS_MISSED" to="未接来电。"/>
+	<translation from="CALL_STATUS_BUSY" to="%contact% 正忙。"/>
+	<translation from="CALL_STATUS_FAILED" to="通话失败"/>
+	<translation from="CALL_STATUS_INPROGRESS" to="通话已建立。"/>
+	<translation from="CALL_STATUS_REFUSED_BY_ME" to="%username% 已拒绝通话。"/>
+	
+<!-- 系统托盘通话提示 -->
+	<translation from="callRequestingSkypeCall" to="&lt;b&gt;%contact%&lt;/b&gt; (%medium%) 正在请求 Skype 通话..."/>
+
+<!-- Account creating -->
+	
+	<translation from="prefsConnectionInvitation" to="在下方输入用户名并点击连接"/>
+	<translation from="prefsConnectionAutoConnect" to="启动时自动连接此账户"/>
+	<translation from="prefsConnectionUsername" to="用户名"/>
+	<translation from="prefsConnectionPassword" to="密码"/>
+	
+<!-- Account preferences -->
+
+	<translation from="prefsMiscellaneousAdvanced" to="高级"/>
+	<translation from="prefsMiscellaneousHideConnectionOfInactiveAccount" to="当此账户未激活时，从联系人列表中隐藏其连接图标"/>
+	
+<!-- menu -->
+	<translation from="menuConnectionDisconnect" to="断开连接"/>
+	<translation from="menuConnectionReconnect" to="重新连接"/>
+	<translation from="menuConnectionSetSilentMode" to="启用 Skype 静默模式"/>
+	<translation from="menuConnectionCancelSilentMode" to="禁用 Skype 静默模式"/>
+	<translation from="menuContactCall" to="呼叫"/>
+	<translation from="menuContactCallFinish" to="结束通话"/>
+	<translation from="menuContactVideoCallStart" to="视频通话"/>
+	<translation from="menuContactVideoCallFinish" to="关闭视频"/>
+	<translation from="menuContactChat" to="发送消息..."/>
+	<translation from="menuContactSendSMSTo" to="发送短信至"/>
+	<translation from="menuContactSendSMSToPhoneHome" to="家庭电话"/>
+	<translation from="menuContactSendSMSToPhoneMobile" to="手机"/>
+	<translation from="menuContactSendSMSToPhoneOffice" to="办公电话"/>
+	<translation from="menuContactViewContactInformation" to="查看用户信息"/>
+	<translation from="menuConnectionSetStatus" to="设置状态"/>
+	<translation from="menuContactAppendToChat" to="邀请加入对话..."/>
+		
+<!-- Connection Settings -->
+	
+	
+<!-- Miscellaneous -->
+	<translation from="from" to="来自"/>
+	
+	<translation from="infoAccountRemoveDialogText" to="确定要移除此账户吗？"/>
+	<translation from="infoAccountRemoveDialogCaption" to="Trillian"/>
+	
+</language>

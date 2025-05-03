@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)">
+  <translation from=" %version% by %company%" to="%version% by %company%"/>
+  <translation from=" Special message for you: " to="给你的特别消息: "/>
+  <translation from=" via %medium%" to="通过 %medium%"/>
+  <translation from="%N - Viewer&apos;s display name (if possible)" to="%N - 查看者的显示名称（如有可能）"/>
+  <translation from="%age% %year_word% old" to="%age% %year_word% 岁"/>
+  <translation from="%d - Viewer&apos;s date" to="%d - 查看者的日期"/>
+  <translation from="%group% (%count%)" to="%group% (%count%)"/>
+  <translation from="%major%.%minor% by %company%" to="%major%.%minor% 由 %company%"/>
+  <translation from="%name% via %medium%" to="%name% 通过 %medium%"/>
+  <translation from="%n - Viewer&apos;s name" to="%n - 查看者的名称"/>
+  <translation from="%num% %message_word%" to="%num% %message_word%"/>
+  <translation from="%num% users on network" to="网络上有%num%名用户"/>
+  <translation from="%num% users online" to="%num% 用户在线"/>
+  <translation from="%num_minutes% %minute_word%" to="%num_minutes% %minute_word%"/>
+  <translation from="%num_minutes% %minute_word%, %num_seconds% %second_word%" to="%num_minutes% %minute_word%，%num_seconds% %second_word%"/>
+  <translation from="%num_seconds% %second_word%" to="%num_seconds% %second_word%"/>
+  <translation from="%status% since %time%" to="%status% 自 %time%"/>
+  <translation from="%t - Viewer&apos;s time" to="%t - 查看者的时间"/>
+  <translation from="%width% by %height%" to="%width% × %height%"/>
+  <translation from="&amp;Always On Top" to="&amp;置顶"/>
+  <translation from="&amp;Help" to="&amp;帮助"/>
+  <translation from="&amp;Help..." to="&amp;帮助..."/>
+  <translation from="&amp;Options" to="&amp;选项"/>
+  <translation from="&amp;Preferences" to="&amp;首选项"/>
+  <translation from="&amp;Switch User" to="&amp;切换用户"/>
+  <translation from="&amp;Variables" to="&amp;变量"/>
+  <translation from="&amp;Views" to="&amp;视图"/>
+  <translation from="&amp;Window" to="&amp;窗口"/>
+  <translation from="...and a lot more!" to="...还有更多！"/>
+  <translation from="(Audio Only = %audio_bps%%audio_unit%; Audio/Video = %video_bps%%video_unit%)" to="（仅音频 = %audio_bps%%audio_unit%；音视频 = %video_bps%%video_unit%）"/>
+  <translation from="(currently off)" to="（当前关闭）"/>
+  <translation from="13-18" to="13-18"/>
+  <translation from="19-25" to="19-25"/>
+  <translation from="26-30" to="26-30"/>
+  <translation from="31-40" to="31-40"/>
+  <translation from="&lt;b&gt;Sign in&lt;/b&gt; to an existing account" to="&lt;b&gt;登录&lt;/b&gt;到现有帐户"/>
+  <translation from="&lt;b&gt;Register&lt;/b&gt; for a new account" to="&lt;b&gt;注册&lt;/b&gt;新帐户"/>
+  <translation from="&lt;b&gt;%account%&lt;/b&gt; via %medium%" to="&lt;b&gt;%account%&lt;/b&gt; 通过 %medium%"/>
+  <translation from="&lt;b&gt;%name%&lt;/b&gt; says:" to="&lt;b&gt;%name%&lt;/b&gt; 说: "/>
+  <translation from="&lt;b&gt;%name% (%chat%)&lt;/b&gt; says:" to="&lt;b&gt;%name% (%chat%)&lt;/b&gt; 说: "/>
+  <translation from="&lt;b&gt;No&lt;/b&gt;, I am a new customer" to="&lt;b&gt;否&lt;/b&gt;,我是新用户"/>
+  <translation from="&lt;b&gt;No&lt;/b&gt;, thanks. (You can always do this later)" to="&lt;b&gt;不&lt;/b&gt;, 谢谢。（您稍后仍可操作）"/>
+  <translation from="&lt;b&gt;No&lt;/b&gt;, thanks. I will start fresh." to="&lt;b&gt;不&lt;/b&gt;,谢谢。我将重新开始。"/>
+  <translation from="&lt;b&gt;Trillian Pro&lt;/b&gt; email:" to="&lt;b&gt;Trillian Pro&lt;/b&gt; 邮箱："/>
+  <translation from="&lt;b&gt;Trillian Pro&lt;/b&gt; password:" to="&lt;b&gt;Trillian Pro&lt;/b&gt; 密码："/>
+  <translation from="&lt;b&gt;Yes&lt;/b&gt;, I am an existing Trillian Pro customer" to="&lt;b&gt;是&lt;/b&gt;, 我是现有 Trillian Pro 用户"/>
+  <translation from="&lt;b&gt;Yes&lt;/b&gt;, and from this Trillian User:" to="&lt;b&gt;是&lt;/b&gt;,且来自此 Trillian 用户："/>
+  <translation from="&lt;b&gt;Yes&lt;/b&gt;, include these connections in my &lt;b&gt;public&lt;/b&gt; AstraContact." to="&lt;b&gt;是&lt;/b&gt;, 将这些连接包含在我的&lt;b&gt;公开&lt;/b&gt; AstraContact中。"/>
+  <translation from="&lt;u&gt;Connection Settings&lt;/u&gt;" to="&lt;u&gt;连接设置&lt;/u&gt;"/>
+  <translation from="A Trillian update is now available.  Click here for more information." to="Trillian 更新现已可用。点击此处获取更多信息。"/>
+  <translation from="A confirmation code was sent to your email to verify this account." to="确认码已发送至您的邮箱以验证此帐户。"/>
+  <translation from="A new version of Trillian is now available for download.  This is an optional update." to="新版 Trillian 可供下载。此为可选更新。"/>
+  <translation from="A new version of Trillian is now available.  This is a required update; if you do not wish to update now, the update will be installed the next time you sign in." to="新版 Trillian 现已可用。此为强制更新；若您不想立即更新，下次登录时将自动安装。"/>
+  <translation from="A token is required to create an account at this time." to="当前创建帐户需提供令牌。"/>
+  <translation from="AIM" to="AIM"/>
+  <translation from="AIM Screen Name" to="AIM显示名称"/>
+  <translation from="AM" to="上午"/>
+  <translation from="AOL Instant Messenger(SM)" to="AOL Instant Messenger(SM)"/>
+  <translation from="About" to="关于"/>
+  <translation from="About Trillian" to="关于 Trillian"/>
+  <translation from="Accepting" to="接受中"/>
+  <translation from="Access and Position" to="访问与位置"/>
+  <translation from="Activity History" to="活动历史"/>
+  <translation from="Add a new connection..." to="添加新连接..."/>
+  <translation from="Advanced" to="高级"/>
+  <translation from="Advanced Preferences" to="高级首选项"/>
+  <translation from="Age" to="年龄"/>
+  <translation from="Age Group:" to="年龄组："/>
+  <translation from="Airplane" to="飞机"/>
+  <translation from="All downloads complete, press next to install." to="所有下载已完成，按下一步以安装。"/>
+  <translation from="Allow &amp; Block List" to="允许与阻止列表"/>
+  <translation from="Allow List" to="允许列表"/>
+  <translation from="Amount of time to save for Instant Playback:" to="即时回放保存时长："/>
+  <translation from="An AstraContact allows you to expose your accounts and statuses to others.  Do you want to include the connections you set up today in your AstraContact?" to="AstraContact 允许您向他人公开您的帐户和状态。您希望将今天设置的连接包含在您的 AstraContact 中吗？"/>
+  <translation from="An email address is used to send information regarding your account.  We do not share this email address." to="邮箱地址用于发送帐户相关信息。我们不会共享此邮箱地址。"/>
+  <translation from="An old version of Trillian was found on this computer.  Do you want to copy its contacts and settings over to this new Trillian Astra Account?" to="检测到此计算机上有旧版 Trillian。您希望将其联系人和设置复制到新的 Trillian Astra 帐户吗？"/>
+  <translation from="April" to="四月"/>
+  <translation from="Are you sure you wish to exit the new account wizard?  Your account is not fully set up." to="确定要退出新帐户向导？您的帐户尚未完全设置。"/>
+  <translation from="Are you sure you wish to remove %account%?" to="确定要移除 %account% 吗？"/>
+  <translation from="Astra (Required)" to="Astra（必需）"/>
+  <translation from="Astra Account" to="Astra 帐户"/>
+  <translation from="Astra Profile" to="Astra 个人资料"/>
+  <translation from="Astronaut" to="宇航员"/>
+  <translation from="August" to="八月"/>
+  <translation from="Automatic Status Changes" to="自动状态更改"/>
+  <translation from="Automatically connect to all accounts" to="自动连接所有帐户"/>
+  <translation from="Automatically connect to this account at startup" to="启动时自动连接此帐户"/>
+  <translation from="Automatically log in to this account on startup" to="启动时自动登录此帐户"/>
+  <translation from="Automatically log into this account at start up" to="启动时自动登录此帐户"/>
+  <translation from="Automation" to="自动化"/>
+  <translation from="Automation..." to="自动化..."/>
+  <translation from="Away" to="离开"/>
+  <translation from="Away Messages: " to="离开消息: "/>
+  <translation from="Away Mode" to="离开模式"/>
+  <translation from="B" to="B"/>
+  <translation from="Back" to="返回"/>
+  <translation from="Back to List" to="返回至列表"/>
+  <translation from="Bad Account.  Please re-enter" to="无效帐户。请重新输入。"/>
+  <translation from="Bad Password.  Please re-enter" to="密码错误。请重新输入。"/>
+  <translation from="Ball" to="球"/>
+  <translation from="Basic Choices" to="基本选项"/>
+  <translation from="Basic Information" to="基本信息"/>
+  <translation from="Basics" to="基础"/>
+  <translation from="Beach" to="海滩"/>
+  <translation from="Before you can use your account, you must provide the confirmation code that was sent to &lt;b&gt;%email%&lt;/b&gt;." to="使用帐户前，您需提供发送至 &lt;b&gt;%email%&lt;/b&gt; 的确认码。"/>
+  <translation from="Full Experience" to="完整体验"/>
+  <translation from="Bi" to="双性恋"/>
+  <translation from="Biography" to="个人简介"/>
+  <translation from="Block List" to="阻止列表"/>
+  <translation from="Bold" to="粗体"/>
+  <translation from="Broadcast Quality" to="广播质量"/>
+  <translation from="Browse for more pictures" to="浏览更多图片"/>
+  <translation from="Bubbles" to="气泡"/>
+  <translation from="Butterfly" to="蝴蝶"/>
+  <translation from="Cancel" to="取消"/>
+  <translation from="Cancelling..." to="取消中..."/>
+  <translation from="Car" to="汽车"/>
+  <translation from="Cat" to="猫"/>
+  <translation from="Change My Icon..." to="更改我的图标..."/>
+  <translation from="Change View" to="切换视图"/>
+  <translation from="Change Your Email" to="更改您的邮箱"/>
+  <translation from="Change Your Password" to="更改密码"/>
+  <translation from="Change to full mode" to="切换到完整模式"/>
+  <translation from="Change to icon mode" to="切换到图标模式"/>
+  <translation from="Change..." to="更改..."/>
+  <translation from="Change Email..." to="更改邮箱..."/>
+  <translation from="Chapters and Timestamps" to="章节与时间戳"/>
+  <translation from="Chat" to="聊天"/>
+  <translation from="Chat Activities" to="聊天活动"/>
+  <translation from="Chat Room Windows" to="聊天室窗口"/>
+  <translation from="Chat Views" to="聊天视图"/>
+  <translation from="Chess" to="国际象棋"/>
+  <translation from="Choose Activity History Directory" to="选择活动历史目录"/>
+  <translation from="Choose Features" to="选择功能"/>
+  <translation from="Choose File Transfer Directory" to="选择文件传输目录"/>
+  <translation from="Choose Time Travel File Directory" to="选择时光旅行文件目录"/>
+  <translation from="Choose a &lt;b&gt;security question&lt;/b&gt;:&#13;&#10;(or write your own)" to="选择一个&lt;b&gt;安全问题&lt;/b&gt;:&#13;&#10;(或自定义)"/>
+  <translation from="Choose a &lt;b&gt;new security question&lt;/b&gt;:&#13;&#10;(or write your own)" to="选择一个&lt;b&gt;新的安全问题&lt;/b&gt;:&#13;&#10;(或自定义)"/>
+  <translation from="Choose a style" to="选择样式"/>
+  <translation from="Choose the features to be enabled by checking the items below.  You can always enable them later in Plugin Preferences." to="勾选以下项目以启用功能。您稍后可在插件首选项中启用它们。"/>
+  <translation from="Choose the updates to be installed by checking the items below." to="勾选以下项目以选择要安装的更新。"/>
+  <translation from="Choose your icon" to="选择您的图标"/>
+  <translation from="Choose your Language" to="选择语言"/>
+  <translation from="Express your mood to your friends with the mood widget!  How are you feeling right now?  You can change your mood anytime in the Profile Editor.  This information will appear on your public Astra Profile." to="通过心情小部件向朋友表达心情！您现在感觉如何？您可随时在个人资料编辑器中更改心情。此信息将显示在您的公开 Astra 个人资料中。"/>
+  <translation from="City" to="城市"/>
+  <translation from="Click here for more information about this update." to="点击此处获取此更新详情。"/>
+  <translation from="Click to enable." to="点击启用"/>
+  <translation from="Close" to="关闭"/>
+  <translation from="Compact" to="紧凑"/>
+  <translation from="Compatible" to="兼容"/>
+  <translation from="Configure IM and Web Services" to="配置即时通讯与网络服务"/>
+  <translation from="Configure new IM and Web Services" to="配置新的即时通讯与网络服务"/>
+  <translation from="Confirm Password" to="确认密码"/>
+  <translation from="Confirm Password:" to="确认密码: "/>
+  <translation from="Confirmation Code" to="确认码"/>
+  <translation from="Confirmation code needed." to="需要确认码。"/>
+  <translation from="Connect" to="连接"/>
+  <translation from="Connect All" to="连接全部"/>
+  <translation from="Connected since %time%" to="自 %time% 起已连接"/>
+  <translation from="Connection" to="连接"/>
+  <translation from="Connection Manager" to="连接管理器"/>
+  <translation from="Connection Settings" to="连接设置"/>
+  <translation from="Connection Settings for %account%" to="%account% 的连接设置"/>
+  <translation from="Connection Windows" to="连接窗口"/>
+  <translation from="Connection: Global Disconnect" to="连接：全局断开"/>
+  <translation from="Connection: Global Reconnect" to="连接：全局重连"/>
+  <translation from="Connections" to="连接"/>
+  <translation from="Connections for &apos;%identity%&apos; Identity (%num%)" to="身份 &apos;%identity%&apos; 的连接（%num%）"/>
+  <translation from="Contact List" to="联系人列表"/>
+  <translation from="Your Contact List is complete!" to="您的联系人列表已完成！"/>
+  <translation from="Contact Windows" to="联系人窗口"/>
+  <translation from="Contains %num% %connection_word%" to="包含 %num% %connection_word%"/>
+  <translation from="Country" to="国家"/>
+  <translation from="Country:" to="国家: "/>
+  <translation from="Create a &lt;b&gt;password&lt;/b&gt;:" to="创建&lt;b&gt;密码&lt;/b&gt;: "/>
+  <translation from="Create a new identity..." to="创建新身份..."/>
+  <translation from="Create a new password:" to="创建新密码: "/>
+  <translation from="Create a secure password" to="创建安全密码"/>
+  <translation from="Credits" to="致谢"/>
+  <translation from="Crop and resize your photo" to="裁剪并调整照片尺寸"/>
+  <translation from="Current" to="当前"/>
+  <translation from="Current (%section%)" to="当前（%section%）"/>
+  <translation from="Current (Primary)" to="当前（主身份）"/>
+  <translation from="Current Device" to="当前设备"/>
+  <translation from="Custom" to="自定义"/>
+  <translation from="Custom Conference Windows" to="自定义会议窗口"/>
+  <translation from="Custom Contact Lists" to="自定义联系人列表"/>
+  <translation from="Custom Container Windows" to="自定义容器窗口"/>
+  <translation from="Custom File Transfer Windows" to="自定义文件传输窗口"/>
+  <translation from="Custom Message Windows" to="自定义消息窗口"/>
+  <translation from="Custom Notifications" to="自定义通知"/>
+  <translation from="Custom Status Windows" to="自定义状态窗口"/>
+  <translation from="Custom Windows" to="自定义窗口"/>
+  <translation from="Custom..." to="自定义..."/>
+  <translation from="Date of Birth" to="出生日期"/>
+  <translation from="December" to="十二月"/>
+  <translation from="Decrease Font Size" to="减小字体大小"/>
+  <translation from="Default" to="默认"/>
+  <translation from="Default Appearance and Placement" to="默认外观与位置"/>
+  <translation from="Default Messages" to="默认消息"/>
+  <translation from="Default Profile" to="默认个人资料"/>
+  <translation from="Desktop" to="桌面"/>
+  <translation from="Devices" to="设备"/>
+  <translation from="Did you know?" to="你知道吗？"/>
+  <translation from="Dirt Bike" to="越野摩托车"/>
+  <translation from="Disconnect" to="断开连接"/>
+  <translation from="Disconnect All" to="全部断开"/>
+  <translation from="Dismiss" to="忽略"/>
+  <translation from="Divorced" to="离异"/>
+  <translation from="Do Nothing" to="不执行任何操作"/>
+  <translation from="Do not import my settings" to="不导入我的设置"/>
+  <translation from="Do you use more than one service?  Check the services below that you would like to enable within Trillian Astra." to="您使用多个服务吗？勾选以下希望在 Trillian Astra 中启用的服务。"/>
+  <translation from="Dog" to="狗"/>
+  <translation from="Done" to="完成"/>
+  <translation from="Downloading Update (%percent%%%)..." to="正在下载更新（%percent%%%）..."/>
+  <translation from="Downloading Update..." to="正在下载更新..."/>
+  <translation from="Downloading..." to="下载中..."/>
+  <translation from="Drag the photo to crop and resize within the square" to="拖动照片以在方框内裁剪和调整尺寸"/>
+  <translation from="Drip" to="水滴"/>
+  <translation from="Duck" to="鸭子"/>
+  <translation from="Duration: %minutes%:%seconds% minutes" to="时长: %minutes%:%seconds% 分钟"/>
+  <translation from="Duration: %seconds% seconds" to="时长: %seconds% 秒"/>
+  <translation from="E&amp;xit" to="退出(&amp;X)"/>
+  <translation from="Edit Profile..." to="编辑个人资料..."/>
+  <translation from="Edit My Profile..." to="编辑我的个人资料..."/>
+  <translation from="Edit Shared Trillian Settings..." to="编辑共享 Trillian 设置..."/>
+  <translation from="Edit basic account behavior and configure your proxy settings." to="编辑基本帐户行为并配置代理设置。"/>
+  <translation from="Email:" to="电子邮件:"/>
+  <translation from="Emotiblips" to="表情片段"/>
+  <translation from="Emoticons" to="表情符号"/>
+  <translation from="Emoticons and Sounds" to="表情符号与声音"/>
+  <translation from="Enter Astra Username here" to="在此输入 Astra 用户名"/>
+  <translation from="Enter URL Here (http://www.example.com/feed.rss)" to="在此输入 URL（http://www.example.com/feed.rss）"/>
+  <translation from="Enter Astra Password here" to="在此输入 Astra 密码"/>
+  <translation from="Enter the &lt;b&gt;password again&lt;/b&gt;:" to="再次输入&lt;b&gt;密码&lt;/b&gt;: "/>
+  <translation from="Enter the new email address:" to="输入新邮箱地址:"/>
+  <translation from="Enter the new password again:" to="再次输入新密码:"/>
+  <translation from="Enter your &lt;b&gt;answer&lt;/b&gt;:&#13;&#10;(case sensitive)" to="输入您的&lt;b&gt;答案&lt;/b&gt;: &#13;&#10;（区分大小写）"/>
+  <translation from="Enter your &lt;b&gt;confirmation code&lt;/b&gt;:" to="输入您的&lt;b&gt;确认码&lt;/b&gt;: "/>
+  <translation from="Enter your &lt;b&gt;email again&lt;/b&gt;:" to="再次输入您的&lt;b&gt;邮箱&lt;/b&gt;: "/>
+  <translation from="Enter your &lt;b&gt;email&lt;/b&gt;:" to="输入您的&lt;b&gt;邮箱&lt;/b&gt;: "/>
+  <translation from="Enter your city or U.S. zip code" to="输入您的城市或美国邮编"/>
+  <translation from="Enter your old password:" to="输入旧密码: "/>
+  <translation from="Error" to="错误"/>
+  <translation from="Error during download." to="下载期间发生错误。"/>
+  <translation from="Error during submission (%code%)." to="提交时出错(%code%)。"/>
+  <translation from="Error loading verification image." to="加载验证图像失败。"/>
+  <translation from="Error retrieving list." to="检索列表失败。"/>
+  <translation from="Error while connecting.  Please check your account name and connection, then try again." to="连接时出错。请检查帐户名称和连接，然后重试。"/>
+  <translation from="Error, cleaning up..." to="错误，正在清理..."/>
+  <translation from="Everyone" to="所有人"/>
+  <translation from="Export vCard" to="导出 vCard"/>
+  <translation from="February" to="二月"/>
+  <translation from="Female" to="女性"/>
+  <translation from="File Transfers" to="文件传输"/>
+  <translation from="First Name" to="名字"/>
+  <translation from="First Name:" to="名字:"/>
+  <translation from="Fish" to="鱼"/>
+  <translation from="Follow Internet Explorer&apos;s Proxy Settings" to="跟随 Internet Explorer 的代理设置"/>
+  <translation from="Follow Windows" to="跟随 Windows"/>
+  <translation from="Font Style" to="字体样式"/>
+  <translation from="Format:" to="格式:"/>
+  <translation from="Forward" to="转发"/>
+  <translation from="Friday" to="星期五"/>
+  <translation from="Friend" to="朋友"/>
+  <translation from="Frog" to="青蛙"/>
+  <translation from="From friend to %name%" to="来自朋友至 %name%"/>
+  <translation from="GB" to="GB"/>
+  <translation from="Gay" to="同性恋"/>
+  <translation from="Gender" to="性别"/>
+  <translation from="Gender:" to="性别:"/>
+  <translation from="Generating Public Key..." to="正在生成公钥..."/>
+  <translation from="Get Trillian Pro now!" to="立即获取Trillian Pro!"/>
+  <translation from="Get a new challenge" to="获取新挑战"/>
+  <translation from="Get an audio challenge" to="获取音频挑战"/>
+  <translation from="Get more icons from the Trillian web site" to="从 Trillian 网站获取更多图标"/>
+  <translation from="Goldfish" to="金鱼"/>
+  <translation from="Group Chat Windows together automatically:" to="自动将聊天窗口分组:"/>
+  <translation from="Guitar" to="吉他"/>
+  <translation from="H&amp;ome" to="主页(&amp;O)"/>
+  <translation from="HTTP" to="HTTP"/>
+  <translation from="HTTPS" to="HTTPS"/>
+  <translation from="Halloween" to="万圣节"/>
+  <translation from="Hardware Sources" to="硬件来源"/>
+  <translation from="Haven&apos;t received the code yet?  Try the following:" to="仍未收到代码？请尝试以下操作:"/>
+  <translation from="Help" to="帮助"/>
+  <translation from="Hide" to="隐藏"/>
+  <translation from="High" to="高"/>
+  <translation from="Holidays" to="假日"/>
+  <translation from="Home" to="主页"/>
+  <translation from="Home town" to="家乡"/>
+  <translation from="Hometown" to="家乡"/>
+  <translation from="Horses" to="马"/>
+  <translation from="How do you connect to the Internet?" to="您如何连接到互联网？"/>
+  <translation from="I am &lt;b&gt;over the age of 13&lt;/b&gt; and agree to the &lt;u&gt;Terms of Service&lt;/u&gt;." to="我已&lt;b&gt;年满13周岁&lt;/b&gt;并同意&lt;u&gt;服务条款&lt;/u&gt;."/>
+  <translation from="I have previously purchased &lt;b&gt;Trillian Pro&lt;/b&gt;." to="我曾购买过 &lt;b&gt;Trillian Pro&lt;/b&gt;。"/>
+  <translation from="I don&apos;t know" to="我不知道"/>
+  <translation from="I would like to be notified via email of Trillian updates" to="我希望通过邮箱接收 Trillian 更新通知"/>
+  <translation from="ICQ" to="ICQ"/>
+  <translation from="ICQ UIN" to="ICQ UIN"/>
+  <translation from="Identities &amp; Connections" to="身份与连接"/>
+  <translation from="If you are an existing Trillian Pro customer and wish to link your Trillian Astra account to your Trillian Pro account, fill out the information below." to="若您是现有 Trillian Pro 客户并希望将 Trillian Astra 帐户关联至 Trillian Pro 帐户，请填写以下信息。"/>
+  <translation from="If you go back now the account you are registering may no longer be available.  Are you sure you wish to go back?" to="若现在返回，您正在注册的帐户可能不再可用。确定要返回吗？"/>
+  <translation from="Ignore List" to="忽略列表"/>
+  <translation from="Image" to="图像"/>
+  <translation from="Import vCard" to="导入 vCard"/>
+  <translation from="In a Relationship" to="恋爱中"/>
+  <translation from="In a relationship" to="恋爱中"/>
+  <translation from="Increase Font Size" to="增大字体大小"/>
+  <translation from="Information" to="信息"/>
+  <translation from="Initializing Cryptography Engine..." to="正在初始化加密引擎..."/>
+  <translation from="Initializing Directories..." to="正在初始化目录..."/>
+  <translation from="Initializing User Interface..." to="正在初始化用户界面..."/>
+  <translation from="Insert" to="插入"/>
+  <translation from="Insert URL" to="插入 URL"/>
+  <translation from="Installation &amp; Startup" to="安装与启动"/>
+  <translation from="Instant Lookup" to="即时查找"/>
+  <translation from="Instant Playback" to="即时回放"/>
+  <translation from="Interface" to="界面"/>
+  <translation from="Invisible" to="隐身"/>
+  <translation from="Italics" to="斜体"/>
+  <translation from="Jabber" to="Jabber"/>
+  <translation from="Jabber ID" to="Jabber ID"/>
+  <translation from="January" to="一月"/>
+  <translation from="July" to="七月"/>
+  <translation from="June" to="六月"/>
+  <translation from="Just Me" to="仅我"/>
+  <translation from="KB" to="KB"/>
+  <translation from="Kick" to="踢出"/>
+  <translation from="Knowledge Bar" to="知识栏"/>
+  <translation from="Language" to="语言"/>
+  <translation from="Large" to="大"/>
+  <translation from="Large Icon" to="大图标"/>
+  <translation from="Large List" to="大列表"/>
+  <translation from="Last Name" to="姓氏"/>
+  <translation from="Last Name:" to="姓氏："/>
+  <translation from="Last connected on %time%" to="最后连接于 %time%"/>
+  <translation from="Leaf" to="叶子"/>
+  <translation from="Lesbian" to="女同性恋"/>
+  <translation from="License" to="许可证"/>
+  <translation from="Licensing" to="许可"/>
+  <translation from="Lift-Off" to="升空"/>
+  <translation from="List Behavior" to="列表行为"/>
+  <translation from="Load a photo..." to="加载照片..."/>
+  <translation from="Loading" to="加载中"/>
+  <translation from="Loading Profile..." to="正在加载个人资料..."/>
+  <translation from="Loading verification image..." to="正在加载验证图像..."/>
+  <translation from="Loading..." to="加载中..."/>
+  <translation from="Low" to="低"/>
+  <translation from="MB" to="MB"/>
+  <translation from="MSN" to="MSN"/>
+  <translation from="MSN Messenger" to="MSN Messenger"/>
+  <translation from="MSN Passport" to="MSN Passport"/>
+  <translation from="Magazine" to="杂志"/>
+  <translation from="Mail Account on %medium%" to="%medium% 上的邮件帐户"/>
+  <translation from="Main Group" to="主群组"/>
+  <translation from="Male" to="男性"/>
+  <translation from="Manage &amp;Connections..." to="管理连接(&amp;C)..."/>
+  <translation from="March" to="三月"/>
+  <translation from="Marital Status" to="婚姻状况"/>
+  <translation from="Married" to="已婚"/>
+  <translation from="May" to="五月"/>
+  <translation from="Medium" to="中"/>
+  <translation from="Membership" to="会员资格"/>
+  <translation from="Membership Information" to="会员信息"/>
+  <translation from="Message Display" to="消息显示"/>
+  <translation from="Message Windows" to="消息窗口"/>
+  <translation from="Migration" to="迁移"/>
+  <translation from="Migration from an Old Version" to="从旧版迁移"/>
+  <translation from="Miscellaneous" to="杂项"/>
+  <translation from="Miscellaneous Options" to="杂项选项"/>
+  <translation from="Monday" to="周一"/>
+  <translation from="Month" to="月份"/>
+  <translation from="Mood" to="心情"/>
+  <translation from="Mood Widget" to="心情小部件"/>
+  <translation from="More information is needed" to="需要更多信息"/>
+  <translation from="More..." to="更多..."/>
+  <translation from="Move to" to="移至"/>
+  <translation from="Music" to="音乐"/>
+  <translation from="My Account Settings" to="我的帐户设置"/>
+  <translation from="My Astra Account" to="我的 Astra 帐户"/>
+  <translation from="My Astra Profile" to="我的 Astra 个人资料"/>
+  <translation from="My AstraContact" to="我的Astra联系人"/>
+  <translation from="My Contacts" to="我的联系人"/>
+  <translation from="My Icon" to="我的图标"/>
+  <translation from="My Identity Information" to="我的身份信息"/>
+  <translation from="My Mail" to="我的邮件"/>
+  <translation from="My Trillian Astra Account" to="我的 Trillian Astra 帐户"/>
+  <translation from="My Widgets" to="我的小部件"/>
+  <translation from="Myspace IM" to="Myspace IM"/>
+  <translation from="Myspace Username" to="Myspace 用户名"/>
+  <translation from="MyspaceIM" to="MyspaceIM"/>
+  <translation from="Name" to="名称"/>
+  <translation from="Never connected to this account" to="从未连接到此帐户"/>
+  <translation from="New Account" to="新帐户"/>
+  <translation from="New Group..." to="新建群组..."/>
+  <translation from="New RSS Feed" to="新建 RSS 订阅"/>
+  <translation from="New Software Available" to="有新软件可用"/>
+  <translation from="New Wall" to="新建留言墙"/>
+  <translation from="New computer detected" to="检测到新计算机"/>
+  <translation from="Next" to="下一步"/>
+  <translation from="Nickname" to="昵称"/>
+  <translation from="No" to="否"/>
+  <translation from="No, do not move my settings&#13;&#10;Trillian will be unable to log into this account" to="否，不移动我的设置&#13;&#10;Trillian 将无法登录此帐户"/>
+  <translation from="No, do not move my settings&#13;&#10;Trillian will be unable to import settings from the chosen profile" to="否，不移动我的设置&#13;&#10;Trillian 将无法导入所选配置文件的设置"/>
+  <translation from="No Accounts Found" to="未找到帐户"/>
+  <translation from="No Emotiblips found." to="未找到表情片段。"/>
+  <translation from="No Other Services Found" to="未找到其他服务"/>
+  <translation from="No Proxy Server" to="无代理服务器"/>
+  <translation from="No Status Messages found." to="未找到状态消息。"/>
+  <translation from="No custom windows found." to="未找到自定义窗口。"/>
+  <translation from="No description found." to="未找到描述。"/>
+  <translation from="No new messages" to="无新消息"/>
+  <translation from="No other devices are connected." to="无其他设备连接。"/>
+  <translation from="No other options available." to="无其他可用选项。"/>
+  <translation from="No results found." to="未找到结果。"/>
+  <translation from="No services are currently installed.  Please enable a service in the plugin preferences." to="当前未安装服务。请在插件首选项中启用服务。"/>
+  <translation from="Notice" to="注意"/>
+  <translation from="Notification Sounds" to="通知声音"/>
+  <translation from="Notification Windows" to="通知窗口"/>
+  <translation from="Notifications" to="通知"/>
+  <translation from="Notify me when:" to="在以下情况下通知我:"/>
+  <translation from="November" to="十一月"/>
+  <translation from="OK" to="确定"/>
+  <translation from="October" to="十月"/>
+  <translation from="Offline" to="离线"/>
+  <translation from="Online" to="在线"/>
+  <translation from="Orientation" to="方向"/>
+  <translation from="Other" to="其他"/>
+  <translation from="Other Devices" to="其他设备"/>
+  <translation from="Over 40" to="40 岁以上"/>
+  <translation from="Override my contacts on the server with my local copy" to="用本地副本覆盖服务器上的联系人"/>
+  <translation from="PM" to="下午"/>
+  <translation from="Palm Tree" to="棕榈树"/>
+  <translation from="Password Change Required" to="需要更改密码"/>
+  <translation from="Password Request" to="密码请求"/>
+  <translation from="Password:" to="密码:"/>
+  <translation from="Passwords are case-sensitive; you may use any combination of letters, numbers, and punctuation that you wish.  Passwords can be from 6 to 32 characters in length." to="密码区分大小写；可使用字母、数字和标点的任意组合。密码长度需为6至32个字符。"/>
+  <translation from="Pending" to="待定"/>
+  <translation from="Permissions" to="权限"/>
+  <translation from="Personal Information" to="个人信息"/>
+  <translation from="Pick a task..." to="选择任务..."/>
+  <translation from="Pick an &lt;b&gt;Astra Username&lt;/b&gt;:" to="选择&lt;b&gt;Astra 用户名&lt;/b&gt;："/>
+  <translation from="Pick an &lt;b&gt;Astra Username&lt;/b&gt;:&#13;&#10;(e.g. john.smith, jsmith123)" to="选择&lt;b&gt;Astra 用户名&lt;/b&gt;：&#13;&#10;（例如：john.smith, jsmith123）"/>
+  <translation from="Pink Flower" to="粉色花朵"/>
+  <translation from="Play &amp;Sounds" to="播放声音(&amp;S)"/>
+  <translation from="Playback Time" to="回放时间"/>
+  <translation from="Playscript" to="剧本"/>
+  <translation from="Please check your email for a confirmation code." to="请检查您的邮箱以获取确认码。"/>
+  <translation from="Please choose a question" to="请选择一个问题"/>
+  <translation from="Please confirm your Trillian Astra account with your email address.  Also, please provide us with a security question and answer should you lose your password." to="请用邮箱确认您的 Trillian Astra 帐户。同时，请设置安全问题和答案以防丢失密码。"/>
+  <translation from="Please correct the error below to continue." to="请更正以下错误以继续。"/>
+  <translation from="Please correct the errors below to continue." to="请更正以下错误以继续。"/>
+  <translation from="Please enter your age bracket." to="请输入您的年龄段。"/>
+  <translation from="Please enter your country." to="请输入您的国家。"/>
+  <translation from="Please enter your e-mail address." to="请输入您的邮箱地址。"/>
+  <translation from="Please enter your first name." to="请输入您的名字。"/>
+  <translation from="Please enter your gender." to="请输入您的性别。"/>
+  <translation from="Configure your location with the weather widget so your friends always know what the weather is like right outside your window!  This information will appear on your public Astra Profile." to="通过天气小部件配置您的位置，让朋友随时了解您窗外的天气！此信息将显示在您的公开 Astra 个人资料中。"/>
+  <translation from="Please enter your zipcode." to="请输入您的邮编。"/>
+  <translation from="Please select an icon to use." to="请选择要使用的图标。"/>
+  <translation from="Your unique Trillian Astra Username must be between 6 and 64 characters long.  Letters, numbers, and basic symbols are allowed, and your username must begin with a letter." to="您的唯一 Trillian Astra 用户名长度需为6至64个字符，允许字母、数字和基本符号，且必须以字母开头。"/>
+  <translation from="Please set up your proxy configuration below." to="请在下方配置代理设置。"/>
+  <translation from="Please specify a name to use." to="请指定要使用的名称。"/>
+  <translation from="Please tell us where you heard about Trillian." to="请告诉我们您从何处得知 Trillian。"/>
+  <translation from="Please wait while we communicate with the server." to="正在与服务器通信，请稍候。"/>
+  <translation from="Plugin: Final Unload" to="插件：最终卸载"/>
+  <translation from="Plugin: Initial load" to="插件：初始加载"/>
+  <translation from="Plugin: Load" to="插件：加载"/>
+  <translation from="Plugin: Start" to="插件：启动"/>
+  <translation from="Plugin: Stop" to="插件：停止"/>
+  <translation from="Plugin: Unload" to="插件：卸载"/>
+  <translation from="Plugins" to="插件"/>
+  <translation from="Port:" to="端口:"/>
+  <translation from="Previous User" to="前用户"/>
+  <translation from="Previously Used" to="先前使用"/>
+  <translation from="Primary Identity" to="主身份"/>
+  <translation from="Privacy" to="隐私"/>
+  <translation from="Profile Editor - %name%" to="个人资料编辑器 - %name%"/>
+  <translation from="Profile Settings" to="个人资料设置"/>
+  <translation from="Proxy" to="代理"/>
+  <translation from="Proxy Server" to="代理服务器"/>
+  <translation from="Radio" to="收音机"/>
+  <translation from="Readme" to="自述文件"/>
+  <translation from="Red Flower" to="红色花朵"/>
+  <translation from="Refresh Content" to="刷新内容"/>
+  <translation from="Register a new Astra Account" to="注册新 Astra 帐户"/>
+  <translation from="Remove..." to="移除..."/>
+  <translation from="Request for Trial Version" to="申请试用版"/>
+  <translation from="Requesting" to="请求中"/>
+  <translation from="Requesting..." to="请求中..."/>
+  <translation from="Resend Code" to="重新发送代码"/>
+  <translation from="Restarting..." to="正在重启..."/>
+  <translation from="Retry" to="重试"/>
+  <translation from="Robot" to="机器人"/>
+  <translation from="SOCKS4" to="SOCKS4"/>
+  <translation from="SOCKS5" to="SOCKS5"/>
+  <translation from="Saturday" to="周六"/>
+  <translation from="Save History to..." to="保存历史到..."/>
+  <translation from="Save account on this computer" to="在此计算机保存帐户"/>
+  <translation from="Save files to..." to="保存文件到..."/>
+  <translation from="Save password on this computer" to="在此计算机保存密码"/>
+  <translation from="Search" to="搜索"/>
+  <translation from="Security &amp; Privacy" to="安全与隐私"/>
+  <translation from="Select a widget below to add to the Contact List" to="选择以下小部件以添加到联系人列表"/>
+  <translation from="Select a widget below to add to your Astra Profile" to="选择以下小部件以添加到 Astra 个人资料"/>
+  <translation from="Select a widget below to add to your Trillian Mini" to="选择以下小部件以添加到 Trillian Mini"/>
+  <translation from="Sending data to server..." to="正在向服务器发送数据..."/>
+  <translation from="September" to="九月"/>
+  <translation from="Server" to="服务器"/>
+  <translation from="Server Host:" to="服务器主机:"/>
+  <translation from="Service not enabled." to="服务未启用。"/>
+  <translation from="Set &amp;Status" to="设置状态(&amp;S)"/>
+  <translation from="Set Background Color" to="设置背景颜色"/>
+  <translation from="Set Foreground Color" to="设置前景颜色"/>
+  <translation from="Set Invisible" to="设为隐身"/>
+  <translation from="Set Status as:" to="将状态设为:"/>
+  <translation from="Set as Online" to="设为在线"/>
+  <translation from="Set as the Primary Identity" to="设为主身份"/>
+  <translation from="Set Icon..." to="设置图标..."/>
+  <translation from="Setting up your Contact List" to="设置您的联系人列表"/>
+  <translation from="Settings" to="设置"/>
+  <translation from="Setup your public profile.  This information will be available both on the web and to people who chat with you on the Trillian Astra network.  You may leave any field here blank." to="设置您的公开个人资料。此信息将显示在网页上，并在 Trillian Astra 网络中与您聊天的人共享。您可留空任何字段。"/>
+  <translation from="Shared Trillian" to="共享 Trillian"/>
+  <translation from="Shortcut Keys" to="快捷键"/>
+  <translation from="Show Contact List" to="显示联系人列表"/>
+  <translation from="Show Notifications" to="显示通知"/>
+  <translation from="Sign in automatically" to="自动登录"/>
+  <translation from="Sign in" to="登录"/>
+  <translation from="Signing in..." to="正在登录..."/>
+  <translation from="Signing out..." to="正在注销..."/>
+  <translation from="Simple" to="简单"/>
+  <translation from="Single" to="单身"/>
+  <translation from="Skater" to="滑板者"/>
+  <translation from="Skin Settings" to="皮肤设置"/>
+  <translation from="Skins" to="皮肤"/>
+  <translation from="Skip" to="跳过"/>
+  <translation from="Small" to="小"/>
+  <translation from="Snowflake" to="雪花"/>
+  <translation from="Some Basic Information" to="一些基本信息"/>
+  <translation from="Someone Else" to="其他用户"/>
+  <translation from="Special Message" to="特别消息"/>
+  <translation from="Sports" to="运动"/>
+  <translation from="Stage %num% of %total%" to="第 %num% 阶段（共 %total% 阶段）"/>
+  <translation from="Starburst" to="星爆"/>
+  <translation from="Starfish" to="海星"/>
+  <translation from="Starting up (Offline Mode)..." to="正在启动（离线模式）..."/>
+  <translation from="Starting up..." to="正在启动..."/>
+  <translation from="State" to="州"/>
+  <translation from="Status Messages" to="状态消息"/>
+  <translation from="Straight" to="异性恋"/>
+  <translation from="Success!" to="成功!"/>
+  <translation from="Sunday" to="周日"/>
+  <translation from="Swinger" to="交换伴侣"/>
+  <translation from="Synchronizing Contact List..." to="正在同步联系人列表..."/>
+  <translation from="Tabbed Windows" to="标签式窗口"/>
+  <translation from="Technical Support" to="技术支持"/>
+  <translation from="Television" to="电视"/>
+  <translation from="Text Formatting" to="文本格式"/>
+  <translation from="Thank you for being a previous Trillian Pro customer.  Please provide your Trillian Pro member email and password that was given to you when you purchased." to="感谢您曾是 Trillian Pro 客户。请提供购买时使用的 Trillian Pro 会员邮箱和密码。"/>
+  <translation from="Thank you for choosing Trillian" to="感谢您选择 Trillian"/>
+  <translation from="The Astra username you picked is already taken." to="您选择的 Astra 用户名已被占用。"/>
+  <translation from="The contact list is where all your connections and contacts reside.  The next few steps will guide you through the configuration of your connections one by one." to="联系人列表是您所有连接和联系人的存放处。接下来的步骤将引导您逐一配置连接。"/>
+  <translation from="The email address did not seem valid.  Please try again." to="邮箱地址无效。请重试。"/>
+  <translation from="The email address you provided is already linked to another Astra account. Please type again." to="您提供的邮箱地址已关联到其他 Astra 帐户。请重新输入。"/>
+  <translation from="The email you entered does not seem to be valid.  Please try again." to="您输入的邮箱地址无效。请重试。"/>
+  <translation from="The image verification failed, please try again." to="图像验证失败，请重试。"/>
+  <translation from="The old password was not entered in correctly.  Please try again." to="旧密码输入错误。请重试。"/>
+  <translation from="Your password must be at least 6 characters long." to="密码长度需至少6个字符。"/>
+  <translation from="The token you provided did not seem valid." to="您提供的令牌无效。"/>
+  <translation from="The two email addresses you typed do not match. Please type again." to="两次输入的邮箱地址不一致。请重新输入。"/>
+  <translation from="The two emails you typed do not match." to="两次输入的邮箱不一致。"/>
+  <translation from="The two passwords you typed do not match." to="两次输入的密码不一致。"/>
+  <translation from="The premium experience." to="尊享体验。"/>
+  <translation from="The premium Trillian Astra." to="尊享版 Trillian Astra。"/>
+  <translation from="The Welcome Wizard is going to guide you through the basic configuration of Trillian Astra in &lt;b&gt;%num%&lt;/b&gt; simple stages." to="欢迎向导将分&lt;b&gt;%num%&lt;/b&gt;个简单步骤引导您完成 Trillian Astra 的基础配置。"/>
+  <translation from="There are multiple errors." to="存在多个错误。"/>
+  <translation from="There is an error." to="存在错误。"/>
+  <translation from="There was a server error while changing your email address.  Please try again at a later date." to="更改邮箱地址时服务器出错。请稍后再试。"/>
+  <translation from="There was a server error while changing your password.  Please try again at a later date." to="更改密码时服务器出错。请稍后再试。"/>
+  <translation from="There was a server error while sending the confirmation code.  Please try again." to="发送确认码时服务器出错。请重试。"/>
+  <translation from="There was a server error while validating your member information.  Please try again at a later date." to="验证会员信息时服务器出错。请稍后再试。"/>
+  <translation from="This build of Trillian is outdated." to="此 Trillian 版本已过时。"/>
+  <translation from="This does not appear to be a valid confirmation code.  Please type again." to="此确认码无效。请重新输入。"/>
+  <translation from="This is a sample message." to="这是一条示例消息。"/>
+  <translation from="This is the Chat screen your friends will see." to="这是朋友将看到的聊天界面。"/>
+  <translation from="This is the Profile screen your friends will see." to="这是朋友将看到的个人资料界面。"/>
+  <translation from="Thursday" to="周四"/>
+  <translation from="Time Travel" to="时光旅行"/>
+  <translation from="Tiny" to="极小"/>
+  <translation from="To further complete your profile,&#13;&#10;use the &lt;b&gt;Profile Editor&lt;/b&gt;." to="要进一步完善个人资料，&#13;&#10;请使用&lt;b&gt;个人资料编辑器&lt;/b&gt;。"/>
+  <translation from="To further configure your connections, use the &lt;b&gt;Identities &amp; Connections Manager&lt;/b&gt;." to="要进一步配置连接，请使用&lt;b&gt;身份与连接管理器&lt;/b&gt;。"/>
+  <translation from="To learn more about how to use Trillian, click the icon on the top of the Contact List and choose &quot;Help&quot;.  Enjoy and thanks for choosing Trillian!" to="要了解更多 Trillian 使用方法，点击联系人列表顶部的图标并选择“帮助”。祝您使用愉快，感谢选择 Trillian！"/>
+  <translation from="To learn more about how to use Trillian, use the &quot;?&quot; button at the top-right corner of the Contact List.  Enjoy and thanks for choosing Trillian!" to="要了解更多 Trillian 使用方法，点击联系人列表右上角的“？”按钮。祝您使用愉快，感谢选择 Trillian！"/>
+  <translation from="To learn more about how to use Trillian, use the &quot;Help&quot; menu at the top of the Contact List.  Enjoy and thanks for choosing Trillian!" to="要了解更多 Trillian 使用方法，使用联系人列表顶部的“帮助”菜单。祝您使用愉快，感谢选择 Trillian！"/>
+  <translation from="Toggle Contact List Visibility" to="切换联系人列表可见性"/>
+  <translation from="Total" to="总计"/>
+  <translation from="Transparent" to="透明"/>
+  <translation from="Tree" to="树"/>
+  <translation from="Trillian - %awaymessage%" to="Trillian - %awaymessage%"/>
+  <translation from="Trillian - Away" to="Trillian - 离开"/>
+  <translation from="Trillian - Away - %awaymessage%" to="Trillian - 离开 - %awaymessage%"/>
+  <translation from="Trillian - Connected" to="Trillian - 在线"/>
+  <translation from="Trillian - Disconnected" to="Trillian - 离线"/>
+  <translation from="Trillian - Downloading Update..." to="Trillian - 正在下载更新..."/>
+  <translation from="Trillian - Invisible" to="Trillian - 隐身"/>
+  <translation from="Trillian - Logging in..." to="Trillian - 正在登录..."/>
+  <translation from="Trillian - Logging out..." to="Trillian - 正在注销..."/>
+  <translation from="Trillian - Partially Connected" to="Trillian - 部分在线"/>
+  <translation from="Trillian Astra can be configured in many ways.  Here are three basic sets of settings that may suit your needs.  You can fine-tune them in Trillian Preferences later." to="Trillian Astra 可进行多种配置。以下是三种可能满足您需求的基础设置。您稍后可在 Trillian 首选项中进行微调。"/>
+  <translation from="Trillian Astra features many new IM and Web services for you to connect to.  Do you want to connect to any other services below?" to="Trillian Astra 提供多种新的即时通讯和网络服务供您连接。您希望连接以下其他服务吗？"/>
+  <translation from="Trillian First Time Wizard: %name%" to="Trillian 首次使用向导: %name%"/>
+  <translation from="Trillian Member Account:" to="Trillian 会员帐户: "/>
+  <translation from="Trillian Member Information" to="Trillian 会员信息"/>
+  <translation from="Trillian Mini" to="Trillian 迷你版"/>
+  <translation from="Trillian Preferences" to="Trillian 首选项"/>
+  <translation from="Trillian Pro" to="Trillian Pro"/>
+  <translation from="Trillian Settings Location" to="Trillian 设置位置"/>
+  <translation from="Trillian Update" to="Trillian 更新"/>
+  <translation from="Trillian Update Available" to="Trillian 更新可用"/>
+  <translation from="Trillian Upgrade" to="Trillian 升级"/>
+  <translation from="Trillian detects that you may be on a new computer." to="Trillian 检测到您可能在新计算机上。"/>
+  <translation from="Trillian has been successfully updated.  Click here to view the list of changes in this version." to="Trillian 已成功更新。点击此处查看此版本的更新列表。"/>
+  <translation from="Trillian in Microsoft Windows" to="Windows 快捷键"/>
+  <translation from="Trillian is currently in offline mode and not connected to the Trillian Astra network.  Any changes to your contact list will not be saved to the server." to="Trillian 当前处于离线模式，未连接至 Trillian Astra 网络。对联系人列表的更改将不会保存至服务器。"/>
+  <translation from="Trillian(tm) Preferences" to="Trillian™ 首选项"/>
+  <translation from="Trillian: Close all systray alerts" to="Trillian: 关闭所有系统托盘通知"/>
+  <translation from="Trillian: Close all visible systray alerts" to="Trillian: 关闭所有可见系统托盘通知"/>
+  <translation from="Trillian: Exit Program" to="Trillian: 退出程序"/>
+  <translation from="Trillian: Load Program" to="Trillian: 加载程序"/>
+  <translation from="Trillian: Open Connection Manager" to="Trillian：打开连接管理器"/>
+  <translation from="Trillian: Show Widgets" to="Trillian：显示小部件"/>
+  <translation from="Try Again" to="重试"/>
+  <translation from="Tuesday" to="周二"/>
+  <translation from="Type the &lt;b&gt;letters&lt;/b&gt;:" to="输入&lt;b&gt;字母&lt;/b&gt;："/>
+  <translation from="Type the &lt;b&gt;two words&lt;/b&gt;:" to="输入&lt;b&gt;两个单词&lt;/b&gt;："/>
+  <translation from="Type the name for the new Identity here" to="在此输入新身份的名称"/>
+  <translation from="Type the name for the new group here" to="在此输入新群组的名称"/>
+  <translation from="Type your &lt;b&gt;token&lt;/b&gt;:" to="输入您的&lt;b&gt;令牌&lt;/b&gt;："/>
+  <translation from="Typing" to="正在输入"/>
+  <translation from="Under 13" to="13岁以下"/>
+  <translation from="Underline" to="下划线"/>
+  <translation from="Unknown" to="未知"/>
+  <translation from="Unread" to="未读"/>
+  <translation from="Untitled" to="未命名"/>
+  <translation from="Update Cancelled" to="更新已取消"/>
+  <translation from="Update Complete" to="更新完成"/>
+  <translation from="Update!" to="立即更新！"/>
+  <translation from="Updates Available" to="有可用更新"/>
+  <translation from="Upgrade Complete" to="升级完成"/>
+  <translation from="Upgrade Failed" to="升级失败"/>
+  <translation from="Upgrade to Trillian Pro" to="升级到 Trillian Pro"/>
+  <translation from="Upgrade to Pro" to="升级到 Pro"/>
+  <translation from="Use No Icon" to="不使用图标"/>
+  <translation from="Use Original" to="使用原始"/>
+  <translation from="Use a Virus Scanner" to="使用病毒扫描程序"/>
+  <translation from="Valid alternatives include:" to="有效替代项包括："/>
+  <translation from="Version History" to="版本历史"/>
+  <translation from="Video &amp; Voice" to="视频与语音"/>
+  <translation from="Video Chat" to="视频聊天"/>
+  <translation from="View Inbox" to="查看收件箱"/>
+  <translation from="Voice" to="语音"/>
+  <translation from="Wall Settings" to="留言墙设置"/>
+  <translation from="Weather" to="天气"/>
+  <translation from="Web Service Settings" to="网络服务设置"/>
+  <translation from="Web site" to="网站"/>
+  <translation from="Wednesday" to="周三"/>
+  <translation from="Welcome to" to="欢迎使用"/>
+  <translation from="Welcome to &lt;i&gt;Trillian Astra&lt;/i&gt;!" to="欢迎使用&lt;i&gt;Trillian Astra&lt;/i&gt;！"/>
+  <translation from="Welcome to Trillian!" to="欢迎使用 Trillian！"/>
+  <translation from="Welcome!" to="欢迎！"/>
+  <translation from="Configure your Display Name" to="配置显示名称"/>
+  <translation from="What is your library card number?" to="您的借书证号是什么？"/>
+  <translation from="What is your primary frequent flyer number?" to="您的主要飞行常客号码是什么？"/>
+  <translation from="What nickname would you like used throughout Trillian?" to="您希望在 Trillian 中使用的昵称是什么？"/>
+  <translation from="What to Log" to="记录内容"/>
+  <translation from="What was your first phone number?" to="您的第一个电话号码是什么？"/>
+  <translation from="What was your first teacher&apos;s name?" to="您的第一位老师的名字是什么？"/>
+  <translation from="When I&apos;m away..." to="当我离开时..."/>
+  <translation from="When Trillian loads up..." to="当 Trillian 启动时..."/>
+  <translation from="When a new message window is created..." to="当创建新消息窗口时..."/>
+  <translation from="Where did you hear about us?" to="您从何处得知我们？"/>
+  <translation from="Which graphic would you like used to represent you?" to="您希望使用哪个图形代表自己？"/>
+  <translation from="Widget Gallery" to="小部件库"/>
+  <translation from="Widget Profiles" to="小部件配置文件"/>
+  <translation from="Widget Settings" to="小部件设置"/>
+  <translation from="Window Behavior" to="窗口行为"/>
+  <translation from="Windows" to="窗口"/>
+  <translation from="Windows: Console Connect" to="Windows: 控制台连接"/>
+  <translation from="Windows: Console Disconnect" to="Windows: 控制台断开"/>
+  <translation from="Windows: Remote Connect" to="Windows: 远程连接"/>
+  <translation from="Windows: Remote Disconnect" to="Windows: 远程断开"/>
+  <translation from="Windows: User Logoff" to="Windows: 用户注销"/>
+  <translation from="Windows: User Switch" to="Windows: 用户切换"/>
+  <translation from="Windows: User Switch Back" to="Windows: 用户切换回"/>
+  <translation from="Within Conversation" to="对话内"/>
+  <translation from="Word Matching..." to="单词匹配..."/>
+  <translation from="Word Matching: &quot;%word%&quot;" to="单词匹配: “%word%”"/>
+  <translation from="Would you like to import your settings from a previous installation?" to="您希望从先前安装中导入设置吗？"/>
+  <translation from="Yahoo!" to="Yahoo!"/>
+  <translation from="Yahoo! Messenger" to="Yahoo! Messenger"/>
+  <translation from="Yahoo! Username" to="Yahoo! 用户名"/>
+  <translation from="Year" to="年"/>
+  <translation from="Yes" to="是"/>
+  <translation from="Yes, safely move my files and settings (Recommended)" to="是，安全移动我的文件和设置（推荐）"/>
+  <translation from="You are not connected to Trillian Astra." to="您未连接至 Trillian Astra。"/>
+  <translation from="You have already set up an account.  Would you like to go back to generate another account?" to="您已设置帐户。是否返回以生成另一个帐户？"/>
+  <translation from="You have finished setting up your AstraProfile.  Even more items can be set in the Profile Editor." to="您已完成 AstraProfile 设置。可在个人资料编辑器中设置更多项目。"/>
+  <translation from="You have new unread messages" to="您有新的未读消息"/>
+  <translation from="You have successfully registered &lt;b&gt;%name%&lt;/b&gt;." to="您已成功注册 &lt;b&gt;%name%&lt;/b&gt;。"/>
+  <translation from="You have successfully changed your email." to="您已成功更改邮箱。"/>
+  <translation from="You have successfully changed your password." to="您已成功更改密码。"/>
+  <translation from="You have successfully registered an Astra Account.  Please continue with the wizard to set this account up." to="您已成功注册 Astra 帐户。请继续向导以设置此帐户。"/>
+  <translation from="You have successfully updated your information." to="您已成功更新信息。"/>
+  <translation from="You have successfully updated your membership information." to="您已成功更新会员信息。"/>
+  <translation from="You must accept the agreement to create an account." to="必须接受协议以创建帐户。"/>
+  <translation from="You must be at least 13 years old to use Trillian Astra." to="使用 Trillian Astra 需年满13周岁。"/>
+  <translation from="You must complete the image verification to prove that you are a human." to="必须完成图像验证以证明您是人类。"/>
+  <translation from="You must include a security question and answer so that you can retrieve your password should you lose it." to="必须设置安全问题和答案以便找回密码。"/>
+  <translation from="You must provide a valid confirmation code to authorize your Astra Account.  It should have been sent to your email address." to="必须提供有效确认码以授权 Astra 帐户。确认码应已发送至您的邮箱。"/>
+  <translation from="You must provide a valid email address and password if you wish to link to your existing Trillian Pro account.  Please type again." to="若希望关联现有 Trillian Pro 帐户，必须提供有效邮箱和密码。请重新输入。"/>
+  <translation from="You&apos;re all set!" to="您已全部设置完成！"/>
+  <translation from="Your &lt;i&gt;AstraProfile&lt;/i&gt; is set!" to="您的&lt;i&gt;AstraProfile&lt;/i&gt; 已设置！"/>
+  <translation from="Your Identity Information" to="您的身份信息"/>
+  <translation from="Your Name Here" to="在此输入您的名称"/>
+  <translation from="Your Public &lt;i&gt;AstraContact&lt;/i&gt;" to="您的公开&lt;i&gt;Astra联系人&lt;/i&gt;"/>
+  <translation from="Your Trillian Astra Account" to="您的 Trillian Astra 帐户"/>
+  <translation from="You may select a graphic from below or even load and crop a custom photo from your PC." to="您可从下方选择图形，或从电脑加载并裁剪自定义照片。"/>
+  <translation from="Your connections will go here." to="您的连接将显示在此处。"/>
+  <translation from="Your contacts will go here." to="您的联系人将显示在此处。"/>
+  <translation from="Your email has been successfully changed." to="您的邮箱已成功更改。"/>
+  <translation from="Your email has been successfully updated." to="您的邮箱已成功更新。"/>
+  <translation from="Your membership information does not appear to be valid.  Please type again." to="会员信息无效。请重新输入。"/>
+  <translation from="Your membership information has been updated." to="会员信息已更新。"/>
+  <translation from="Your membership information is bound to another Trillian Astra account.  Please type again." to="会员信息已绑定至其他 Trillian Astra 帐户。请重新输入。"/>
+  <translation from="Select a display name that will help your contacts easily identify you on their list!  You may enter any combination of nickname, first name, and last name that you choose." to="选择一个便于联系人识别的显示名称！可输入昵称、名字和姓氏的任意组合。"/>
+  <translation from="Your password has been successfully changed." to="您的密码已成功更改。"/>
+  <translation from="ZIP Code:" to="邮编: "/>
+  <translation from="Zip Code" to="邮编"/>
+  <translation from="already configured" to="已配置"/>
+  <translation from="blue" to="蓝色"/>
+  <translation from="blue and white" to="蓝白相间"/>
+  <translation from="day" to="天"/>
+  <translation from="days" to="天数"/>
+  <translation from="dialogLoadingFinished" to="完成，正在加载界面..."/>
+  <translation from="dialogLoadingInitializingComponents" to="正在初始化组件..."/>
+  <translation from="dialogLoadingInitializingComponentsSpecific" to="正在初始化 %component%..."/>
+  <translation from="dialogLoadingInitializingTrillian" to="正在初始化 Trillian..."/>
+  <translation from="dialogLoadingLicensedTo" to="授权给: "/>
+  <translation from="dialogLoadingLoadingPlugins" to="正在加载插件..."/>
+  <translation from="dialogLoadingLoadingXML" to="正在加载皮肤..."/>
+  <translation from="dialogLoadingNowLoading" to="正在加载..."/>
+  <translation from="dialogLoadingPropogatingPluginList" to="正在传播插件列表..."/>
+  <translation from="dialogLoadingPropogatingPreferences" to="正在解析表情符号..."/>
+  <translation from="dialogLoadingSkippingPlugins" to="正在跳过插件..."/>
+  <translation from="dialogLoadingStartingPlugins" to="正在启动插件..."/>
+  <translation from="dialogLoadingStartingPluginsSpecific" to="正在启动 %plugin% 插件..."/>
+  <translation from="dialogLoadingStartingSelectedPlugins" to="正在启动选中的插件..."/>
+  <translation from="dialogLoadingWelcome" to="欢迎！"/>
+  <translation from="dialogPreferencesDescription" to="根据需求自定义 Trillian。"/>
+  <translation from="dialogPreferencesName" to="欢迎使用 Trillian"/>
+  <translation from="dialogProfileEditorFail" to="此皮肤中不支持 Astra 个人资料编辑器。"/>
+  <translation from="dialogUnloadingThanks" to="感谢购买 Trillian！"/>
+  <translation from="dialogUnloadingUpdates" to="访问以下网址获取更新: "/>
+  <translation from="dialogWizardNoUpdates" to="当前无可用软件更新。"/>
+  <translation from="green" to="绿色"/>
+  <translation from="hour" to="小时"/>
+  <translation from="hours" to="小时"/>
+  <translation from="message" to="消息"/>
+  <translation from="messages" to="消息"/>
+  <translation from="minute" to="分钟"/>
+  <translation from="minutes" to="分钟"/>
+  <translation from="or" to="或"/>
+  <translation from="prefsActivityHistoryAuto" to="在聊天窗口中显示前 %num% 行历史对话"/>
+  <translation from="prefsActivityHistoryAutoSearch" to="自动历史记录；自动历史；先前对话"/>
+  <translation from="prefsActivityHistoryDescription" to="Trillian 的活动历史系统可以以易于使用的存档格式记录您的所有消息。"/>
+  <translation from="prefsActivityHistoryDirectory" to="此文件夹:"/>
+  <translation from="prefsActivityHistoryDirectoryBrowse" to="浏览..."/>
+  <translation from="prefsActivityHistoryLogAudio" to="语音聊天"/>
+  <translation from="prefsActivityHistoryLogConferences" to="群组会议"/>
+  <translation from="prefsActivityHistoryLogConnections" to="连接状态"/>
+  <translation from="prefsActivityHistoryLogContacts" to="联系人"/>
+  <translation from="prefsActivityHistoryLogConversations" to="文本对话"/>
+  <translation from="prefsActivityHistoryLogIcons" to="图标变更"/>
+  <translation from="prefsActivityHistoryLogImages" to="图片"/>
+  <translation from="prefsActivityHistoryLogSubjects" to="主题"/>
+  <translation from="prefsActivityHistoryLogType" to="媒体类型"/>
+  <translation from="prefsActivityHistoryLogVideo" to="视频聊天"/>
+  <translation from="prefsActivityHistoryName" to="活动历史"/>
+  <translation from="prefsActivityHistoryNameSearch" to="历史;活动历史;对话历史;聊天历史;日志;记录"/>
+  <translation from="prefsActivityHistoryPro" to="&lt;b&gt;Trillian Pro&lt;/b&gt; 在客户端内提供完整的历史查看器，支持搜索功能！点击此处了解更多！"/>
+  <translation from="prefsAstraProfileAstraContactAdd" to="添加子联系人..."/>
+  <translation from="prefsAstraProfileAstraContactAddSearch" to="联系人;子联系人;元联系人;添加"/>
+  <translation from="prefsAstraProfileAstraContactDescription" to="AstraContact 允许您将所有即时通讯信息整合到一个整洁的“AstraContact”中，支持严格的隐私控制和优先级排序。"/>
+  <translation from="prefsAstraProfileAstraContactDown" to="下移"/>
+  <translation from="prefsAstraProfileAstraContactName" to="我的 AstraContact"/>
+  <translation from="prefsAstraProfileAstraContactNameSearch" to="astra;元联系人;astracontact;astra 联系人;meta contact;"/>
+  <translation from="prefsAstraProfileAstraContactRemove" to="移除"/>
+  <translation from="prefsAstraProfileAstraContactUp" to="上移"/>
+  <translation from="prefsAudioDescription" to="在此选择音源并微调音质设置。"/>
+  <translation from="prefsAudioName" to="音频"/>
+  <translation from="prefsAudioVideoQualityHighDescription" to="提供高音质，尽可能占用最大可用网络带宽。"/>
+  <translation from="prefsAudioVideoQualityHighDescriptionSearch" to="视频质量;广播;广播质量;视频带宽"/>
+  <translation from="prefsAudioVideoQualityLowDescription" to="使用最低带宽以维持基本音质。"/>
+  <translation from="prefsAudioVideoQualityLowDescriptionSearch" to="视频质量;广播;广播质量;视频带宽"/>
+  <translation from="prefsAudioVideoQualityMediumDescription" to="使用平均带宽并尽量保持高音质，但不允许完全占用带宽。"/>
+  <translation from="prefsAudioVideoQualityMediumDescriptionSearch" to="视频质量;广播;广播质量;视频带宽"/>
+  <translation from="prefsAutomationAdd" to="添加..."/>
+  <translation from="prefsAutomationAddSearch" to="事件;自动化"/>
+  <translation from="prefsAutomationDescription" to="Trillian 的先进自动化系统可响应检测到的各类事件。创建快捷键、安排警报或匹配关键词。"/>
+  <translation from="prefsAutomationEdit" to="修改..."/>
+  <translation from="prefsAutomationEditSearch" to="事件;自动化"/>
+  <translation from="prefsAutomationName" to="自动化"/>
+  <translation from="prefsAutomationNameSearch" to="事件;自动化;关键词匹配"/>
+  <translation from="prefsAutomationRemove" to="移除"/>
+  <translation from="prefsAutomationRemoveSearch" to="事件;自动化"/>
+  <translation from="prefsAwayContainer" to="将新消息窗口附加到“离开容器”窗口"/>
+  <translation from="prefsAwayContainerSearch" to="离开容器;容器"/>
+  <translation from="prefsAwayDescription" to="设置离开时 Trillian 的行为，并在此编辑离开消息。"/>
+  <translation from="prefsAwayIdle" to="根据鼠标和键盘使用情况自动切换为“空闲”状态"/>
+  <translation from="prefsAwayIdleSearch" to="自动;离开;空闲状态;键盘监控"/>
+  <translation from="prefsAwayMessage" to="发送即时消息时自动恢复在线状态"/>
+  <translation from="prefsAwayMessageAutomatic" to="仅当 Trillian 自动设置离开时（如空闲、屏保等）"/>
+  <translation from="prefsAwayMessageAutomaticSearch" to="自动;离开"/>
+  <translation from="prefsAwayMessageSearch" to="自动;离开"/>
+  <translation from="prefsAwayMessagesAdd" to="添加..."/>
+  <translation from="prefsAwayMessagesAddSearch" to="添加离开消息;新建离开消息;离开消息"/>
+  <translation from="prefsAwayMessagesAutoSave" to="自动保存我在联系人列表中输入的消息"/>
+  <translation from="prefsAwayMessagesAutoSaveSearch" to="离开消息;在线消息;状态消息"/>
+  <translation from="prefsAwayMessagesEdit" to="修改..."/>
+  <translation from="prefsAwayMessagesEditSearch" to="编辑离开消息;离开消息"/>
+  <translation from="prefsAwayMessagesLink" to="在此查看或编辑所有个人及离开消息："/>
+  <translation from="prefsAwayMessagesLinkButton" to="状态消息..."/>
+  <translation from="prefsAwayMessagesLinkButtonSearch" to="离开消息;在线消息;状态消息"/>
+  <translation from="prefsAwayMessagesRememberRestart" to="记住我重启前的状态"/>
+  <translation from="prefsAwayMessagesRememberRestartSearch" to="离开消息;在线消息;状态消息"/>
+  <translation from="prefsAwayMessagesRemove" to="移除..."/>
+  <translation from="prefsAwayMessagesRemoveSearch" to="移除离开消息;离开消息"/>
+  <translation from="prefsAwayMessagesSearch" to="编辑离开消息;离开消息"/>
+  <translation from="prefsAwayMessagesSong" to="将状态消息设置为当前播放的歌曲"/>
+  <translation from="prefsAwayMessagesSongSearch" to="离开消息;在线消息;状态消息;歌曲;专辑;艺术家;Winamp;iTunes;媒体播放器"/>
+  <translation from="prefsAwayName" to="离开模式"/>
+  <translation from="prefsAwayNotification" to="隐藏通知窗口"/>
+  <translation from="prefsAwayNotificationSearch" to="隐藏;通知;系统托盘;提醒"/>
+  <translation from="prefsAwayScreensaver" to="根据屏保状态切换状态"/>
+  <translation from="prefsAwayScreensaverSearch" to="屏保;离开;自动"/>
+  <translation from="prefsAwaySounds" to="静音 Trillian 提示音"/>
+  <translation from="prefsAwaySoundsSearch" to="声音;静音;关闭声音"/>
+  <translation from="prefsBasicInformationDescription" to="此显示名称可能被各连接插件继承。若在特定服务中无法更改显示名称，请检查该服务的本地设置。"/>
+  <translation from="prefsBasicInformationDisplay" to="显示名称："/>
+  <translation from="prefsBasicInformationDisplaySearch" to="名称;显示名称"/>
+  <translation from="prefsBasicInformationName" to="基本信息"/>
+  <translation from="prefsBasicInformationNameOther" to="基本信息 - %identity%"/>
+  <translation from="prefsBasicInformationNameSearch" to="名称;显示名称"/>
+  <translation from="prefsBiographyDescription" to="您可以输入个人简介，此信息将共享至 Astra 个人资料及其他网络（如 AIM 个人资料）。"/>
+  <translation from="prefsBiographyDescriptionOther" to="您可以输入个人简介，此信息将与此身份下的连接共享。"/>
+  <translation from="prefsBiographyName" to="个人简介"/>
+  <translation from="prefsBiographyNameOther" to="个人简介 - %identity%"/>
+  <translation from="prefsBiographyNameSearch" to="名称;个人资料;AIM 个人资料;简介"/>
+  <translation from="prefsConnectionMiscDescription" to="管理此账户的其他选项。"/>
+  <translation from="prefsConnectionMiscName" to="其他"/>
+  <translation from="prefsConnectionMiscSearch" to="其他"/>
+  <translation from="prefsConnectionSettingsDescription" to="微调此连接的服务器和代理设置。"/>
+  <translation from="prefsConnectionSettingsName" to="连接设置"/>
+  <translation from="prefsConnectionSettingsSearch" to="连接设置"/>
+  <translation from="prefsConnectionSettingsServerHost" to="服务器主机："/>
+  <translation from="prefsConnectionSettingsServerHostSearch" to="主机;服务器;IP 地址"/>
+  <translation from="prefsConnectionSettingsServerPort" to="端口："/>
+  <translation from="prefsConnectionSettingsServerPortSearch" to="端口;服务器;IP 地址"/>
+  <translation from="prefsConnectionSettingsServerReset" to="重置"/>
+  <translation from="prefsConnectionSettingsServerResetSearch" to="重置;端口;主机;服务器;IP 地址"/>
+  <translation from="prefsConnectionsAlert" to="这是您首次在此计算机使用 Trillian，请立即配置要自动连接的账户。"/>
+  <translation from="prefsConnectionsDescription" to="管理各网络的连接，并微调单个连接的设置。"/>
+  <translation from="prefsConnectionsName" to="身份与连接"/>
+  <translation from="prefsConnectionsNameSearch" to="连接;账户;AIM;ICQ;MSN;Yahoo!;Jabber;IRC;Bonjour;无服务器 IM;身份;图标"/>
+  <translation from="prefsContactListAlwaysOnTop" to="始终将联系人列表置于其他窗口之上"/>
+  <translation from="prefsContactListAlwaysOnTopSearch" to="始终置顶;置顶"/>
+  <translation from="prefsContactListAlwaysOnTopWarning" to="Trillian 当前设置为所有窗口始终置顶。"/>
+  <translation from="prefsContactListAutosize" to="自动调整联系人列表尺寸以适应内容"/>
+  <translation from="prefsContactListAutosizeSearch" to="自动调整尺寸;自适应"/>
+  <translation from="prefsContactListAutosizeUpwards" to="向上扩展"/>
+  <translation from="prefsContactListAutosizeUpwardsSearch" to="自动调整尺寸;自适应"/>
+  <translation from="prefsContactListBackground" to="在联系人列表中显示背景图片："/>
+  <translation from="prefsContactListBackgroundOrientation" to="方向："/>
+  <translation from="prefsContactListBackgroundOrientationSearch" to="背景;壁纸;图片;平铺;拉伸;居中"/>
+  <translation from="prefsContactListBackgroundSearch" to="背景;壁纸;图片;列表背景"/>
+  <translation from="prefsContactListBackgroundTypeSearch" to="背景;壁纸;图片;列表背景"/>
+  <translation from="prefsContactListDescription" to="联系人列表是您管理好友和信息的地方，可在此自定义其行为和显示方式。"/>
+  <translation from="prefsContactListDock" to="当靠近屏幕边缘时停靠联系人列表"/>
+  <translation from="prefsContactListDockAutoHide" to="停靠时自动隐藏联系人列表"/>
+  <translation from="prefsContactListDockAutoHideSearch" to="停靠;自动隐藏"/>
+  <translation from="prefsContactListDockSearch" to="任务栏;停靠;屏幕边缘;停靠位置"/>
+  <translation from="prefsContactListExpandMetacontacts" to="鼠标悬停时展开元联系人"/>
+  <translation from="prefsContactListExpandMetacontactsSearch" to="元联系人;展开"/>
+  <translation from="prefsContactListGroupCounts" to="显示分组计数"/>
+  <translation from="prefsContactListGroupCountsSearch" to="分组计数"/>
+  <translation from="prefsContactListHideEmpty" to="隐藏空分组"/>
+  <translation from="prefsContactListHideEmptySearch" to="联系人列表分组;空分组"/>
+  <translation from="prefsContactListMediumIcons" to="在独立列中显示服务图标"/>
+  <translation from="prefsContactListMediumIconsSearch" to="服务图标;图标"/>
+  <translation from="prefsContactListName" to="联系人列表"/>
+  <translation from="prefsContactListOffline" to="分类离线联系人"/>
+  <translation from="prefsContactListOfflineSearch" to="离线;离线联系人;离线分组"/>
+  <translation from="prefsContactListPictures" to="显示头像而非状态图标"/>
+  <translation from="prefsContactListPicturesMode" to="以 %mode% 视图布局联系人"/>
+  <translation from="prefsContactListPicturesModeSearch" to="简洁;磁贴;图标;头像尺寸"/>
+  <translation from="prefsContactListPicturesModeWithSize" to="以 %mode% 视图布局联系人，尺寸为 %size%"/>
+  <translation from="prefsContactListPicturesSearch" to="图标;头像;好友图标"/>
+  <translation from="prefsContactListPicturesSize" to="头像尺寸："/>
+  <translation from="prefsContactListPicturesSizeSearch" to="图标;头像尺寸"/>
+  <translation from="prefsContactListRecent" to="显示最近在线/离线图标，持续 %num% 秒"/>
+  <translation from="prefsContactListRecentSearch" to="最近在线图标;图标"/>
+  <translation from="prefsContactListRecentTimeSearch" to="最近在线图标;图标"/>
+  <translation from="prefsContactListSecondaryIcons" to="显示次要状态图标"/>
+  <translation from="prefsContactListSecondaryIconsSearch" to="状态图标;图标"/>
+  <translation from="prefsContactListSort" to="联系人排序方式："/>
+  <translation from="prefsContactListSortSearch" to="排序;ABC;状态;字母顺序"/>
+  <translation from="prefsContactListSortTypeSearch" to="排序;ABC;状态;字母顺序"/>
+  <translation from="prefsContactListTaskbar" to="未停靠时在任务栏显示联系人列表"/>
+  <translation from="prefsContactListTaskbarSearch" to="任务栏;系统托盘"/>
+  <translation from="prefsContactListTooltipIcon" to="限制工具提示中的图标尺寸："/>
+  <translation from="prefsContactListTooltipIconSearch" to="图标;头像;工具提示;提示"/>
+  <translation from="prefsContactListTooltipIconSizeSearch" to="图标;头像;尺寸;工具提示"/>
+  <translation from="prefsDevicesCurrentDescription" to="设备类型："/>
+  <translation from="prefsDevicesCurrentDescriptionSearch" to="Windows;Flash;版本;网页;iPhone;OSX"/>
+  <translation from="prefsDevicesCurrentIP" to="IP 地址："/>
+  <translation from="prefsDevicesCurrentIPSearch" to="IP 地址"/>
+  <translation from="prefsDevicesCurrentLogging" to="已启用"/>
+  <translation from="prefsDevicesCurrentLoggingLabel" to="诊断日志："/>
+  <translation from="prefsDevicesCurrentLoggingSearch" to="日志;桌面;异常文件"/>
+  <translation from="prefsDevicesCurrentUptime" to="运行时间："/>
+  <translation from="prefsDevicesCurrentUptimeSearch" to="运行时间"/>
+  <translation from="prefsDevicesCurrentName" to="名称："/>
+  <translation from="prefsDevicesCurrentNameSearch" to="资源;计算机名称"/>
+  <translation from="prefsDevicesDescription" to="Trillian Astra 可与多种设备互联，查看下方列表中的状态或断开设备。"/>
+  <translation from="prefsDevicesDeviceDisconnect" to="断开连接"/>
+  <translation from="prefsDevicesDeviceIP" to="IP 地址："/>
+  <translation from="prefsDevicesName" to="设备"/>
+  <translation from="prefsDevicesPro" to="&lt;b&gt;Trillian Pro&lt;/b&gt; 支持从多台计算机登录 Trillian Astra 并在此管理连接！点击此处了解更多！"/>
+  <translation from="prefsEmotiblipsAdd" to="添加现有 Blips..."/>
+  <translation from="prefsEmotiblipsAddSearch" to="表情动画;添加 Blip"/>
+  <translation from="prefsEmotiblipsDescription" to="Emotiblips 是可在对话中插入的短视频或音频片段，尽情发挥创意，给好友惊喜！"/>
+  <translation from="prefsEmotiblipsName" to="表情动画"/>
+  <translation from="prefsFileTransfersAcceptContact" to="联系人列表中的用户："/>
+  <translation from="prefsFileTransfersAcceptContactSearch" to="文件传输;自动接受;拒绝;联系人"/>
+  <translation from="prefsFileTransfersAcceptNonContact" to="非联系人用户："/>
+  <translation from="prefsFileTransfersAcceptNonContactSearch" to="文件传输;接受;自动接受;自动-接受;联系人;拒绝;自动拒绝"/>
+  <translation from="prefsFileTransfersAutoZip" to="发送时自动将多个文件压缩为 ZIP"/>
+  <translation from="prefsFileTransfersAutoZipSearch" to="文件传输;发送;压缩;自动压缩;PKZIP;WinZip;压缩文件"/>
+  <translation from="prefsFileTransfersClose" to="传输完成后关闭文件传输窗口"/>
+  <translation from="prefsFileTransfersCloseSearch" to="文件传输;完成后关闭窗口"/>
+  <translation from="prefsFileTransfersDescription" to="与联系人收发文件。设置默认下载文件夹并启用病毒扫描。"/>
+  <translation from="prefsFileTransfersDirectory" to="文件夹路径："/>
+  <translation from="prefsFileTransfersDirectoryBrowse" to="浏览..."/>
+  <translation from="prefsFileTransfersDirectoryBrowseSearch" to="文件传输目录"/>
+  <translation from="prefsFileTransfersDirectoryCreateLogin" to="根据我的聊天网络登录名创建文件夹"/>
+  <translation from="prefsFileTransfersDirectoryCreateLoginSearch" to="文件传输位置;保存的文件"/>
+  <translation from="prefsFileTransfersDirectoryCreateNetwork" to="根据聊天网络创建文件夹"/>
+  <translation from="prefsFileTransfersDirectoryCreateNetworkSearch" to="文件传输位置;保存的文件"/>
+  <translation from="prefsFileTransfersDirectoryCreateSender" to="根据发送者名称创建文件夹"/>
+  <translation from="prefsFileTransfersDirectoryCreateSenderSearch" to="文件传输位置;保存的文件"/>
+  <translation from="prefsFileTransfersDirectorySearch" to="文件传输文件夹;文件保存位置;文件路径"/>
+  <translation from="prefsFileTransfersExplorerSendFile" to="在 Windows 资源管理器中显示“发送文件”菜单"/>
+  <translation from="prefsFileTransfersExplorerSendFileSearch" to="资源管理器;右键菜单;右键;Windows 集成;Shell 集成"/>
+  <translation from="prefsFileTransfersMinimize" to="最小化文件传输窗口"/>
+  <translation from="prefsFileTransfersMinimizeSearch" to="文件传输;最小化窗口"/>
+  <translation from="prefsFileTransfersName" to="文件传输"/>
+  <translation from="prefsFileTransfersResume" to="若文件存在则尝试续传"/>
+  <translation from="prefsFileTransfersResumeSearch" to="文件传输;续传;文件续传"/>
+  <translation from="prefsFileTransfersVirus" to="病毒扫描程序："/>
+  <translation from="prefsFileTransfersVirusBrowse" to="浏览..."/>
+  <translation from="prefsFileTransfersVirusBrowseSearch" to="病毒扫描程序目录"/>
+  <translation from="prefsFileTransfersVirusFileSearch" to="病毒;病毒扫描;扫描文件;杀毒软件"/>
+  <translation from="prefsFileTransfersVirusSearch" to="病毒;病毒扫描;扫描文件;杀毒软件"/>
+  <translation from="prefsInstallationandstartupAutoLogin" to="自动登录"/>
+  <translation from="prefsInstallationandstartupAutoLoginSearch" to="登录;注销;自动登录"/>
+  <translation from="prefsInstallationandstartupCheckUpdates" to="检查软件更新"/>
+  <translation from="prefsInstallationandstartupCheckUpdatesSearch" to="自动更新;更新;补丁;新版本;版本号;自动升级"/>
+  <translation from="prefsInstallationandstartupDescription" to="配置 Trillian 基本设置，包括桌面图标、启动和系统托盘行为等。"/>
+  <translation from="prefsInstallationandstartupDesktop" to="在桌面上显示 Trillian 快捷方式"/>
+  <translation from="prefsInstallationandstartupDesktopSearch" to="桌面快捷方式;快捷方式;桌面"/>
+  <translation from="prefsInstallationandstartupHideContactList" to="隐藏联系人列表"/>
+  <translation from="prefsInstallationandstartupHideContactListSearch" to="启动时隐藏;隐藏列表;隐藏联系人列表;隐藏"/>
+  <translation from="prefsInstallationandstartupLanguagesContribute" to="这是一个用户创建的语言包。点击此处参与贡献！"/>
+  <translation from="prefsInstallationandstartupLanguagesSearch" to="语言"/>
+  <translation from="prefsInstallationandstartupLoadOnStartup" to="开机时自动启动 Trillian"/>
+  <translation from="prefsInstallationandstartupLoadOnStartupSearch" to="启动;加载;开机启动;启动时;启动项"/>
+  <translation from="prefsInstallationandstartupName" to="安装与启动"/>
+  <translation from="prefsInstallationandstartupServerAlertMajor" to="有重要 Trillian 新闻时通知我"/>
+  <translation from="prefsInstallationandstartupServerAlertMajorSearch" to="Cerulean 新闻;新闻;"/>
+  <translation from="prefsInstallationandstartupServerAlertMinor" to="有其他 Trillian 新闻时通知我"/>
+  <translation from="prefsInstallationandstartupServerAlertMinorSearch" to="Cerulean 新闻;新闻;"/>
+  <translation from="prefsInstallationandstartupServerAlertWarning" to="关闭此设置后，您可能无法收到 Trillian 新版本的通知。"/>
+  <translation from="prefsInstallationandstartupShowConnections" to="显示身份与连接"/>
+  <translation from="prefsInstallationandstartupShowConnectionsSearch" to="连接;启动"/>
+  <translation from="prefsInstallationandstartupShowLoading" to="加载时显示登录界面"/>
+  <translation from="prefsInstallationandstartupShowLoadingSearch" to="登录界面;加载;启动"/>
+  <translation from="prefsInstallationandstartupStartMenu" to="在开始菜单中显示 Trillian"/>
+  <translation from="prefsInstallationandstartupStartMenuSearch" to="开始菜单;快捷方式"/>
+  <translation from="prefsInstallationandstartupStatistics" to="向 Cerulean Studios 发送匿名使用统计"/>
+  <translation from="prefsInstallationandstartupStatisticsSearch" to="统计信息"/>
+  <translation from="prefsInstallationandstartupUpdatesBeta" to="检查 Trillian 的测试版"/>
+  <translation from="prefsInstallationandstartupUpdatesBetaSearch" to="测试版;更新;自动更新;补丁;版本"/>
+  <translation from="prefsInstallationandstartupUpdatesBetaWarning" to="预发布软件可能无法正常运行且包含漏洞。"/>
+  <translation from="prefsInstantLookupAddLookupButton" to="添加查询服务..."/>
+  <translation from="prefsInstantLookupAddLookupButtonSearch" to="RSS;订阅;iTunes;亚马逊;ThinkGeek;新闻;知识库;消息窗口"/>
+  <translation from="prefsInstantLookupAddRSSButton" to="添加 RSS 订阅..."/>
+  <translation from="prefsInstantLookupAddRSSButtonSearch" to="RSS;订阅"/>
+  <translation from="prefsInstantLookupDescription" to="在聊天时轻松获取新知识。您的对话内容在处理过程中不会离开计算机。请阅读隐私政策以了解更多。"/>
+  <translation from="prefsInstantLookupName" to="即时查询"/>
+  <translation from="prefsInstantLookupRandomEntries" to="随时显示随机条目"/>
+  <translation from="prefsInstantLookupRandomEntriesSearch" to="RSS;订阅;随机"/>
+  <translation from="prefsInstantLookupRemove" to="X"/>
+  <translation from="prefsInstantLookupWordDetection" to="检测到相关词汇时显示"/>
+  <translation from="prefsInstantLookupWordDetectionSearch" to="RSS;订阅;词汇;检测"/>
+  <translation from="prefsLicensingDescription" to="管理您的账户并购买 Trillian Pro 许可证。要配置现有许可证，请点击下方的“管理”按钮访问我们的网站。"/>
+  <translation from="prefsLicensingEmail" to="邮箱："/>
+  <translation from="prefsLicensingEmailChange" to="修改..."/>
+  <translation from="prefsLicensingUpgrade" to="升级！"/>
+  <translation from="prefsLicensingLink" to="关联 Pro 账户"/>
+  <translation from="prefsLicensingName" to="授权"/>
+  <translation from="prefsLicensingPassword" to="密码："/>
+  <translation from="prefsLicensingPasswordChange" to="修改..."/>
+  <translation from="prefsLicensingPro" to="了解更多！"/>
+  <translation from="prefsLicensingProCurrent" to="您当前正在使用已授权的 Trillian %version%。感谢您的支持！"/>
+  <translation from="prefsLicensingTrialExpires" to="您的 Trillian Pro 试用版将在 %days% %day_word% 后过期。过期后，您将无法使用高级功能，但仍可继续使用免费版。"/>
+  <translation from="prefsLicensingTrialExpiresToday" to="您的 Trillian Pro 试用版将于今日过期。过期后，您将无法使用高级功能，但仍可继续使用免费版。"/>
+  <translation from="prefsLicensingUsername" to="用户名："/>
+  <translation from="prefsLicensingUsernameManage" to="管理..."/>
+  <translation from="prefsMessageAppearanceDescription" to="以多种独特方式展示聊天内容。"/>
+  <translation from="prefsMessageAppearanceName" to="聊天视图"/>
+  <translation from="prefsMessageWindowsAllTab" to="合并到单个窗口"/>
+  <translation from="prefsMessageWindowsAllTabSearch" to="窗口创建;容器;标签页;自动标签;智能标签"/>
+  <translation from="prefsMessageWindowsAlwaysOnTop" to="始终将 Trillian 窗口置于其他窗口之上"/>
+  <translation from="prefsMessageWindowsAlwaysOnTopSearch" to="始终置顶;"/>
+  <translation from="prefsMessageWindowsAutoClose" to="无操作 %num% 分钟后自动关闭窗口"/>
+  <translation from="prefsMessageWindowsAutoCloseNumSearch" to="窗口关闭;窗口;清理;清除"/>
+  <translation from="prefsMessageWindowsAutoCloseSearch" to="窗口关闭;窗口;清理;清除"/>
+  <translation from="prefsMessageWindowsAutoTab" to="根据联系人列表分组"/>
+  <translation from="prefsMessageWindowsAutoTabSearch" to="窗口创建;容器;标签页;自动标签;智能标签"/>
+  <translation from="prefsMessageWindowsCreationDesktop" to="在桌面上显示窗口"/>
+  <translation from="prefsMessageWindowsCreationDesktopSearch" to="窗口创建;显示桌面窗口"/>
+  <translation from="prefsMessageWindowsCreationHidden" to="隐藏窗口并通知我"/>
+  <translation from="prefsMessageWindowsCreationHiddenSearch" to="ICQ 模式;窗口创建;通知窗口"/>
+  <translation from="prefsMessageWindowsCreationMinimized" to="在任务栏中显示为最小化窗口"/>
+  <translation from="prefsMessageWindowsCreationMinimizedSearch" to="自动隐藏;窗口创建;隐藏窗口;最小化窗口"/>
+  <translation from="prefsMessageWindowsDefaultAlwaysOnTop" to="始终置顶"/>
+  <translation from="prefsMessageWindowsDefaultAlwaysOnTopSearch" to="始终置顶;置顶"/>
+  <translation from="prefsMessageWindowsDefaultChoiceSearch" to="默认;窗口默认"/>
+  <translation from="prefsMessageWindowsDefaultContainer" to="始终分组到此容器："/>
+  <translation from="prefsMessageWindowsDefaultContainerSearch" to="默认;窗口默认;容器"/>
+  <translation from="prefsMessageWindowsDefaultContainerValueSearch" to="默认;窗口默认;容器"/>
+  <translation from="prefsMessageWindowsDefaultOpacity" to="不透明度"/>
+  <translation from="prefsMessageWindowsDefaultOpacitySearch" to="默认;窗口默认;透明;透明度;不透明度"/>
+  <translation from="prefsMessageWindowsDefaultOpacityValueSearch" to="默认;窗口默认;透明;透明度;不透明度"/>
+  <translation from="prefsMessageWindowsDefaultPositionSet" to="设置默认大小、位置和内部布局..."/>
+  <translation from="prefsMessageWindowsDescription" to="消息窗口包括联系人窗口、连接窗口和群聊窗口。在此配置其默认外观和行为。"/>
+  <translation from="prefsMessageWindowsFlashWindow" to="当新消息或请求到达时闪烁窗口 %num% 次"/>
+  <translation from="prefsMessageWindowsFlashWindowNumSearch" to="窗口闪烁;闪烁;任务栏闪烁;任务栏"/>
+  <translation from="prefsMessageWindowsFlashWindowSearch" to="窗口闪烁;闪烁;任务栏闪烁;任务栏"/>
+  <translation from="prefsMessageWindowsFocusLine" to="标记我上次离开对话的位置"/>
+  <translation from="prefsMessageWindowsFocusLineSearch" to="窗口焦点;焦点;焦点线;活动;最后活动"/>
+  <translation from="prefsMessageWindowsFocused" to="当窗口失去焦点时："/>
+  <translation from="prefsMessageWindowsFocusedSearch" to="窗口焦点;焦点;透明;透明度;黑白;淡出窗口;窗口淡出"/>
+  <translation from="prefsMessageWindowsFocusedTypeSearch" to="窗口焦点;焦点;透明;透明度;黑白;淡出窗口;窗口淡出"/>
+  <translation from="prefsMessageWindowsFocusedWarning" to="上述设置对性能要求较高，可能拖慢旧电脑。某些支持高级透明效果的皮肤可能无法半透明显示。"/>
+  <translation from="prefsMessageWindowsInstantSearchDetail" to="用绿色下划线标记百科条目相关词汇"/>
+  <translation from="prefsMessageWindowsInstantSearchDetailSearch" to="搜索;工具提示;搜索提示;维基百科;百科全书;即时搜索;智能标签;下划线;隐私;即时查询;内存;内存占用"/>
+  <translation from="prefsMessageWindowsInstantSearchTag" to="用蓝色下划线标记热门搜索词"/>
+  <translation from="prefsMessageWindowsInstantSearchTagSearch" to="搜索;即时搜索;智能标签;下划线;即时查询;内存;内存占用"/>
+  <translation from="prefsMessageWindowsInstantSearchToolbar" to="在消息窗口中显示搜索工具栏"/>
+  <translation from="prefsMessageWindowsInstantSearchToolbarSearch" to="搜索;工具栏;即时搜索;即时查询"/>
+  <translation from="prefsMessageWindowsInstantSearchWarning" to="上述设置对性能要求较高，可能拖慢旧电脑。"/>
+  <translation from="prefsMessageWindowsName" to="消息窗口"/>
+  <translation from="prefsMessageWindowsNoTab" to="不合并窗口"/>
+  <translation from="prefsMessageWindowsNoTabSearch" to="窗口创建;容器;标签页;自动标签;智能标签"/>
+  <translation from="prefsMessageWindowsPositionClear" to="重置"/>
+  <translation from="prefsMessageWindowsPositionClearSearch" to="窗口创建;尺寸;位置"/>
+  <translation from="prefsMessageWindowsPositionRemember" to="显示在之前的位置和尺寸"/>
+  <translation from="prefsMessageWindowsPositionRememberSearch" to="窗口创建;尺寸;位置"/>
+  <translation from="prefsMessageWindowsTabSingle" to="即使只有一个窗口也显示标签"/>
+  <translation from="prefsMessageWindowsTabSingleSearch" to="标签页;旧方法;容器;单窗口"/>
+  <translation from="prefsMessageWindowsTaskbarEnhanced" to="在任务栏显示聊天活动"/>
+  <translation from="prefsMessageWindowsTaskbarEnhancedSearch" to="任务栏;标题;事件;计数"/>
+  <translation from="prefsMessageWindowsWidgets" to="可用时在消息窗口中显示 Trillian Mini"/>
+  <translation from="prefsMessageWindowsWidgetsSearch" to="小组件;心情;时区;Astra;消息小组件;Trillian Mini;迷你"/>
+  <translation from="prefsMessageWindowsWidgetsWarning" to="此功能需要 Flash 9。点击此处下载。"/>
+  <translation from="prefsMyIconComputer" to="我想使用电脑中的图标："/>
+  <translation from="prefsMyIconComputerSearch" to="我的图标;图标;好友图标;头像;显示图片;照片"/>
+  <translation from="prefsMyIconDescription" to="从下方列表选择图标或定位电脑中的图片；好友将在联系人列表中看到此图标。"/>
+  <translation from="prefsMyIconEmpty" to="不，谢谢。留空。"/>
+  <translation from="prefsMyIconEmptySearch" to="我的图标;图标;好友图标;头像;显示图片;照片"/>
+  <translation from="prefsMyIconName" to="我的图标"/>
+  <translation from="prefsMyIconNameOther" to="我的图标 - %identity%"/>
+  <translation from="prefsMyIconNameSearch" to="我的图标;图标;好友图标;头像;显示图片;照片"/>
+  <translation from="prefsMyIconWindows" to="我想使用与 Microsoft Windows 相同的图标。"/>
+  <translation from="prefsMyIconWindowsSearch" to="我的图标;图标;好友图标;头像;显示图片;照片;XP;Windows;Windows XP"/>
+  <translation from="prefsNotificationsAlertMessageBuzz" to="联系人“震动”我"/>
+  <translation from="prefsNotificationsAlertMessageBuzzSearch" to="音效;震动;提醒"/>
+  <translation from="prefsNotificationsAlertMessageGroup" to="聊天室窗口收到新消息"/>
+  <translation from="prefsNotificationsAlertMessageGroupSearch" to="音效;聊天室;聊天音效"/>
+  <translation from="prefsNotificationsAlertMessagePrivate" to="联系人窗口收到新消息"/>
+  <translation from="prefsNotificationsAlertMessagePrivateSearch" to="新消息提示音;声音;音效"/>
+  <translation from="prefsNotificationsAlertMessageTyping" to="联系人开始输入消息"/>
+  <translation from="prefsNotificationsAlertMessageTypingSearch" to="心灵感应模式;输入状态"/>
+  <translation from="prefsNotificationsAlertNum" to="最多显示 %num% 个窗口"/>
+  <translation from="prefsNotificationsAlertNumAmountSearch" to="通知窗口;通知;系统托盘;最大提醒数"/>
+  <translation from="prefsNotificationsAlertNumSearch" to="通知窗口;通知;系统托盘;最大提醒数"/>
+  <translation from="prefsNotificationsAlertSignOff" to="联系人下线"/>
+  <translation from="prefsNotificationsAlertSignOffSearch" to="下线提示音;联系人下线;好友离线音效;声音;音效"/>
+  <translation from="prefsNotificationsAlertSignOn" to="联系人上线"/>
+  <translation from="prefsNotificationsAlertSignOnSearch" to="上线提示音;联系人上线;好友在线音效;声音;音效"/>
+  <translation from="prefsNotificationsAlertStatus" to="联系人状态变更"/>
+  <translation from="prefsNotificationsAlertStatusMessage" to="联系人状态消息变更"/>
+  <translation from="prefsNotificationsAlertStatusMessageSearch" to="状态变更提示音;联系人状态变更;好友状态;声音;音效;可用消息;歌曲;"/>
+  <translation from="prefsNotificationsAlertStatusSearch" to="状态变更提示音;联系人状态变更;好友状态;声音;音效"/>
+  <translation from="prefsNotificationsDescription" to="选择何时以及如何通过声音、图标和弹窗通知您事件发生。"/>
+  <translation from="prefsNotificationsName" to="通知"/>
+  <translation from="prefsNotificationsSounds" to="播放声音"/>
+  <translation from="prefsNotificationsSoundsAway" to="当我离开时不播放声音"/>
+  <translation from="prefsNotificationsSoundsAwaySearch" to="声音;静音;离开状态音效"/>
+  <translation from="prefsNotificationsSoundsFocus" to="仅在窗口未聚焦时播放请求通知音"/>
+  <translation from="prefsNotificationsSoundsFocusSearch" to="声音;音效;新消息音效;焦点"/>
+  <translation from="prefsNotificationsSoundsSearch" to="声音;音效;播放声音"/>
+  <translation from="prefsPluginsDescription" to="插件允许您按需启用新功能。请访问我们的网站获取更多插件。"/>
+  <translation from="prefsPluginsName" to="插件"/>
+  <translation from="prefsPluginsNameSearch" to="插件;扩展;模块;附加组件"/>
+  <translation from="prefsPluginsRemove" to="X"/>
+  <translation from="prefsPrivacyAllowAdd" to="允许"/>
+  <translation from="prefsPrivacyAllowAddSearch" to="允许;可见;阻止"/>
+  <translation from="prefsPrivacyAllowAddShow" to="允许联系人..."/>
+  <translation from="prefsPrivacyAllowAddShowSearch" to="允许;可见"/>
+  <translation from="prefsPrivacyAllowAll" to="允许所有用户联系我"/>
+  <translation from="prefsPrivacyAllowCancel" to="取消"/>
+  <translation from="prefsPrivacyAllowCancelSearch" to="允许;可见;阻止"/>
+  <translation from="prefsPrivacyAllowContactList" to="仅允许通讯录中的用户"/>
+  <translation from="prefsPrivacyAllowEdit" to="联系人:"/>
+  <translation from="prefsPrivacyAllowEditSearch" to="允许;可见"/>
+  <translation from="prefsPrivacyAllowListOnly" to="仅允许以下用户"/>
+  <translation from="prefsPrivacyAllowListSearch" to="允许;可见"/>
+  <translation from="prefsPrivacyAllowRemove" to="移除"/>
+  <translation from="prefsPrivacyAllowRemoveSearch" to="允许;可见;阻止"/>
+  <translation from="prefsPrivacyBlockAdd" to="阻止"/>
+  <translation from="prefsPrivacyBlockAddSearch" to="阻止;不可见"/>
+  <translation from="prefsPrivacyBlockAddShow" to="阻止联系人..."/>
+  <translation from="prefsPrivacyBlockAddShowSearch" to="阻止;不可见"/>
+  <translation from="prefsPrivacyBlockAll" to="阻止所有用户"/>
+  <translation from="prefsPrivacyBlockCancel" to="取消"/>
+  <translation from="prefsPrivacyBlockCancelSearch" to="阻止;不可见"/>
+  <translation from="prefsPrivacyBlockEdit" to="联系人:"/>
+  <translation from="prefsPrivacyBlockEditSearch" to="阻止;不可见"/>
+  <translation from="prefsPrivacyBlockListOnly" to="仅阻止以下用户"/>
+  <translation from="prefsPrivacyBlockListSearch" to="阻止;不可见"/>
+  <translation from="prefsPrivacyBlockRemove" to="移除"/>
+  <translation from="prefsPrivacyBlockRemoveSearch" to="阻止;不可见;允许"/>
+  <translation from="prefsPrivacyDescription" to="管理此账号的隐私设置。"/>
+  <translation from="prefsPrivacyDirectory" to="允许我的名字出现在 Astra 用户搜索中"/>
+  <translation from="prefsPrivacyDirectorySearch" to="隐私;搜索;目录"/>
+  <translation from="prefsPrivacyIgnoreAdd" to="忽略"/>
+  <translation from="prefsPrivacyIgnoreAddSearch" to="忽略;可见;阻止"/>
+  <translation from="prefsPrivacyIgnoreAddShow" to="忽略联系人..."/>
+  <translation from="prefsPrivacyIgnoreAddShowSearch" to="忽略;可见"/>
+  <translation from="prefsPrivacyIgnoreCancel" to="取消"/>
+  <translation from="prefsPrivacyIgnoreCancelSearch" to="忽略;可见;阻止"/>
+  <translation from="prefsPrivacyIgnoreEdit" to="联系人:"/>
+  <translation from="prefsPrivacyIgnoreEditSearch" to="忽略;可见"/>
+  <translation from="prefsPrivacyIgnoreListSearch" to="忽略;可见"/>
+  <translation from="prefsPrivacyIgnoreRemove" to="移除"/>
+  <translation from="prefsPrivacyIgnoreRemoveSearch" to="忽略;可见;阻止"/>
+  <translation from="prefsPrivacyList" to="允许我的名字显示在他人的公开列表中"/>
+  <translation from="prefsPrivacyListSearch" to="隐私;搜索;目录;社交网络"/>
+  <translation from="prefsPrivacyMessageAccept" to="仅接受通讯录用户的消息"/>
+  <translation from="prefsPrivacyMessageAcceptSearch" to="隐私;消息过滤;通讯录"/>
+  <translation from="prefsPrivacyName" to="隐私"/>
+  <translation from="prefsPrivacySearch" to="隐私;允许;阻止;忽略;"/>
+  <translation from="prefsPro" to="&lt;b&gt;Trillian Pro&lt;/b&gt; 提供更多功能和服务，助您随时随地保持连接！"/>
+  <translation from="prefsProUpgrade" to="您的 &lt;b&gt;Trillian Pro&lt;/b&gt; 许可证不适用于当前版本。请立即升级！"/>
+  <translation from="prefsProxyDescription" to="在此配置防火墙/代理设置。"/>
+  <translation from="prefsProxyHost" to="主机:"/>
+  <translation from="prefsProxyHostSearch" to="代理;连接;主机"/>
+  <translation from="prefsProxyName" to="代理服务器"/>
+  <translation from="prefsProxyNameSearch" to="代理;连接"/>
+  <translation from="prefsProxyPassword" to="密码:"/>
+  <translation from="prefsProxyPasswordSearch" to="代理;连接;密码"/>
+  <translation from="prefsProxyPort" to="端口:"/>
+  <translation from="prefsProxyPortSearch" to="代理;连接;端口"/>
+  <translation from="prefsProxyServer" to="代理:"/>
+  <translation from="prefsProxyServerSearch" to="代理;连接;服务器"/>
+  <translation from="prefsProxyUsername" to="用户名:"/>
+  <translation from="prefsProxyUsernameSearch" to="代理;连接;用户名"/>
+  <translation from="prefsSkinsAdvanced" to="高级 &gt;&gt;"/>
+  <translation from="prefsSkinsAlert" to="此皮肤已过时，可能不支持当前 Trillian 版本的全部功能（如新版音视频功能）。请访问官网更新。"/>
+  <translation from="prefsSkinsApply" to="应用皮肤"/>
+  <translation from="prefsSkinsBack" to="&lt;&lt; 返回选择器"/>
+  <translation from="prefsSkinsCustomWindowsDescription" to="可替换皮肤中的特定窗口（如通讯录）为自定义窗口。"/>
+  <translation from="prefsSkinsCustomWindowsName" to="自定义窗口"/>
+  <translation from="prefsSkinsDescription" to="根据个性更换皮肤，定制 Trillian 外观。更多皮肤请访问官网下载。"/>
+  <translation from="prefsSkinsEmoticons" to="表情:"/>
+  <translation from="prefsSkinsEmoticonsSearch" to="皮肤;表情;表情包"/>
+  <translation from="prefsSkinsInterface" to="界面:"/>
+  <translation from="prefsSkinsInterfaceDescription" to="描述:"/>
+  <translation from="prefsSkinsInterfaceDescriptionSearch" to="皮肤;界面;标签式;极简"/>
+  <translation from="prefsSkinsInterfaceSearch" to="皮肤;界面;标签式;极简"/>
+  <translation from="prefsSkinsName" to="皮肤"/>
+  <translation from="prefsSkinsSettingsAlpha" to="为皮肤主窗口启用透明混合效果（若支持）"/>
+  <translation from="prefsSkinsSettingsAlphaSearch" to="透明;分层;速度;性能"/>
+  <translation from="prefsSkinsSettingsAlphaWarning" to="此设置对性能要求较高，可能拖慢老旧设备。"/>
+  <translation from="prefsSkinsSettingsDescription" to="更新当前皮肤设置。"/>
+  <translation from="prefsSkinsSettingsName" to="皮肤设置"/>
+  <translation from="prefsSkinsSounds" to="音效:"/>
+  <translation from="prefsSkinsSoundsSearch" to="皮肤;音效;音效包"/>
+  <translation from="prefsStatusMessagesAddButton" to="添加..."/>
+  <translation from="prefsStatusMessagesAddButtonSearch" to="添加;可用消息;状态消息;离开消息;分组"/>
+  <translation from="prefsStatusMessagesDescription" to="在此编辑或查看状态消息。可添加颜色、插入字段或按服务定制消息。随心所欲！"/>
+  <translation from="prefsStatusMessagesMessage" to="消息:"/>
+  <translation from="prefsStatusMessagesName" to="状态消息"/>
+  <translation from="prefsStatusMessagesRemoveButton" to="X"/>
+  <translation from="prefsStatusMessagesServices" to="服务:"/>
+  <translation from="prefsStatusMessagesSetStatusButton" to="设置状态"/>
+  <translation from="prefsStatusMessagesStatus" to="状态:"/>
+  <translation from="prefsStatusMessagesTitle" to="标题:"/>
+  <translation from="prefsTextConversationsAutoLinkEmoticon" to="自动将输入文本转换为表情和链接"/>
+  <translation from="prefsTextConversationsAutoLinkEmoticonSearch" to="链接;表情;自动;转换"/>
+  <translation from="prefsTextConversationsBackgroundChoose" to="选择背景颜色..."/>
+  <translation from="prefsTextConversationsBackgroundChooseSearch" to="字体;文本 字体;颜色 颜色;颜色;背景;背景颜色"/>
+  <translation from="prefsTextConversationsClearLine" to="清除单行"/>
+  <translation from="prefsTextConversationsClearLineSearch" to="清除;编辑"/>
+  <translation from="prefsTextConversationsCloseAfterSend" to="发送消息后关闭联系人窗口"/>
+  <translation from="prefsTextConversationsCloseAfterSendSearch" to="ICQ 风格;关闭窗口;窗口;icq;单条消息模式;窗口模式"/>
+  <translation from="prefsTextConversationsColorChoose" to="选择文字颜色..."/>
+  <translation from="prefsTextConversationsColorChooseSearch" to="字体;文本 文本;颜色 字体;颜色"/>
+  <translation from="prefsTextConversationsDescription" to="根据聊天习惯自定义窗口功能、颜色和字体。"/>
+  <translation from="prefsTextConversationsEmoticonSpaceRequired" to="严格表情解析（表情前后需为非字符）"/>
+  <translation from="prefsTextConversationsEmoticonSpaceRequiredSearch" to="表情"/>
+  <translation from="prefsTextConversationsEmoticons" to="在消息中显示表情"/>
+  <translation from="prefsTextConversationsEmoticonsSearch" to="表情"/>
+  <translation from="prefsTextConversationsEmotisounds" to="当消息包含表情音效时播放"/>
+  <translation from="prefsTextConversationsEmotisoundsSearch" to="表情音效;LOL;音效"/>
+  <translation from="prefsTextConversationsFontChoose" to="选择字体样式..."/>
+  <translation from="prefsTextConversationsFontChooseSearch" to="字体;样式"/>
+  <translation from="prefsTextConversationsFormatting" to="用此字体覆盖联系人发来的样式"/>
+  <translation from="prefsTextConversationsFormattingSearch" to="格式;粗体;斜体;下划线"/>
+  <translation from="prefsTextConversationsFormattingSend" to="将格式应用于发送的消息"/>
+  <translation from="prefsTextConversationsFormattingSendSearch" to="格式;粗体;斜体;下划线"/>
+  <translation from="prefsTextConversationsListEmoticons" to="显示表情列表"/>
+  <translation from="prefsTextConversationsListEmoticonsSearch" to="表情;表情列表;编辑"/>
+  <translation from="prefsTextConversationsMessageDisplay" to="在对话气泡中显示消息"/>
+  <translation from="prefsTextConversationsMessageDisplaySearch" to="气泡;消息"/>
+  <translation from="prefsTextConversationsName" to="聊天"/>
+  <translation from="prefsTextConversationsNewBrowser" to="在新浏览器窗口打开链接"/>
+  <translation from="prefsTextConversationsNewBrowserSearch" to="链接;浏览器;新窗口"/>
+  <translation from="prefsTextConversationsNewLine" to="创建新行"/>
+  <translation from="prefsTextConversationsNewLineSearch" to="换行;回车;编辑"/>
+  <translation from="prefsTextConversationsRecentItems" to="查看最近发言记录"/>
+  <translation from="prefsTextConversationsRecentItemsSearch" to="历史;编辑历史;最近"/>
+  <translation from="prefsTextConversationsScaleEmoticons" to="缩放表情以匹配字体大小"/>
+  <translation from="prefsTextConversationsScaleEmoticonsSearch" to="缩放表情"/>
+  <translation from="prefsTextConversationsScaleImages" to="缩放图片以适应文本显示区域"/>
+  <translation from="prefsTextConversationsScaleImagesSearch" to="缩放图片;直接消息;图片"/>
+  <translation from="prefsTextConversationsSendMessage" to="发送消息"/>
+  <translation from="prefsTextConversationsSendMessageSearch" to="发送;消息;编辑"/>
+  <translation from="prefsTextConversationsTimestampInstructions" to="%h - 小时（24小时制）&#09;&#09;%H - 小时（12小时制）&#09;%a - 上午/下午&#13;&#10;%m - 分钟&#09;&#09;%s - 秒&#09;%y - 年&#13;&#10;%N - 月份数字&#09;%n- 月份名称&#09;%d - 星期缩写（如周一）&#13;&#10;%D - 日期数字"/>
+  <translation from="prefsTextConversationsTimestamps" to="每条消息显示时间戳"/>
+  <translation from="prefsTextConversationsTimestampsCustomEditSearch" to="显示;时间戳;时间"/>
+  <translation from="prefsTextConversationsTimestampsEnhanced" to="按时间间隔标记章节（如“5分钟前”）"/>
+  <translation from="prefsTextConversationsTimestampsEnhancedSearch" to="显示;时间戳;时间;分钟前;小时前"/>
+  <translation from="prefsTextConversationsTimestampsSearch" to="显示;时间戳;时间"/>
+  <translation from="prefsTextConversationsTyping" to="允许他人看到我正在输入"/>
+  <translation from="prefsTextConversationsTypingProtection" to="仅当已发送过消息后"/>
+  <translation from="prefsTextConversationsTypingProtectionSearch" to="输入状态;通知;隐私"/>
+  <translation from="prefsTextConversationsTypingSearch" to="输入状态;通知;隐私"/>
+  <translation from="prefsTimeTravelDescription" to="允许您回溯已记录的时间并即时回放事件。当前暂不支持穿越到未来。"/>
+  <translation from="prefsTimeTravelName" to="时间旅行"/>
+  <translation from="prefsTimeTravelPlaybackHardDrive" to="使用硬盘"/>
+  <translation from="prefsTimeTravelPlaybackHardDriveDescription" to="提供最大回放容量，适合高速硬盘"/>
+  <translation from="prefsTimeTravelPlaybackHardDriveSearch" to="时间旅行;PVR;即时回放;倒带"/>
+  <translation from="prefsTimeTravelPlaybackLocationBrowse" to="浏览..."/>
+  <translation from="prefsTimeTravelPlaybackLocationBrowseSearch" to="时间旅行;PVR;即时回放;倒带"/>
+  <translation from="prefsTimeTravelPlaybackMemory" to="使用内存"/>
+  <translation from="prefsTimeTravelPlaybackMemoryDescription" to="启用最快的视频回放检索功能。若未运行其他大型应用程序或硬盘速度不足，建议使用此选项。"/>
+  <translation from="prefsTimeTravelPlaybackMemorySearch" to="时间旅行;PVR;即时回放;视频倒带;音频倒带"/>
+  <translation from="prefsTimeTravelPlaybackOff" to="关闭"/>
+  <translation from="prefsTimeTravelPlaybackOffDescription" to="若电脑运行缓慢，请关闭即时回放功能。"/>
+  <translation from="prefsTimeTravelPlaybackOffSearch" to="时间旅行;PVR;即时回放;视频倒带;音频倒带"/>
+  <translation from="prefsVideoAudioAudioInput" to="麦克风输入："/>
+  <translation from="prefsVideoAudioAudioInputSearch" to="音频;麦克风;麦克风输入;音源;声音来源"/>
+  <translation from="prefsVideoAudioAudioOutput" to="扬声器输出："/>
+  <translation from="prefsVideoAudioAudioOutputSearch" to="音频;扬声器;扬声器输出;音箱"/>
+  <translation from="prefsVideoAudioDescription" to="在此选择摄像头和麦克风设备，并调整音视频质量设置。"/>
+  <translation from="prefsVideoAudioName" to="视频与语音"/>
+  <translation from="prefsVideoAudioVideoPro" to="&lt;b&gt;Trillian Pro&lt;/b&gt;提供更多视频聊天功能，例如全屏模式和趣味特效！点击此处了解更多！"/>
+  <translation from="prefsVideoAudioVideoQualityHighDescription" to="尽可能占用更多带宽，以呈现最清晰的画面和最佳音质。"/>
+  <translation from="prefsVideoAudioVideoQualityHighDescriptionSearch" to="视频质量;广播;广播级质量;视频带宽;音频质量"/>
+  <translation from="prefsVideoAudioVideoQualityHighName" to="高"/>
+  <translation from="prefsVideoAudioVideoQualityLowDescription" to="使用最低带宽以维持基本画面和可接受的音质。"/>
+  <translation from="prefsVideoAudioVideoQualityLowDescriptionSearch" to="视频质量;广播;广播级质量;视频带宽;音频质量"/>
+  <translation from="prefsVideoAudioVideoQualityLowName" to="低"/>
+  <translation from="prefsVideoAudioVideoQualityMediumDescription" to="占用适中带宽，在保证音视频质量的同时限制带宽峰值。"/>
+  <translation from="prefsVideoAudioVideoQualityMediumDescriptionSearch" to="视频质量;广播;广播级质量;视频带宽;音频质量"/>
+  <translation from="prefsVideoAudioVideoQualityMediumName" to="中"/>
+  <translation from="prefsVideoAudioVideoQualitySearch" to="视频质量;广播;广播级质量;视频带宽"/>
+  <translation from="prefsVideoAudioVideoSettings" to="摄像头设置..."/>
+  <translation from="prefsVideoAudioVideoSettingsSearch" to="视频;视频设置;摄像头"/>
+  <translation from="prefsVideoAudioVideoSettingsWarning" to="仅在视频聊天激活时可调整设置。"/>
+  <translation from="prefsVideoAudioVideoSource" to="摄像头来源："/>
+  <translation from="prefsVideoAudioVideoSourceSearch" to="视频设置;摄像头来源;摄像头"/>
+  <translation from="purple" to="紫色"/>
+  <translation from="red" to="红色"/>
+  <translation from="second" to="秒"/>
+  <translation from="seconds" to="秒"/>
+  <translation from="textErrorAccountDirectory" to="无法读取或写入此账户的配置目录。"/>
+  <translation from="textErrorAccountLoggedIn" to="同一账户在同一台设备上仅允许登录一次。请更换账户或退出其他Trillian实例。"/>
+  <translation from="textErrorComponents" to="无法找到运行Trillian所需的全部组件。"/>
+  <translation from="textErrorCopyUninstall" to="Trillian当前正在运行。卸载过程可能无法完全删除所有文件。建议停止运行后再继续。是否仍要强行卸载？"/>
+  <translation from="textErrorDirectory" to="无法创建目录：%directory%。"/>
+  <translation from="textErrorFilesStillExist" to="检测到配置目录中仍存有个人文件，将启动资源管理器供您手动清理。"/>
+  <translation from="textErrorPluginAlready" to="此插件已加载。"/>
+  <translation from="textErrorPluginInvalid" to="无效的Trillian插件。"/>
+  <translation from="textErrorPluginPro" to="此插件仅限Trillian Pro使用。"/>
+  <translation from="textErrorSkin" to="必须选择皮肤以运行Trillian。"/>
+  <translation from="textErrorSkinInvalid" to="此皮肤无效，请选择其他皮肤或退出。"/>
+  <translation from="textErrorSkinOld" to="未找到兼容Trillian 0.70及以上版本的皮肤，程序将退出。"/>
+  <translation from="textErrorSkinVersion" to="此皮肤与当前Trillian版本不兼容，请选择其他皮肤。"/>
+  <translation from="textErrorStixe" to="必须正确选择界面/音效/表情包组合。未对Stixe进行任何更改。"/>
+  <translation from="textErrorUninstall" to="感谢使用Trillian，期待您再次体验我们的产品。"/>
+  <translation from="textErrorWinsock" to="Trillian需要WinSock 2.0或更高版本。请升级WinSock后继续！&#13;&#10;升级方法：请参阅Trillian自述文件。"/>
+  <translation from="textNoticeAccountRemove" to="确定要移除此账户吗？"/>
+  <translation from="textNoticeAge" to="使用Trillian需年满13周岁。若年龄输入有误，请选择“是”重新输入；否则选择“否”，Trillian将关闭。是否输入有误？"/>
+  <translation from="textNoticeAgeInstructions" to="使用Trillian需年满13周岁。"/>
+  <translation from="textNoticeAwayRemove" to="确定要移除此消息吗？"/>
+  <translation from="textNoticeDirectory" to="目录不存在，是否尝试创建？"/>
+  <translation from="textNoticeHTTP" to="此链接使用协议：%protocol%，&#13;&#10;将启动应用程序：%application%。&#13;&#10;是否继续？"/>
+  <translation from="textNoticeHTTPUnknown" to="此链接使用协议：%protocol%，&#13;&#10;将启动未知应用程序。&#13;&#10;是否继续？"/>
+  <translation from="textNoticeIdentityChange" to="是否将%account%的身份从“%from_section%”更改为“%to_section%”？"/>
+  <translation from="textNoticeIdentityChangeInfo" to="此操作将断开与%account%（%medium%）的连接。导入“%to_section%”身份的联系人分组可能与“%from_section%”不同。其他连接到Astra账户的设备将被断开。"/>
+  <translation from="textNoticeIdentityChangeInfoNotConnected" to="导入“%to_section%”身份的联系人分组可能与“%from_section%”不同。其他连接到Astra账户的设备将被断开。"/>
+  <translation from="textNoticeIdentityRemove" to="确定要移除此身份吗？"/>
+  <translation from="textNoticeMoveConfig" to="此账户的存储设置已不可访问。是否迁移？"/>
+  <translation from="textNoticeMoveConfigInstructions" to="新版Windows启用了用户账户控制（UAC），禁止应用程序写入硬盘特定区域。启用UAC后，原有配置目录无法安全更新。Trillian建议将设置迁移至可正常操作的区域。"/>
+  <translation from="textNoticeNotLoaded" to="必须启动并连接Trillian Astra才能使用此功能。"/>
+  <translation from="textNoticePluginUninstall" to="卸载此插件将删除其配置文件和程序。确定要卸载吗？"/>
+  <translation from="textNoticeRestart" to="部分设置需重启Trillian才能生效。是否立即重启？"/>
+  <translation from="textNoticeSectionRemove" to="是否同时移除此身份关联的分组？（将删除该分组内所有联系人）"/>
+  <translation from="textNoticeWallRemove" to="确定要移除此面板及其内部所有小工具吗？"/>
+  <translation from="textNoticeWidgetAdd" to="是否将“%widget_name%”小工具添加到Astra个人资料？"/>
+  <translation from="textNoticeWidgetRemove" to="确定要移除此小工具吗？"/>
+  <translation from="titleError" to="Trillian错误"/>
+  <translation from="titleNotice" to="Trillian提示"/>
+  <translation from="trialDays" to="您正在试用Trillian Pro，此版本包含免费版未提供的高级功能。此试用许可将在%days% %day_word%后过期。到期后高级功能将禁用，但仍可继续使用免费版。点击此处了解更多。"/>
+  <translation from="trialExpired" to="Trillian Pro试用已结束。高级功能已禁用，但仍可继续使用免费版。点击此处了解Trillian Pro详情。"/>
+  <translation from="trialToday" to="您正在试用Trillian Pro，此版本包含免费版未提供的高级功能。此试用许可将于今日到期。到期后高级功能将禁用，但仍可继续使用免费版。点击此处了解更多。"/>
+  <translation from="with the Cobalt skin in the Minimal interface" to="以极简界面搭配钴蓝色皮肤"/>
+  <translation from="with the Cobalt skin in the Original interface" to="以经典界面搭配钴蓝色皮肤"/>
+  <translation from="with the Cordonata skin" to="搭配科尔多纳风格皮肤"/>
+  <translation from="wizardDescriptionAIM" to="请在下方输入AIM账号和密码。"/>
+  <translation from="wizardNameAIM" to="AOL®即时通讯"/>
+  <translation from="wizardLoginInstructionsAIM" to="AIM账号："/>
+  <translation from="wizardLoginErrorAIM" to="请输入有效的AIM账号。&#13;&#10;不能以数字开头。"/>
+  <translation from="wizardDescriptionICQ" to="请在下方输入ICQ UIN和密码。"/>
+  <translation from="wizardNameICQ" to="ICQ®"/>
+  <translation from="wizardLoginInstructionsICQ" to="ICQ UIN："/>
+  <translation from="wizardLoginErrorICQ" to="请输入有效的ICQ UIN，&#13;&#10;例如：1234567或1-234-567。"/>
+  <translation from="wizardDescriptionMSN" to="请在下方输入Windows Live Messenger邮箱和密码。"/>
+  <translation from="wizardNameMSN" to="Windows Live Messenger"/>
+  <translation from="wizardLoginInstructionsMSN" to="Windows Live邮箱："/>
+  <translation from="wizardLoginErrorMSN" to="请输入有效的邮箱地址，&#13;&#10;例如：user@hotmail.com。"/>
+  <translation from="wizardDescriptionYAHOO" to="请在下方输入Yahoo! ID和密码。"/>
+  <translation from="wizardNameYAHOO" to="Yahoo! Messenger"/>
+  <translation from="wizardLoginInstructionsYAHOO" to="Yahoo! ID："/>
+  <translation from="wizardLoginErrorYAHOO" to="请输入有效的Yahoo! ID。"/>
+  <translation from="wizardDescriptionGOOGLE" to="请在下方输入Google邮箱和密码。"/>
+  <translation from="wizardNameGOOGLE" to="Google Talk"/>
+  <translation from="wizardLoginInstructionsGOOGLE" to="Google邮箱："/>
+  <translation from="wizardLoginErrorGOOGLE" to="请输入有效的邮箱地址，&#13;&#10;例如：user@gmail.com。"/>
+  <translation from="wizardDescriptionFACEBOOK" to="为您的Facebook连接设置自定义名称（可任意命名）。连接时将跳转至Facebook网站输入完整邮箱和密码。"/>
+  <translation from="wizardNameFACEBOOK" to="Facebook"/>
+  <translation from="wizardLoginInstructionsFACEBOOK" to="名称："/>
+  <translation from="wizardLoginErrorFACEBOOK" to="请输入有效的Facebook名称。"/>
+  <translation from="wizardDescriptionTWITTER" to="请在下方输入Twitter用户名和密码。"/>
+  <translation from="wizardNameTWITTER" to="Twitter"/>
+  <translation from="wizardLoginInstructionsTWITTER" to="Twitter用户名："/>
+  <translation from="wizardLoginErrorTWITTER" to="请输入有效的Twitter用户名。"/>
+  <translation from="wizardDescriptionMYSPACE" to="请在下方输入MySpaceIM邮箱和密码。"/>
+  <translation from="wizardNameMYSPACE" to="MySpaceIM"/>
+  <translation from="wizardLoginInstructionsMYSPACE" to="MySpaceIM邮箱："/>
+  <translation from="wizardLoginErrorMYSPACE" to="请输入有效的邮箱地址，&#13;&#10;例如：user@email.com。"/>
+  <translation from="wizardDescriptionJABBER" to="请在下方输入完整JID和密码。"/>
+  <translation from="wizardNameJABBER" to="Jabber/XMPP"/>
+  <translation from="wizardLoginInstructionsJABBER" to="JID:"/>
+  <translation from="wizardLoginErrorJABBER" to="请输入完整JID，&#13;&#10;例如：user@jabber.org。"/>
+  <translation from="wizardDescriptionRENDEZVOUS" to="Bonjour允许您无需服务器即可与局域网内其他用户聊天。请为此Bonjour连接设置自定义名称。"/>
+  <translation from="wizardNameRENDEZVOUS" to="Bonjour"/>
+  <translation from="wizardLoginInstructionsRENDEZVOUS" to="名称："/>
+  <translation from="wizardLoginErrorRENDEZVOUS" to="请输入有效的Bonjour名称。&#13;&#10;长度需为1-63个字符。"/>
+  <translation from="wizardNameIMAP" to="IMAP"/>
+  <translation from="wizardNameIRC" to="IRC"/>
+  <translation from="wizardNamePOP3" to="POP3"/>
+  <translation from="wizardNameSKYPE" to="Skype"/>
+  <translation from="year" to="年"/>
+  <translation from="years" to="年份"/>
+  <translation from="yellow" to="黄色"/>
+</language>

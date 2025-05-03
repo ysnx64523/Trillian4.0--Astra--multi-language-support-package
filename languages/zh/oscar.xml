@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)">
+	<translation from="AIM servers appear to be down.  Please try again in a little while." to="AIM服务器似乎已宕机，请稍后再试。"/>
+	<translation from="Capabilities" to="功能"/>
+	<translation from="Close SecureIM Session" to="关闭安全即时通讯会话"/>
+	<translation from="Enter your AIM Screen Name and password below and click connect." to="在下方输入您的AIM账号和密码，然后点击连接。"/>
+	<translation from="Enter your ICQ UIN and password below and click connect." to="在下方输入您的ICQ UIN和密码，然后点击连接。"/>
+	<translation from="Error code 29: We think this means the AIM/ICQ servers are sick of seeing connections from your IP address.  Wait a few minutes and try again." to="错误代码29：可能是AIM/ICQ服务器已厌倦接收来自您IP地址的连接。请等待几分钟后重试。"/>
+	<translation from="Establish SecureIM Session" to="建立安全即时通讯会话"/>
+	<translation from="Establishing SecureIM tunnel.  Please wait." to="正在建立安全即时通讯隧道，请稍候。"/>
+	<translation from="OSCAR protocol support, enabling access to both AIM and ICQ accounts." to="支持OSCAR协议，允许访问AIM和ICQ账号。"/>
+	<translation from="Idle Time" to="空闲时间"/>
+	<translation from="Improper login sequence.  This should not be happening; please contact support@ceruleanstudios.com with more information." to="登录顺序异常。此问题不应发生，请联系support@ceruleanstudios.com并提供详细信息。"/>
+	<translation from="Invalid password.  If you are sure your password is entered correctly, try changing the password from the AIM webpage." to="密码无效。若确认密码正确，请尝试通过AIM网页修改密码。"/>
+	<translation from="Not Available" to="不可用"/>
+	<translation from="Occupied" to="忙碌中"/>
+	<translation from="Online Time" to="在线时长"/>
+	<translation from="SecureIM" to="安全即时通讯"/>
+	<translation from="The AIM service is temporarily unavailable.  Please try again in a little while." to="AIM服务暂时不可用，请稍后再试。"/>
+	<translation from="The screen name or password you entered is invalid." to="输入的账号或密码无效。"/>
+	<translation from="Unknown password problem.  It is possible that your password exceeds the maximum length allowed by AIM/ICQ.  Remember that ICQ passwords can be no longer than 8 characters and AIM passwords no longer than 16.  Close this connection and re-create it through the connection manager with the proper password length." to="未知密码问题：您的密码可能超出AIM/ICQ允许的最大长度。ICQ密码最长8字符，AIM密码最长16字符。请关闭连接并使用正确长度的密码重新创建。"/>
+	<translation from="You are attempting to sign on again too soon.  Please wait ~15 minutes and try again!  Do not login during this period or it will only extend itself." to="登录过于频繁，请等待约15分钟后再试！期间请勿登录，否则等待时间会延长。"/>
+	<translation from="You are currently signed onto AIM using another client (most likely WinAIM).  Please close this application and retry.  This behavior will be fixed in a future release." to="您正通过其他客户端（可能是WinAIM）登录AIM。请关闭该应用后重试，此问题将在未来版本修复。"/>
+	<translation from="ftConnectInfo" to="*** 提示：正在尝试连接至%ip%:%port%。"/>
+	<translation from="ftErrorTimeout" to="*** 错误：等待协商数据时超时。"/>
+	<translation from="ftHostLocalInfo" to="*** 提示：当前文件传输使用端口%port%进行连接托管。"/>
+	<translation from="ftLocalHostChangeExhausted" to="*** 提示：直连%username%失败，正在尝试自行托管连接。"/>
+	<translation from="ftRemoteHostChangeClient" to="*** 提示：%username%无法连接至我方，已请求我方连接至其机器（%ip%:%port%）。"/>
+	<translation from="ftRemoteHostChangeServer" to="*** 提示：%username%无法连接至我方，正在请求通过服务器代理连接。尝试连接至%ip%:%port%。"/>
+	<translation from="ftResumeFileOut" to="*** 提示：对方请求续传文件，但因文件版本不一致无法继续。"/>
+	<translation from="infoAuthError" to="服务器拒绝了您的登录请求，可能是服务器满载。请关闭窗口，稍后再试。"/>
+	<translation from="infoAuthRequest" to="“%username%”向您发送了联系人授权请求。"/>
+	<translation from="infoAutoResponse" to="来自%username%的自动回复：%response%"/>
+	<translation from="infoCannotRespond" to="无法回复此消息。"/>
+	<translation from="infoContactOnlineAOL" to="“%displayname%（%username%）”于%time%登录至AOL。"/>
+	<translation from="infoIMError" to="发送即时消息时出错：%reason%"/>
+	<translation from="infoLoginError" to="登录%medium%失败：错误代码%errcode%"/>
+	<translation from="infoSecureIMBegin" to="%username%希望建立安全即时通讯会话。"/>
+	<translation from="infoSecureIMClosed" to="安全即时通讯会话已关闭。"/>
+	<translation from="infoSecureIMClosedRemote" to="对方已关闭安全即时通讯会话。"/>
+	<translation from="infoSecureIMErrCT" to="收到非联系人“%username%”的安全即时通讯数据包，已忽略。"/>
+	<translation from="infoSecureIMErrVer" to="未知安全即时通讯数据包版本，已忽略。"/>
+	<translation from="infoSecureIMEst" to="已与%username%建立安全即时通讯会话。"/>
+	<translation from="infoSecureIMExist" to="注意：您与%username%存在未关闭的安全会话，右键点击可关闭。"/>
+	<translation from="infoSecureIMFail" to="安全即时通讯会话建立失败，请重试。"/>
+	<translation from="infoSecureIMIgnored" to="安全会话请求被忽略，对方未接受请求。"/>
+	<translation from="infoSecureIMKey" to="接收来自%username%的消息时出现密钥验证错误，消息已丢失。请重新建立安全会话。"/>
+	<translation from="infoStatusMessageRequest" to="%username%请求获取您的状态消息。"/>
+	<translation from="miscEnteredText" to="%username%正在输入中。"/>
+	<translation from="miscUnknownCode" to="未知错误代码%errcode%。"/>
+	<translation from="systrayBuddyMax" to="您的联系人列表已超过200人（服务器限制），可能无法接收状态更新，建议清理列表。"/>
+	<translation from="systrayContactList" to="您的联系人列表（%username%）暂时不可用，但未丢失，请稍后再试。"/>
+	<translation from="Allow all users to contact me" to="允许所有用户联系我"/>
+	<translation from="Allow only users on my contact list" to="仅允许联系人列表中的用户联系我"/>
+	<translation from="Allow only the users below" to="仅允许以下用户联系我"/>
+	<translation from="Block all users" to="屏蔽所有用户"/>
+	<translation from="Block only the users below" to="仅屏蔽以下用户"/>
+	<translation from="Enable SecureIM" to="启用安全即时通讯"/>
+	<translation from="Attempt to automatically maintain a SecureIM session with my contacts" to="尝试自动与联系人保持安全会话"/>
+	<translation from="infoChatError" to="创建群组会议时发生服务器错误。"/>
+	<translation from="infoChatLost" to="群组会议连接已断开。"/>
+	<translation from="Visible and Invisible List" to="可见与不可见列表"/>
+	<translation from="Add to Invisible List..." to="添加到不可见列表..."/>
+	<translation from="Add to Visible List..." to="添加到可见列表..."/>
+	<translation from="Visibility" to="可见性设置"/>
+	<translation from="Request Status Message" to="请求状态消息"/>
+	<translation from="Add" to="添加"/>
+	<translation from="Contacts require my authorization before they can add me to their contact list" to="联系人需获得我的授权才能将我添加至其列表"/>
+	<translation from="Validate UINs before rendering authorization requests" to="处理授权请求前验证UIN有效性"/>
+	<translation from="Forcefully ignore all incoming authorization requests" to="强制忽略所有授权请求"/>
+	<translation from="Allow users to see my status on the web" to="允许用户查看我的网页状态"/>
+	<translation from="File transfer timed out." to="文件传输超时。"/>
+	<translation from="Use the following port for outgoing file transfers:" to="为传出文件传输使用以下端口："/>
+	<translation from="Change your AIM profile." to="修改AIM个人资料。"/>
+	<translation from="AIM Profile" to="AIM个人资料"/>
+	<translation from="Inclusive of HTML markup, your profile has exceeded the maximum length allowed by AIM." to="包含HTML代码的个人资料已超出AIM允许的最大长度。"/>
+	<translation from="Manage the visibility settings for this account." to="管理此账号的可见性设置。"/>
+	<translation from="Do not display messages from AOLSystemMsg" to="不显示来自AOLSystemMsg的消息"/>
+	<translation from="Group Conferencing" to="群组会议"/>
+	<translation from="File Transfers" to="文件传输"/>
+	<translation from="Camera" to="摄像头"/>
+	<translation from="Microphone" to="麦克风"/>
+	<translation from="Group Conferencing" to="群组会议"/>
+</language>

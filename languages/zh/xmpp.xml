@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)">
+	<translation from="Ban" to="封禁"/>
+	<translation from="Browse for Conferences..." to="浏览会议..."/>
+	<translation from="Bytestreams" to="字节流更改角色配置房间"/>
+	<translation from="Change Role" to="更改角色配置房间"/>
+	<translation from="Configure Room" to="配置房间"/>
+	<translation from="Enter your Google Talk username and password below and click connect." to="在下方输入您的 Google Talk 用户名和密码并点击连接。"/>
+	<translation from="Enter your full JID and password below and click connect." to="在下方输入完整的 JID 和密码并点击连接。"/>
+	<translation from="Extended Away" to="长时间离开"/>
+	<translation from="Force use of bytestream proxy: %prefsXMPPS5BProxyName%" to="强制使用字节流代理：%prefsXMPPS5BProxyName%"/>
+	<translation from="Force use of port for bytestreams: %prefsXMPPS5BPortName%" to="强制为字节流使用端口: %prefsXMPPS5BPortName%"/>
+	<translation from="Go Off The Record" to="关闭记录"/>
+	<translation from="Google: New Mail" to="Google：新邮件"/>
+	<translation from="Join a Conference..." to="加入会议...踢出"/>
+	<translation from="Kick" to="踢出"/>
+	<translation from="Moderator" to="管理员"/>
+	<translation from="Moderators" to="管理员列表"/>
+	<translation from="Offer an additional bytestream with an external IP of: %prefsXMPPS5BExternalIPName%" to="提供具有外部 IP 的附加字节流: %prefsXMPPS5BExternalIPName%"/>
+	<translation from="Override default resource name with: %prefsXMPPResourceName%" to="覆盖默认资源名称：%prefsXMPPResourceName%"/>
+	<translation from="Participant" to="参与者"/>
+	<translation from="Set priority for this connection to: %prefsXMPPPriorityValue%" to="设置此连接的优先级为: %prefsXMPPPriorityValue%"/>
+	<translation from="Status Duration" to="状态持续时间未知错误"/>
+	<translation from="Unknown Error" to="未知错误"/>
+	<translation from="Visitor" to="访客"/>
+	<translation from="Visitors" to="访客列表"/>
+	<translation from="Standards-based XMPP support, including all Jabber/XMPP networks and Google Talk." to="基于标准的XMPP支持，包括所有Jabber/XMPP网络和Google Talk。"/>
+	<translation from="ftStreamFail" to="*** 无法连接到位于&quot;%hostname%:%port%&quot;的流主机。"/>
+	<translation from="ftStreamInfo" to="*** 提供流主机&quot;%hostname%:%port%&quot;."/>
+	<translation from="ftStreamInfoRemote" to="*** 接收到远程流主机&quot;%hostname%:%port%&quot;."/>
+	<translation from="ftStreamLocalUsed" to="*** 本地流连接成功。开始文件传输。"/>
+	<translation from="ftStreamProxyActivated" to="*** 代理流已成功激活。开始文件传输。"/>
+	<translation from="ftStreamProxyUsed" to="*** 代理流连接成功。正在连接到代理流主机%hostname%."/>
+	<translation from="ftStreamRemoteUsed" to="*** 远程流%hostname%:%port%&quot;连接成功。正在通知对方。"/>
+	<translation from="infoConnAuthUnavailable" to="无法与您的 XMPP 服务器协商认证方式。"/>
+	<translation from="infoUsernameIncomplete" to="创建新 XMPP 账户时请使用完整的 JID（例如 user@hostname.com）。"/>
+	<translation from="infoMUC301" to="%username%已被移出聊天室。该用户已被封禁。"/>
+	<translation from="infoMUC307" to="%username%已被移出聊天室。该用户已被踢出。"/>
+	<translation from="infoMUC321" to="%username%已被移出聊天室。由于关联关系变更。"/>
+	<translation from="infoMUC322" to="%username%已被移出聊天室。此房间不再允许非成员访问。"/>
+	<translation from="infoMUC332" to="%username%已被移出聊天室。系统正在关闭。"/>
+	<translation from="infoMUC401" to="加入聊天室时出错：此房间需要密码才能进入。"/>
+	<translation from="infoMUC403" to="加入聊天室时出错：您已被此房间封禁。"/>
+	<translation from="infoMUC404" to="加入聊天室时出错：此房间不存在。"/>
+	<translation from="infoMUC405" to="加入聊天室时出错：房间创建受到限制。"/>
+	<translation from="infoMUC406" to="加入聊天室时出错：必须使用预留的房间昵称。"/>
+	<translation from="infoMUC407" to="加入聊天室时出错：您未在此房间的成员列表中。"/>
+	<translation from="infoMUC409" to="加入聊天室时出错：您选择的昵称已被占用。"/>
+	<translation from="infoMUC503" to="加入聊天室时出错：已达到最大成员数。"/>
+	<translation from="infoMUCAdminError" to="您无权在此房间执行请求的管理操作。"/>
+	<translation from="infoMUCRoleChange" to="%username%现在是%role%."/>
+	<translation from="infoMUCUnknownError" to="加入聊天室时出错：&quot;%error%&quot;"/>
+	<translation from="infoNos" to="关闭记录此对话。"/>
+	<translation from="infoNosDisabled" to="此对话不再关闭记录。"/>
+	<translation from="infoNosEnabled" to="此对话已关闭记录。"/>
+	<translation from="infoServerType" to="您已连接到;%server%&quot;服务器。"/>
+	<translation from="infoStreamError" to="流错误：%error%."/>
+	<translation from="miscIsGone" to="%username% 已关闭消息窗口。"/>
+	<translation from="miscIsInactive" to="%username%已最小化消息窗口。流错误："/>
+	<translation from="unknown" to="未知"/>
+	<translation from="systrayNewMailStatsP" to="%username%: 您的收件箱有 %count% 封新邮件"/>
+	<translation from="Use legacy SSL for connection" to="使用旧版 SSL 连接"/>
+	<translation from="Resource" to="资源"/>
+</language>

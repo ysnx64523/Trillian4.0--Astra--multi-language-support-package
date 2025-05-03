@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="English">
+  <translation from="&amp;Transparency" to="&amp;Transparency"/>
+  <translation from="&amp;View" to="&amp;View"/>
+	<translation from="10%" to="10%"/>
+	<translation from="20%" to="20%"/>
+	<translation from="30%" to="30%"/>
+	<translation from="40%" to="40%"/>
+	<translation from="50%" to="50%"/>
+	<translation from="60%" to="60%"/>
+	<translation from="70%" to="70%"/>
+	<translation from="80%" to="80%"/>
+	<translation from="90%" to="90%"/>
+	<translation from="Advanced Options" to="Advanced Options"/>
+	<translation from="Attach" to="Attach"/>
+  <translation from="Cancel" to="Cancel"/>
+	<translation from="Cascade Windows" to="Cascade Windows"/>
+  <translation from="Chat Room Window" to="Chat Room Window"/>
+  <translation from="Click to show more items" to="Click to show more items"/>
+  <translation from="Close" to="Close"/>
+	<translation from="Close All But This" to="Close All But This"/>
+  <translation from="Connection Window" to="Connection Window"/>
+  <translation from="Contact Window" to="Contact Window"/>
+  <translation from="Current Position and Size" to="Current Position and Size"/>
+	<translation from="Default" to="Default"/>
+	<translation from="Default Layout" to="Default Layout"/>
+	<translation from="Default Theme" to="Default Theme"/>
+	<translation from="Desktop" to="Desktop"/>
+	<translation from="Detach" to="Detach"/>
+	<translation from="Detach All" to="Detach All"/>
+	<translation from="Detach All and Close" to="Detach All and Close"/>
+  <translation from="Edit existing container..." to="Edit existing container..."/>
+	<translation from="Focus" to="Focus"/>
+  <translation from="From local to remote" to="From local to remote"/>
+	<translation from="Hide" to="Hide"/>
+	<translation from="Layout" to="Layout"/>
+  <translation from="Loading..." to="Loading..."/>
+	<translation from="Maximize" to="Maximize"/>
+	<translation from="Minimize" to="Minimize"/>
+	<translation from="New Container..." to="New Container..."/>
+	<translation from="Off" to="Off"/>
+	<translation from="On" to="On"/>
+  <translation from="Options" to="Options"/>
+  <translation from="Please wait a moment..." to="Please wait a moment..."/>
+	<translation from="Purge List" to="Purge List"/>
+	<translation from="Recent Containers" to="Recent Containers"/>
+  <translation from="Rename..." to="Rename..."/>
+  <translation from="Reset" to="Reset"/>
+  <translation from="Save Settings" to="Save Settings"/>
+  <translation from="Set as Default Container" to="Set as Default Container"/>
+	<translation from="Set as a Tabbed Container" to="Set as a Tabbed Container"/>
+	<translation from="Theme" to="Theme"/>
+	<translation from="Themes" to="Themes"/>
+	<translation from="Tile Windows" to="Tile Windows"/>
+	<translation from="Transparency" to="Transparency"/>
+	<translation from="Trillian is changing skins." to="Trillian is changing skins."/>
+	<translation from="Turn it black and white" to="Turn it black and white"/>
+	<translation from="Turn it semi-transparent" to="Turn it semi-transparent"/>
+	<translation from="Visible" to="Visible"/>
+	<translation from="textErrorTextRequired" to="Please enter some text or close the window."/>
+	<translation from="textErrorTransparency" to="Transparency is only available on Windows 2000/XP systems."/>
+  <translation from="dialogInitialInstructions" to="Configure your window to the desired positions, sizes, and interiors; then click Save Settings or Cancel below to go back to Trillian Preferences."/>
+  <translation from="dialogInitialWarning" to="Alert: Your windows are set to remember their previous state.  This means that some windows may not reflect the changes you are making here unless you choose to 'reset' their previous state in preferences."/>
+  <translation from="titleError" to="Trillian Error"/>
+</language>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="English">
+	<translation from="All Floating Off" to="All Floating Off"/>
+	<translation from="Background" to="Background"/>
+	<translation from="Cancel" to="Cancel"/>
+	<translation from="Collapse" to="Collapse"/>
+	<translation from="Collapse All" to="Collapse All"/>
+	<translation from="Copy" to="Copy"/>
+	<translation from="Default" to="Default"/>
+	<translation from="Expand" to="Expand"/>
+	<translation from="Expand All" to="Expand All"/>
+	<translation from="Floating Off" to="Floating Off"/>
+	<translation from="Floating On" to="Floating On"/>
+	<translation from="Hide" to="Hide"/>
+	<translation from="List Management" to="List Management"/>
+	<translation from="Move" to="Move"/>
+	<translation from="Move down" to="Move down"/>
+	<translation from="Move to" to="Move to"/>
+	<translation from="Move up" to="Move up"/>
+	<translation from="Normal" to="Normal"/>
+	<translation from="Root (No Group)" to="Root (No Group)"/>
+	<translation from="textErrorClipboard" to="Unable to gain access to the clipboard."/>
+	<translation from="textErrorDragSameEntry" to="Cannot drag entry: Destination entry is the same as original entry."/>
+	<translation from="textErrorDragSameGroup" to="Cannot move entry: Destination group is the same as original group."/>
+	<translation from="textErrorDragSection" to="Cannot drag entry: Destination is in another section."/>
+	<translation from="textErrorDragSubentry" to="Cannot drag entry: Destination is a subentry of original entry."/>
+	<translation from="textErrorDragSubgroup" to="Cannot move entry: Destination is a subgroup of original group."/>
+	<translation from="textErrorDragUnknown" to="Cannot drag entry: Destination is unknown."/>
+	<translation from="titleError" to="Trillian Error"/>
+</language>

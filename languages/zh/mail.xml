@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)">
+<!-- Account additional  preferences -->
+	<translation from="prefsConnectionSettingsMailServer" to="收件服务器："/>
+	<translation from="prefsConnectionSettingsPort" to="端口："/>
+	<translation from="prefsConnectionSettingsConnectionType" to="连接类型："/>
+	<translation from="prefsConnectionSettingsConnectionTypeStandart" to="标准连接"/>
+	<translation from="prefsConnectionSettingsConnectionTypeSSL_V2" to="SSL V2"/>
+	<translation from="prefsConnectionSettingsConnectionTypeSSL_V3" to="SSL V3"/>
+	<translation from="prefsConnectionSettingsConnectionTypeSSL_TLS" to="SSL TLS"/>
+
+	<translation from="prefsConnectionSettingsUseDefaultProxyChoice" to="使用默认代理设置"/>
+	<translation from="prefsConnectionSettingsUseManualProxyChoice" to="手动指定代理"/>
+
+	<translation from="prefsConnectionSettingsProxyProtocol" to="协议："/>
+	<translation from="prefsConnectionSettingsProxyProtocolNone" to="无"/>
+	<translation from="prefsConnectionSettingsProxyProtocolHTTP" to="HTTP"/>
+	<translation from="prefsConnectionSettingsProxyProtocolSOCKS4" to="SOCKS4"/>
+	<translation from="prefsConnectionSettingsProxyProtocolSOCKS5" to="SOCKS5"/>
+
+	<translation from="prefsConnectionSettingsProxyHost" to="主机："/>
+	<translation from="prefsConnectionSettingsProxyPort" to="端口："/>
+	<translation from="prefsConnectionSettingsProxyUsername" to="用户名："/>
+	<translation from="prefsConnectionSettingsProxyPassword" to="密码："/>
+
+	<translation from="prefsMiscellaneousMailCheckTimeout" to="每隔 %prefsMiscellaneousMailCheckTimeout% 分钟检查邮件"/>
+	<translation from="prefsMiscellaneousMailExpiredTime" to="邮件在 %prefsMiscellaneousMailExpiredTime% 小时后过期"/>
+	<translation from="prefsMiscellaneousMailArriveAlert" to="当此账户收到新邮件时提醒我"/>
+	<translation from="prefsMiscellaneousMarkAllMailsAsReadOnViewInboxEvent" to="查看收件箱时将所有邮件标记为已读"/>
+
+	<translation from="prefsMiscellaneousViewInboxEventDefaultAppChoice" to="默认邮件应用程序："/>
+	<translation from="prefsMiscellaneousViewInboxEventWebSiteChoice" to="指定网站：%prefsMiscellaneousViewInboxEventWebSite%"/>
+	<translation from="prefsMiscellaneousViewInboxEventAppChoice" to="指定程序：%prefsMiscellaneousViewInboxEventApp%"/>
+
+	<translation from="prefsMiscellaneousViewInboxEventWebSite" to="指定网站："/>
+	<translation from="prefsMiscellaneousViewInboxEventApp" to="指定程序："/>
+
+	<translation from="prefsMiscellaneousIMAPSearchInSubfolders" to="在子文件夹中搜索新邮件"/>
+
+	<translation from="prefsMiscellaneousMailExpiredTimeChoice" to="仅显示最近 %prefsMiscellaneousMailExpiredTime% 小时内收到的未读邮件"/>
+	<translation from="prefsMiscellaneousPOP3DisplayAllMailsChoice" to="显示服务器上的所有邮件"/>
+
+	<translation from="prefsMiscellaneousAdvanced" to="高级"/>
+	<translation from="prefsMiscellaneousHideConnectionOfInactiveAccount" to="当此账户未激活时，隐藏联系人列表中的连接图标"/>
+
+<!-- Text for console and message windows -->
+	<translation from="prefsConnectionUsername" to="电子邮箱"/>
+	<translation from="prefsConnectionSection" to="分组"/>
+	<translation from="prefsConnectionPassword" to="密码"/>
+	<translation from="prefsConnectionAutoConnect" to="启动时自动连接此账户"/>
+	<translation from="prefsConnectionInvitation" to="请输入您的邮箱地址和密码，然后点击连接。"/>
+	<translation from="prefsConnectionMailServer" to="收件服务器"/>
+	<translation from="prefsConnectionMailUsername" to="用户名"/>
+
+<!-- 控制台和消息窗口文本 -->
+	<translation from="infoCreateConn" to="正在创建连接 &quot;%username%&quot;。"/>
+	<translation from="infoConnSucceed" to="已成功连接到 %server%。"/>
+	<translation from="infoReconn" to ="正在重新连接到 %medium%（用户：&quot;%username%&quot;）。"/>
+	<translation from="infoDisconnected" to="您已断开连接。"/>
+	<translation from="infoErrorConn" to="连接邮件服务器时发生错误。错误代码：%errorcode%。"/>
+	<translation from="infoErrorAuth" to="认证失败，请检查邮箱名和密码。服务器返回：%response%"/>
+	<translation from="infoErrorOther" to="邮件会话错误。服务器返回：%response%"/>
+
+	<translation from="infoStopMailCheckSuccessfullyWithNewMails" to="您有 %unread% 封未读邮件（共 %total% 封）。"/>
+	<translation from="infoStopMailCheckSuccessfullyWithoutNewMails" to="没有新邮件。"/>
+
+	<translation from="infoConnectionSettingsTitle" to="调整此连接的服务器和代理设置。"/>
+	<translation from="infoConnectionSettingsMailServerHeader" to="服务器"/>
+	<translation from="infoConnectionSettingsConnectionTypeHeader" to="连接类型"/>
+	<translation from="infoConnectionSettingsProxyHeader" to="代理"/>
+
+	<translation from="infoMiscellaneousTitle" to="管理此账户的其他选项"/>
+	<translation from="infoMiscellaneousMailCheckHeader" to="通知"/>
+	<translation from="infoMiscellaneousInboxHeader" to="查看收件箱时启动："/>
+	<translation from="infoMiscellaneousOptionsHeader" to="选项"/>
+	<translation from="infoAccountSettingsTitle" to="邮件账户设置"/>
+
+	<translation from="infoAccountRemoveDialogText" to="确定要删除此账户吗？"/>
+	<translation from="infoAccountRemoveDialogCaption" to="Trillian"/>
+
+	<translation from="systrayMailStatsP" to="%username%：您的收件箱中有 %count% 封邮件。"/>
+	<translation from="infoSystrayMailFrom" to="%username%：您收到来自 &lt;b&gt;%from%&lt;/b&gt; 的新邮件，主题为：&quot;&lt;b&gt;%subject%&lt;/b&gt;&quot;。"/>
+
+<!-- Menus -->
+	<translation from="menuConnectionDisconnect" to="断开连接"/>
+	<translation from="menuConnectionReconnect" to="重新连接"/>
+	<translation from="menuMailAccountMarkAllAsRead" to="全部标记为已读"/>
+	<translation from="menuMailAccountViewInbox" to="查看收件箱"/>
+	<translation from="menuMailAccountCheckMail" to="检查邮件"/>
+
+<!-- Statuses -->
+	<translation from="statusOnline" to="在线"/>
+	<translation from="statusOffline" to="离线"/>
+	<translation from="statusConnecting" to="连接中"/>
+
+</language>

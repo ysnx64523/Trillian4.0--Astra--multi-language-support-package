@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)"> <!-- enforce UTF 8: äöü //-->
+
+  <translation from="textPluginDescription" to="IRC（互联网中继聊天）支持。" />
+
+  <translation from="Connecting" to="连接中" />
+  <translation from="Online" to="在线" />
+  <translation from="Offline" to="离线" />
+
+  <translation from="Disconnected." to="已断开连接。" />
+
+  <translation from="Error" to="错误" />
+
+  <translation from="Opening network connection failed. Check server/port/nickname." to="网络连接失败。请检查服务器/端口/昵称。" />
+  <translation from="Connecting to %server% at port %port% using SSL..." to="正在使用 SSL 连接到 %server% 的端口 %port%..." />
+  <translation from="Connecting to %server% at port %port% (SSL is OFF)..." to="正在连接到 %server% 的端口 %port%（未启用 SSL）..." />
+  <translation from="Network error: %errorcode%" to="网络错误：%errorcode%" />
+  <translation from="Connection established" to="连接已建立" />
+
+  <translation from="Account name" to="账户名称" />
+  <translation from="Nick name" to="昵称" />
+  <translation from="Full name" to="全名" />
+  <translation from="Server host" to="服务器主机" />
+
+  <translation from="Send a Message..." to="发送消息..." />
+  <translation from="Browse for Channels..." to="浏览频道..." />
+  <translation from="Join a Channel..." to="加入频道..." />
+
+  <translation from="Yesterday" to="昨天" />
+  <translation from="Today" to="今天" />
+  <translation from="%mins% minutes ago" to="%mins% 分钟前" />
+  <translation from="textTime" to="%I:%M %p" /> <!-- http://www.cplusplus.com/reference/clibrary/ctime/strftime.html //-->
+  <translation from="textDate" to="%B %d" />
+
+  <translation from="%name% has joined %channel%" to="%name% 已加入 %channel%" />
+  <translation from="%name% has left %channel%" to="%name% 已离开 %channel%" />
+  <translation from="%name% has left %channel%: %message%" to="%name% 已离开 %channel%：%message%" />
+  <translation from="%name% has quit IRC: %message%" to="%name% 已退出 IRC：%message%" />
+  <translation from="%name% sets mode %modes%" to="%name% 设置模式 %modes%" />
+  <translation from="%name% is now known as %newnick%" to="%name% 的昵称已更改为 %newnick%" />
+  <translation from="%name% changed the channel topic" to="%name% 修改了频道主题" />
+  <translation from="%name% kicked %victim% from the channel: %reason%" to="%name% 将 %victim% 踢出频道：%reason%" />
+
+  <translation from="Group/Users" to="普通用户" />
+  <translation from="Group/Voiced" to="有发言权用户" />
+  <translation from="Group/Half-Ops" to="半管理员" />
+  <translation from="Group/Operators" to="管理员" />
+  <translation from="Group/Protected" to="受保护用户" />
+  <translation from="Group/Owners" to="频道所有者" />
+
+  <translation from="Some of these settings will only take effect the next time you connect to this account." to="部分设置将在下次连接此账户时生效。" />
+  <translation from="Fine tune server and proxy settings for this connection." to="调整此连接的服务器和代理设置。" />
+  <translation from="Proxy" to="代理" />
+  <translation from="Use the default proxy settings" to="使用默认代理设置" />
+  <translation from="Manually specify proxy" to="手动指定代理" />
+  <translation from="Hostname" to="主机名" />
+  <translation from="Port" to="端口" />
+  <translation from="Username" to="用户名" />
+  <translation from="Protocol" to="协议" />
+  <translation from="Connection Settings" to="连接设置" />
+  <translation from="None" to="无" />
+
+  <translation from="Server settings" to="服务器设置" />
+  <translation from="Hostname" to="主机名" />
+  <translation from="Port" to="端口" />
+  <translation from="Server requires SSL connection" to="服务器要求 SSL 连接" />
+  <translation from="Server password" to="服务器密码" />
+
+  <translation from="Chat" to="聊天" />
+  <translation from="Display settings" to="显示设置" />
+  <translation from="Outgoing Messages" to="发送消息" />
+  <translation from="Show full user hosts on channel events" to="在频道事件中显示完整用户主机名" />
+  <translation from="Strip colors from incoming messages" to="去除接收消息中的颜色代码" />
+  <translation from="Use UTF-8 encoding" to="使用 UTF-8 编码" />
+  <translation from="Send colors" to="发送颜色代码" />
+  <translation from="Prepend channel message nicks with mode prefix" to="在频道消息昵称前添加模式前缀" />
+  <translation from="Show join/part/quit/kick/mode/nick events in channel and query windows" to="在频道和查询窗口中显示加入/离开/退出/踢出/模式/昵称变更事件" />
+  <translation from="&quot;%string%&quot; is not a command!" to="“%string%” 不是有效命令！" />
+  <translation from="-&gt; Server: %command%" to="-&gt; 服务器：%command%" />
+  <translation from="Insufficient parameters" to="参数不足" />
+  <translation from="The %command% command is not supported." to="不支持 %command% 命令。" />
+  <translation from="%name% is marked as being away: %msg%" to="%name% 标记为离开：%msg%" />
+  <translation from="Skip MOTD on connect" to="连接时跳过 MOTD 消息" />
+  <translation from="Miscellaneous" to="其他设置" />
+  <translation from="Manage other options for this account." to="管理此账户的其他选项。" />
+  <translation from="Commands (one per line)" to="命令（每行一个）" />
+  <translation from="Perform Buffer" to="执行缓冲区" />
+  <translation from="Executing perform buffer..." to="正在执行缓冲区命令..." />
+  <translation from="Away Mode" to="离开模式" />
+  <translation from="When I go away, change nick name to %awayNickName%" to="离开时，将昵称更改为 %awayNickName%" />
+  <translation from="CTCP %command% reply from %name%" to="来自 %name% 的 CTCP %command% 回复" />
+  <translation from="CTCP %command% request from %name%" to="来自 %name% 的 CTCP %command% 请求" />
+  <translation from="Discarded CTCP %command% request from %name%" to="已忽略来自 %name% 的 CTCP %command% 请求" />
+  <translation from="Don't reply to incoming CTCP requests" to="不回复传入的 CTCP 请求" />
+  <translation from="Topic on %channel% is: %topic%" to="频道 %channel% 的主题为：%topic%" />
+  <translation from="Topic set by %nick% (%datetime%)" to="主题由 %nick% 于 %datetime% 设置" />
+  <translation from="Query" to="查询" />
+  <translation from="Whois" to="用户信息" />
+  <translation from="Options" to="选项" />
+  <translation from="Attempt to reconnect %reconnectRetries% times" to="尝试重新连接 %reconnectRetries% 次" />
+  <translation from="Wait %reconnectDelay% seconds before next attempt" to="下次尝试前等待 %reconnectDelay% 秒" />
+  <translation from="Reconnect on disconnect" to="断开后自动重连" />
+  <translation from="Always show console window on connection creation" to="创建连接时始终显示控制台窗口" />
+  <translation from="Automatically show Chat Room Browser window once connected" to="连接后自动显示聊天室浏览器窗口" />
+  <translation from="Rejoin channels on connect" to="连接时重新加入频道" />
+  <translation from="Rejoin channel when kicked" to="被踢出后重新加入频道" />
+  <translation from="Auto-join channel on invite" to="收到邀请时自动加入频道" />
+  <translation from="%name% invited you to join %channel%" to="%name% 邀请你加入频道 %channel%" />
+  <translation from="Settings" to="设置" />
+  <translation from="Default quit message: %defaultQuitMessage%" to="默认退出消息：%defaultQuitMessage%" />
+  <translation from="Force notices into console window" to="将通知强制显示在控制台窗口" />
+  <translation from="seconds" to="秒" />
+  <translation from="Give Owner" to="授予所有者权限" />
+  <translation from="Give Protected" to="授予受保护权限" />
+  <translation from="Give Op" to="授予管理员权限" />
+  <translation from="Give Halfop" to="授予半管理员权限" />
+  <translation from="Give Voice" to="授予发言权" />
+  <translation from="Take Owner" to="移除所有者权限" />
+  <translation from="Take Protected" to="移除受保护权限" />
+  <translation from="Take Op" to="移除管理员权限" />
+  <translation from="Take Halfop" to="移除半管理员权限" />
+  <translation from="Take Voice" to="移除发言权" />
+  <translation from="Info" to="信息" />
+  <translation from="Real Name" to="真实姓名" />
+  <translation from="Channels" to="频道" />
+  <translation from="Server" to="服务器" />
+  <translation from="Sign on time" to="登录时间" />
+  <translation from="Idle time" to="空闲时间" />
+
+  <translation from="second" to="秒" />
+  <translation from="seconds" to="秒" />
+  <translation from="minute" to="分钟" />
+  <translation from="minutes" to="分钟" />
+  <translation from="hour" to="小时" />
+  <translation from="hours" to="小时" />
+  <translation from="day" to="天" />
+  <translation from="days" to="天数" />
+
+  <translation from="General" to="常规" />
+  <translation from="Channel Modes" to="频道模式" />
+  <translation from="Limit to %channelLimit% users" to="限制为 %channelLimit% 名用户" />
+  <translation from="Channel key %channelKey%" to="频道密钥 %channelKey%" />
+  <translation from="Only ops may change the topic" to="仅管理员可修改主题" />
+  <translation from="No external messages" to="禁止外部消息" />
+  <translation from="Invite only" to="仅限邀请加入" />
+  <translation from="Moderated" to="受监管" />
+  <translation from="Private" to="私密" />
+  <translation from="Secret" to="隐藏" />
+  <translation from="Channel Preferences" to="频道偏好" />
+
+  <translation from="Encryption" to="加密" />
+  <translation from="FiSH and mircryption compatible IRC encryption" to="与 FiSH 和 mircryption 兼容的 IRC 加密" />
+  <translation from="Encrypt topics" to="加密主题" />
+  <translation from="Encrypt ACTIONs (/me ...)" to="加密动作（/me ...）" />
+  <translation from="Encrypt notices" to="加密通知" />
+  <translation from="Key exchange settings" to="密钥交换设置" />
+  <translation from="Automatically initiate a key exchange on incoming queries" to="对传入查询自动发起密钥交换" />
+  <translation from="Automatically accept incoming key exchange requests" to="自动接受传入的密钥交换请求" />
+  <translation from="Blowfish key" to="Blowfish 密钥" />
+  <translation from="Exchange keys" to="交换密钥" />
+  <translation from="Remove key" to="移除密钥" />
+  <translation from="Received public key from %name%, sending mine..." to="已接收来自 %name% 的公钥，正在发送我的密钥..." />
+  <translation from="Key for %name% set to *censored*" to="已为 %name% 设置密钥（已隐藏）" />
+  <translation from="Sent my public key to %name%, waiting for reply..." to="已向 %name% 发送公钥，等待回复..." />
+  <translation from="Encryption active" to="加密已启用" />
+  <translation from="%name% seems to have removed the key, the session is now unencrypted!" to="%name% 似乎移除了密钥，会话已取消加密！" />
+  <translation from="Key for %name% has been removed." to="已移除 %name% 的密钥。" />
+  <translation from="Received public key from %name%! Type /acceptkey to accept the request for an encrypted session." to="已接收来自 %name% 的公钥！输入 /acceptkey 接受加密会话请求。" />
+  <translation from="Automatically initiate a key exchange on queries you start" to="对发起的查询自动发起密钥交换" />
+  <translation from="Only if no key was set previously" to="仅当未设置过密钥时" />
+  <translation from="Remember channel keys" to="记住频道密钥" />
+  <translation from="%name% requested a DCC CHAT session and asks you to connect to %IP% at port %port%. To accept the request, type /dccaccept" to="%name% 请求 DCC 聊天会话，要求你连接到端口 %port% 的 %IP%。输入 /dccaccept 接受请求。" />
+  <translation from="DCC connection has been closed. The last message may not have been sent." to="DCC 连接已关闭。最后一条消息可能未发送成功。" />
+  <translation from="DCC connection established." to="DCC 连接已建立。" />
+  <translation from="Connecting..." to="正在连接..." />
+  <translation from="DCC Port range" to="DCC 端口范围" />
+  <translation from="Randomize ports (in this range)" to="随机分配端口（在此范围内）" />
+  <translation from="First port" to="起始端口" />
+  <translation from="Last port" to="结束端口" />
+  <translation from="Bind sockets to IP: %dccBindLocalIP%" to="绑定套接字至 IP：%dccBindLocalIP%" />
+  <translation from="External IP address" to="外部 IP 地址" />
+  <translation from="textNoExtIP" to="抱歉，无法获取你的外部 IP，因此无法发送文件或发起 DCC 聊天。请在设置中手动指定 IP。" />
+  <translation from="DCC IP settings" to="DCC IP 设置" />
+  <translation from="Waiting for acknowledgement..." to="等待确认中..." />
+  <translation from="IRC server" to="IRC 服务器" />
+  <translation from="The active resource for this window has changed to &quot;DCC CHAT&quot;." to="此窗口的活跃资源已切换至“DCC 聊天”。" />
+   <translation from="The active resource for this window has changed to &quot;IRC server&quot;." to="此窗口的活动资源已更改为&quot;IRC 服务器&quot;。" />
+  <translation from="*** Connecting to %IP% at port %port%..." to="*** 正在连接到 %IP% 的端口 %port%..." />
+  <translation from="*** Connection established." to="*** 连接已建立。" />
+  <translation from="*** Connection has been closed." to="*** 连接已关闭。" />
+  <translation from="Receiving file..." to="正在接收文件..." />
+  <translation from="*** Waiting for connection on local interface %localSocketIP% at port %port% (external IP is %IP%)..." to="*** 正在本地接口 %localSocketIP% 的端口 %port% 等待连接（外部 IP 为 %IP%）..." />
+  <translation from="Sending file..." to="正在发送文件..." />
+  <translation from="Transfer complete." to="传输完成。" />
+  <translation from="Transfer incomplete." to="传输未完成。" />
+  <translation from="*** Resuming at %position% bytes..." to="*** 正在从 %position% 字节处恢复..." />
+  <translation from="*** Requesting resume..." to="*** 请求恢复传输..." />
+  <translation from="Privacy" to="隐私" />
+  <translation from="Ignore a user..." to="忽略用户..." />
+  <translation from="Nick name or host mask:" to="昵称或主机掩码：" />
+  <translation from="Cancel" to="取消" />
+  <translation from="Block" to="屏蔽" />
+  <translation from="Remove" to="移除" />
+  <translation from="Ignore list" to="忽略列表" />
+  <translation from="URL: IRC Protocol" to="URL: IRC 协议" />
+  <translation from="Ident settings" to="Ident 设置" />
+  <translation from="Enable ident server" to="启用 Ident 服务器" />
+  <translation from="Enable only while connecting" to="仅在连接时启用" />
+  <translation from="Listen at port: %identServerPort%" to="监听端口：%identServerPort%" />
+  <translation from="User ID (&quot;ident&quot; string)" to="用户 ID（&quot;ident&quot; 字符串）" />
+  <translation from="System ID" to="系统 ID" />
+  <translation from="The nature of these settings requires that they are applied to all IRC accounts." to="此设置的性质要求其应用于所有 IRC 账户。" />
+  <translation from="Global Settings" to="全局设置" />
+  <translation from="Do a /whois when someone messages me" to="当有人给我发消息时执行 /whois" />
+  <translation from="(%users% %userword%, &quot;%topic%&quot;)" to="（%users% %userword%，&quot;%topic%&quot;）" />
+  <translation from="(%users% %userword%)" to="（%users% %userword%）" />
+  <translation from="userwordSingular" to="用户" />
+  <translation from="userwordPlural" to="用户" />
+  <translation from="External IP updated (now '%IP%')" to="外部 IP 已更新（当前为 '%IP%'）" />
+  <translation from="WARNING: Could not update external IP address!" to="警告：无法更新外部 IP 地址！" />
+  <translation from="Channel Information" to="频道信息" />
+  <translation from="Active channel" to="当前频道" />
+  <translation from="Active network/server" to="当前网络/服务器" />
+  <translation from="Current modes" to="当前模式" />
+  <translation from="Available modes" to="可用模式" />
+  <translation from="%chan% (%chanusers% users)" to="%chan%（%chanusers% 用户）" />
+  <translation from="This functionality has not been implemented at this time." to="此功能目前尚未实现。" />
+  <translation from="Are you sure you wish to remove this account?" to="确定要移除此账户吗？" />
+  <translation from="noSafeListNotice" to="此 IRC 服务器不支持&quot;安全列表&quot;功能。如果网络上有多个频道，您很可能会被服务器的洪水保护机制断开连接。请使用 /raw LIST 强制继续。" />
+  <translation from="%nick% was invited to join %channel%" to="%nick% 已被邀请加入 %channel%" />
+  <translation from="Kick/ban" to="踢出/封禁" />
+  <translation from="Kick" to="踢出" />
+  <translation from="Ban" to="封禁" />
+  <translation from="Kickban" to="踢出并封禁" />
+  <translation from="Kick..." to="踢出..." />
+  <translation from="Kickban..." to="踢出并封禁..." />
+  <translation from="Default kick message: %defaultKickMessage%" to="默认踢出消息：%defaultKickMessage%" />
+  <translation from="defaultDefaultKickMessage" to="再见 - 踢出操作由 www.trillian.im 赞助" />
+  <translation from="Ban mask" to="封禁掩码" />
+  <translation from="Added '%str%' to ignore list." to="已将 '%str%' 添加到忽略列表。" />
+  <translation from="The following entries have been removed from your ignore list: %removed%" to="以下条目已从您的忽略列表中移除：%removed%" />
+  <translation from="'%str%' was not found on your ignore list." to="未在忽略列表中找到 '%str%'。" />
+  
+  <translation from="Add..." to="添加..." />
+  <translation from="Add" to="添加" />
+  <translation from="Ban list" to="封禁列表" />
+  <translation from="(Updating list...)" to="（正在更新列表...）" />
+  <translation from="Ban exception list" to="封禁例外列表" />
+  <translation from="Invite exception list" to="邀请例外列表" />
+  <translation from="Open irc:// links in Trillian" to="在 Trillian 中打开 irc:// 链接" />
+  <translation from="Sorry, Trillian can not understand this URI." to="抱歉，Trillian 无法识别此 URI。" />
+  <translation from="URI appears to be malformed!" to="URI 格式异常！" />
+  <translation from="Switching servers..." to="正在切换服务器..." />
+  
+  <translation from="Change this channel's mode flags" to="修改此频道的模式标志" />
+  <translation from="Set up encrypted conversations" to="设置加密会话" />
+  <translation from="Manage server-side channel access lists" to="管理服务器端频道访问列表" />
+  <translation from="Set up sending and receiving messages at your discretion" to="按需配置消息收发" />
+  <translation from="Control who is allowed to contact you" to="控制允许联系您的用户" />
+  
+  <translation from="You are now known as %newnick%" to="您的昵称已更改为 %newnick%" />
+  <translation from="Trying to join %channel%..." to="正在尝试加入 %channel%..." />
+  <translation from="Channel Topic" to="频道主题" />
+  <translation from="Topic" to="主题" />
+  <translation from="Server Browser" to="服务器浏览器" />
+  <translation from="Please close any other open server browser windows first." to="请先关闭其他已打开的服务器浏览器窗口。" />
+  <translation from="Error: You can't create a DCC CHAT session to yourself, sorry." to="错误：抱歉，您无法与自己创建 DCC 聊天会话。" />
+  <translation from="*** Socket error (%error%)" to="*** Socket 错误（%error%）" />
+  <translation from="-to %name%-: %msg%" to="-私聊 %name%-：%msg%" />
+  <translation from="-to %name% (notice)-: %msg%" to="-私聊 %name%（通知）-：%msg%" />
+
+  <translation from="Output a warning when an unencrypted message is received from a secure channel" to="从安全频道收到未加密消息时输出警告" />
+  <translation from="Warning: %sender% sent an unencrypted message!" to="警告：%sender% 发送了未加密的消息！" />
+  <translation from="Send a File..." to="发送文件..." />
+  <translation from="OK" to="确定" />
+  
+  <translation from="Reconnect" to="重新连接" />
+  
+  <translation from="Multi line message handling" to="多行消息处理" />
+  <translation from="Do not allow multi-line messages" to="不允许多行消息" />
+  <translation from="Combine multiple lines into one" to="将多行合并为一行" />
+  <translation from="Send multiple lines as multiple messages" to="将多行作为多条消息发送" />
+
+  <translation from="Use proxy for file transfers and DCC Chats" to="为文件传输和 DCC 聊天使用代理" />
+  <translation from="Join Channel" to="加入频道" />
+  <translation from="Channel" to="频道" />
+
+</language>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)">
+	<translation from="Be Right Back" to="马上回来"/>
+	<translation from="Connection to group conversation lost." to="群组对话连接已断开。"/>
+	<translation from="Enter your Windows Live email and password below and click connect." to="请在下方输入您的 Windows Live 邮箱和密码，然后点击连接。"/>
+	<translation from="Force this connection to tunnel through the HTTP gateway" to="强制通过 HTTP 网关建立此连接隧道"/>
+	<translation from="Invite to Conversation..." to="邀请加入对话..."/>
+	<translation from="Windows Live Messenger support." to="Windows Live Messenger 支持。"/>
+	<translation from="MSN: New Mail" to="MSN: 新邮件"/>
+	<translation from="ftInternalError" to="*** 错误：对方无法接收此文件。与此联系人通信时，可能存在某些文件类型的安全限制。"/>
+	<translation from="infoAuthInternalError" to="身份验证过程中发生服务器内部错误。请稍后重试。"/>
+	<translation from="infoProtocolInvalid" to="警告：服务器协议 &quot;%protocol%&quot; 与请求的协议不匹配——连接无法继续！"/>
+	<translation from="infoInviteFail" to="邀请加入对话失败。"/>
+	<translation from="infoLoggedoffCode" to="您正在从 %medium% 注销。原因：&quot;%errcode%&quot;"/>
+	<translation from="infoLoggedoffMaintenance" to="由于服务器即将关闭进行维护，您正在从 %medium% 注销。请稍后再试。"/>
+	<translation from="infoErrorMessageSelf" to="您无法在 Windows Live Messenger 上给自己发送消息。"/>
+	<translation from="infoMsgOfflineNAK" to="此消息未发送，因为离线即时消息服务暂时不可用。请稍后重试：%message%"/>
+	<translation from="infoMsgOfflineRate" to="此消息未发送，因为您已达到发送频率限制。请等待一分钟后重新发送离线消息：%message%"/>
+	<translation from="infoMsgResourceChange" to="活动资源已更改为 &quot;%resource%&quot;。"/>
+	<translation from="systrayNotVerified" to="您的 Passport 尚未验证。请点击此处验证您的 MSN Passport。"/>
+	<translation from="systrayIEOffline" to="无法登录 Windows Live Messenger，因为 Internet Explorer 当前设置为脱机工作。请在浏览器的“文件”菜单中更改此设置，然后重新尝试登录。"/>
+	<translation from="systrayProtocolInvalid" to="无法登录 Windows Live Messenger，因为服务器协议与当前版本不兼容。此问题可能发生在服务器升级期间，或您正在使用不兼容的防火墙/杀毒软件。请将 Trillian 添加到安全软件的允许列表后重试。"/>
+	<translation from="Instant Messaging Address" to="即时消息地址"/>
+	<translation from="Only people on my Allow List can see my status and send me messages" to="仅允许列表中的联系人可查看我的状态并发送消息"/>
+	<translation from="Web User" to="网页用户"/>
+	<translation from="Yes" to="是"/>
+</language>

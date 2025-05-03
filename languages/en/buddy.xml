@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="English">
+  <translation from="%medium% (%num% connection)" to="%medium% (%num% connection)"/>
+  <translation from="%medium% (%num% connections)" to="%medium% (%num% connections)"/>
+  <translation from="%medium% (click here to connect)" to="%medium% (click here to connect)"/>
+  <translation from="%medium% (No connections)" to="%medium% (No connections)"/>
+  <translation from="%num% %time_unit%" to="%num% %time_unit%"/>
+  <translation from="%service% is disconnected." to="%service% is disconnected."/>
+  <translation from="%service1% and %service2% are disconnected." to="%service1% and %service2% are disconnected."/>
+  <translation from="%status%, Idle for %time%" to="%status%, Idle for %time%"/>
+  <translation from="%width% by %height%" to="%width% by %height%"/>
+	<translation from="&amp;About" to="&amp;About"/>
+	<translation from="&amp;Help" to="&amp;Help"/>
+  <translation from="&amp;Logoff" to="&amp;Logoff"/>
+  <translation from="&amp;Switch User" to="&amp;Switch User"/>
+	<translation from="&amp;Preferences" to="&amp;Preferences"/>
+	<translation from="&amp;Trillian" to="&amp;Trillian"/>
+  <translation from="&amp;Update Available..." to="&amp;Update Available..."/>
+  <translation from="&amp;View" to="&amp;View"/>
+	<translation from="&amp;Window" to="&amp;Window"/>
+	<translation from="Activity &amp;History" to="Activity &amp;History"/>
+	<translation from="Add Contact" to="Add Contact"/>
+	<translation from="Add Contact or Group..." to="Add Contact or Group..."/>
+	<translation from="Add Contact..." to="Add Contact..."/>
+	<translation from="Add Group..." to="Add Group..."/>
+	<translation from="Add Notifications..." to="Add Notifications..."/>
+	<translation from="Add Subcontact..." to="Add Subcontact..."/>
+	<translation from="Add Widget..." to="Add Widget..."/>
+	<translation from="Add this as contact..." to="Add this as contact..."/>
+	<translation from="Add to" to="Add to"/>
+  <translation from="Add to Contact List" to="Add to Contact List"/>
+	<translation from="Add..." to="Add..."/>
+  <translation from="Add" to="Add"/>
+  <translation from="Adding..." to="Adding..."/>
+  <translation from="alertNoIdle" to="&lt;b&gt;%name%&lt;/b&gt; is no longer idle."/>
+  <translation from="alertReturned" to="&lt;b&gt;%name%&lt;/b&gt; has returned."/>
+  <translation from="alertStatus" to="&lt;b&gt;%name%&lt;/b&gt; has changed status to %status%."/>
+  <translation from="alertStatusMessage" to="&lt;b&gt;%name%&lt;/b&gt; is now %status%: &quot;%status_message%&quot;"/>
+  <translation from="alertStatusMessageNone" to="&lt;b&gt;%name%&lt;/b&gt; is now %status%."/>
+  <translation from="alertSignOff" to="&lt;b&gt;%name%&lt;/b&gt; has just signed off."/>
+  <translation from="alertSignOn" to="&lt;b&gt;%name%&lt;/b&gt; has just signed on."/>
+  <translation from="All" to="All"/>
+	<translation from="Alphabet" to="Alphabet"/>
+	<translation from="Alphabetically" to="Alphabetically"/>
+	<translation from="Always On Top" to="Always On Top"/>
+	<translation from="Awaiting Authorization" to="Awaiting Authorization"/>
+	<translation from="Away" to="Away"/>
+	<translation from="Away - %awaymessage%" to="Away - %awaymessage%"/>
+	<translation from="Away Messages" to="Away Messages"/>
+	<translation from="Based on Skin" to="Based on Skin"/>
+	<translation from="Bottom" to="Bottom"/>
+	<translation from="By Conversation History Size" to="By Conversation History Size"/>
+	<translation from="By Service" to="By Service"/>
+	<translation from="By Status" to="By Status"/>
+  <translation from="Cancel" to="Cancel"/>
+  <translation from="Categorize Offline Contacts" to="Categorize Offline Contacts"/>
+	<translation from="Centered" to="Centered"/>
+	<translation from="Close" to="Close"/>
+  <translation from="Connect to %account%" to="Connect to %account%"/>
+  <translation from="Connected" to="Online"/>
+	<translation from="Connected - %awaymessage%" to="Online - %awaymessage%"/>
+	<translation from="Connection Settings" to="Connection Settings"/>
+	<translation from="Connection: Change" to="Connection: Change"/>
+	<translation from="Contact" to="Contact"/>
+	<translation from="Contact Information" to="Contact Information"/>
+	<translation from="Contact List Layout" to="Contact List Layout"/>
+	<translation from="Contact List Options" to="Contact List Options"/>
+	<translation from="Contact List Preferences..." to="Contact List Preferences..."/>
+	<translation from="Contact List: Add" to="Contact List: Add"/>
+	<translation from="Contact List: Bulk Changes Start" to="Contact List: Bulk Changes Start"/>
+	<translation from="Contact List: Bulk Changes Stop" to="Contact List: Bulk Changes Stop"/>
+	<translation from="Contact List: Contact Alert Window" to="Contact List: Contact Alert Window"/>
+	<translation from="Contact List: Contact Bulk Signoff" to="Contact List: Contact Bulk Signoff"/>
+	<translation from="Contact List: Contact Bulk Signon" to="Contact List: Contact Bulk Signon"/>
+	<translation from="Contact List: Contact Bulk Status Change" to="Contact List: Contact Bulk Status Change"/>
+	<translation from="Contact List: Contact Signoff" to="Contact List: Contact Signoff"/>
+	<translation from="Contact List: Contact Signon" to="Contact List: Contact Signon"/>
+	<translation from="Contact List: Contact Status Change" to="Contact List: Contact Status Change"/>
+	<translation from="Contact List: Contact wall status change" to="Contact List: Contact wall status change"/>
+	<translation from="Contact List: File Change" to="Contact List: File Change"/>
+	<translation from="Contact List: Hide" to="Contact List: Hide"/>
+	<translation from="Contact List: MetaContact Bulk Status Change" to="Contact List: MetaContact Bulk Status Change"/>
+	<translation from="Contact List: MetaContact Signoff" to="Contact List: MetaContact Signoff"/>
+	<translation from="Contact List: MetaContact Signon" to="Contact List: MetaContact Signon"/>
+	<translation from="Contact List: MetaContact Status Change" to="Contact List: MetaContact Status Change"/>
+	<translation from="Contact List: Remove" to="Contact List: Remove"/>
+	<translation from="Contact List: Rename" to="Contact List: Rename"/>
+	<translation from="Contact List: Show" to="Contact List: Show"/>
+	<translation from="Contact List: Subcontact Bulk Signoff" to="Contact List: Subcontact Bulk Signoff"/>
+	<translation from="Contact List: Subcontact Bulk Signon" to="Contact List: Subcontact Bulk Signon"/>
+	<translation from="Contact List: Subcontact Bulk Status Change" to="Contact List: Subcontact Bulk Status Change"/>
+	<translation from="Contact List: Subcontact Signoff" to="Contact List: Subcontact Signoff"/>
+	<translation from="Contact List: Subcontact Signon" to="Contact List: Subcontact Signon"/>
+	<translation from="Contact List: Subcontact Status Change" to="Contact List: Subcontact Status Change"/>
+	<translation from="Contact List: Toggle Visible" to="Contact List: Toggle Visible"/>
+	<translation from="Contacts" to="Contacts"/>
+	<translation from="Conversation History Size" to="Conversation History Size"/>
+	<translation from="Copy to" to="Copy to"/>
+	<translation from="Create Meta Contact..." to="Create Meta Contact..."/>
+	<translation from="Custom..." to="Custom..."/>
+	<translation from="Default" to="Default"/>
+	<translation from="Delete Notifications" to="Delete Notifications"/>
+	<translation from="Delete Notifications..." to="Delete Notifications..."/>
+	<translation from="Delete Section..." to="Delete Section..."/>
+	<translation from="Delete from" to="Delete from"/>
+	<translation from="Delete..." to="Delete..."/>
+  <translation from="Disconnect" to="Disconnect"/>
+  <translation from="Disconnected" to="Offline"/>
+	<translation from="Docking" to="Docking"/>
+	<translation from="E&amp;xit" to="E&amp;xit"/>
+	<translation from="Edit Contact Notes..." to="Edit Contact Notes..."/>
+	<translation from="Edit Group Notes..." to="Edit Group Notes..."/>
+	<translation from="Edit Previous Messages..." to="Edit Previous Messages..."/>
+  <translation from="Extra Information" to="Extra InformationProfiles"/>
+	<translation from="Follow Links" to="Follow Links"/>
+	<translation from="Global Connection" to="All Connections"/>
+	<translation from="Group" to="Group"/>
+	<translation from="Group Only" to="Group Only"/>
+	<translation from="Groups" to="Groups"/>
+  <translation from="Help" to="Help"/>
+	<translation from="Hide" to="Hide"/>
+	<translation from="Hide Empty Groups" to="Hide Empty Groups"/>
+	<translation from="Idle for %time%" to="Idle for %time%"/>
+  <translation from="ID Name" to="ID Name"/>
+	<translation from="Invisible" to="Invisible"/>
+	<translation from="Large" to="Large"/>
+	<translation from="Last Seen On" to="Last Seen On"/>
+	<translation from="Last seen %time% ago" to="Last seen %time% ago"/>
+	<translation from="Learn about Trillian Pro" to="Learn about Trillian Pro"/>
+	<translation from="Left" to="Left"/>
+	<translation from="List" to="List"/>
+	<translation from="Manage &amp;Connections..." to="Manage &amp;Connections..."/>
+	<translation from="Medium" to="Medium"/>
+	<translation from="Medium Icons" to="Medium Icons"/>
+	<translation from="Message" to="Message"/>
+	<translation from="Metacontact" to="MetaContact"/>
+	<translation from="Metacontacts" to="MetaContacts"/>
+	<translation from="Minimize" to="Minimize"/>
+	<translation from="Modify Notifications..." to="Modify Notifications..."/>
+	<translation from="More Messages" to="More Messages"/>
+	<translation from="More Options" to="More Options"/>
+	<translation from="More results on Astra..." to="More results on Astra..."/>
+  <translation from="Multiple services are disconnected." to="Multiple services are disconnected."/>
+	<translation from="My Astra Profile" to="My Astra Profile"/>
+	<translation from="My Contacts" to="My Contacts"/>
+	<translation from="New Away Message..." to="New Away Message..."/>
+  <translation from="New Contact" to="New Contact"/>
+  <translation from="New Group" to="New Group"/>
+  <translation from="New Group (%num%)" to="New Group (%num%)"/>
+	<translation from="New message..." to="New message..."/>
+	<translation from="No Connections Available" to="No Connections Available"/>
+	<translation from="No Entries Available" to="No Entries Available"/>
+	<translation from="No Results Found" to="No Results Found"/>
+	<translation from="No services are currently connected." to="No services are currently connected."/>
+	<translation from="No services are currently installed.  Please enable a service in the plugin preferences." to="No services are currently installed.  Please enable a service in the plugin preferences."/>
+	<translation from="None" to="None"/>
+	<translation from="Normal" to="Normal"/>
+	<translation from="Note" to="Note"/>
+	<translation from="Off" to="Off"/>
+	<translation from="Offline" to="Offline"/>
+  <translation from="Offline Contacts" to="Offline Contacts"/>
+	<translation from="On" to="On"/>
+	<translation from="Online" to="Online"/>
+	<translation from="Online Contacts" to="Online Contacts"/>
+	<translation from="Other..." to="Other..."/>
+	<translation from="Partially Connected" to="Partially Online"/>
+	<translation from="Please select a service" to="Please select a service"/>
+	<translation from="Push here for more options" to="Push here for more options"/>
+	<translation from="Remove Contact" to="Remove Contact"/>
+	<translation from="Rename" to="Rename"/>
+	<translation from="Reset Default Source" to="Reset Default Source"/>
+	<translation from="Results for %search%" to="Results for %search%"/>
+	<translation from="Reverse Alphabet" to="Reverse Alphabet"/>
+	<translation from="Reverse Alphabetically" to="Reverse Alphabetically"/>
+	<translation from="Right" to="Right"/>
+	<translation from="Scroll Down" to="Scroll Down"/>
+	<translation from="Scroll Left" to="Scroll Left"/>
+	<translation from="Scroll Right" to="Scroll Right"/>
+	<translation from="Scroll Up" to="Scroll Up"/>
+	<translation from="Search" to="Search"/>
+	<translation from="Searching for %search%" to="Searching for %search%"/>
+	<translation from="Send Message to" to="Send Message to"/>
+	<translation from="Send Message..." to="Send Message..."/>
+	<translation from="Send a Message to all..." to="Send a Message to all..."/>
+	<translation from="Service" to="Service"/>
+	<translation from="Service Not Loaded" to="Service Not Loaded"/>
+	<translation from="Set Default Source..." to="Set Default Source..."/>
+	<translation from="Set Notifications..." to="Set Notifications..."/>
+	<translation from="Set Status" to="Set Status"/>
+	<translation from="Share Trillian with a Friend..." to="Share Trillian with a Friend..."/>
+	<translation from="Show Avatars" to="Show Avatars"/>
+	<translation from="Show Group Counts" to="Show Group Counts"/>
+	<translation from="Show Medium Icons (if skinned)" to="Show Medium Icons (if skinned)"/>
+	<translation from="Show Offline Contacts in Groups" to="Show Offline Contacts in Groups"/>
+	<translation from="Show Status Window" to="Show Status Window"/>
+  <translation from="Shutdown" to="Shutdown"/>
+	<translation from="Simple" to="Simple"/>
+	<translation from="Size" to="Size"/>
+	<translation from="Small" to="Small"/>
+	<translation from="Sort" to="Sort"/>
+	<translation from="Status" to="Status"/>
+  <translation from="Status Unavailable" to="Status Unavailable"/>
+  <translation from="Stretched" to="Stretched"/>
+	<translation from="Suppress Empty Groups" to="Suppress Empty Groups"/>
+	<translation from="Switch User" to="Switch User"/>
+	<translation from="Theme" to="Theme"/>
+	<translation from="There are no connections online." to="There are no connections online."/>
+	<translation from="Tiled" to="Tiled"/>
+	<translation from="Tiles" to="Tiles"/>
+	<translation from="Tiny" to="Tiny"/>
+	<translation from="Top" to="Top"/>
+	<translation from="Turn Autohide Off" to="Turn Autohide Off"/>
+	<translation from="Turn Autohide On" to="Turn Autohide On"/>
+	<translation from="Turn Off" to="Turn Off"/>
+	<translation from="Turn On" to="Turn On"/>
+	<translation from="Unbind" to="Unbind"/>
+	<translation from="Unknown" to="Unknown"/>
+  <translation from="Upgrade to Trillian Pro" to="Upgrade to Trillian Pro"/>
+	<translation from="User: Default Message Send" to="User: Default Message Send"/>
+	<translation from="View" to="View"/>
+	<translation from="View Contact History" to="View Contact History"/>
+	<translation from="View Contact Information" to="View Contact Information"/>
+	<translation from="alert" to="alert"/>
+	<translation from="alerts" to="alerts"/>
+	<translation from="day" to="day"/>
+	<translation from="days" to="days"/>
+	<translation from="dialogAlertAction" to="Action"/>
+	<translation from="dialogAlertAway" to="%contact% returned from away status at %time%."/>
+	<translation from="dialogAlertContact" to="Contact"/>
+	<translation from="dialogAlertDisplayName" to="Display Name"/>
+	<translation from="dialogAlertEdit" to="Edit Contact Alert: %contact%"/>
+	<translation from="dialogAlertIdle" to="%contact% returned from idle status at %time%."/>
+	<translation from="dialogAlertMedium" to="Medium"/>
+	<translation from="dialogAlertOffline" to="%contact% has gone offline at %time%."/>
+	<translation from="dialogAlertOnline" to="%contact% has come online at %time%."/>
+	<translation from="dialogAlertOptionsNotify" to="Select the options below to notify you when &quot;%contact%&quot; is a certain status."/>
+	<translation from="dialogAlertSave" to="Save"/>
+	<translation from="dialogAlertWhen" to="When"/>
+	<translation from="dialogContactListDescription" to="Determine the behavior and layout of your Trillian contact list."/>
+	<translation from="dialogContactListName" to="Contact List"/>
+	<translation from="dialogContactPrompt" to="Contact"/>
+	<translation from="dialogContactRename" to="Rename Contact"/>
+	<translation from="dialogFromContact" to="Contact"/>
+	<translation from="dialogFromDefault" to="Default"/>
+	<translation from="dialogFromFrom" to="From"/>
+	<translation from="dialogGroupAdd" to="Add Group"/>
+	<translation from="dialogGroupChoose" to="Choose Group (%contact%)..."/>
+	<translation from="dialogGroupInformation" to="Information about Group"/>
+	<translation from="dialogGroupPrompt" to="Group"/>
+	<translation from="dialogMassSetDefault" to="Select where to send messages from for each contact in the future.  You can disable this by clicking &apos;Reset Default Source&apos; in the future."/>
+	<translation from="dialogMessageServerNonContact" to="Select where to send the message from.  This is not a contact, so no default can be chosen."/>
+  <translation from="dialogServerRequest" to="Please choose a connection for this action."/>
+	<translation from="dialogWizardAdd" to="Contact Wizard: Add Contact/Group"/>
+	<translation from="dialogWizardAddDescription" to="Add contacts of your friends by choosing the medium and group&#13;&#10;to put it within."/>
+	<translation from="dialogWizardAddName" to="Add Contact or Group"/>
+	<translation from="dialogWizardContactQuickAddDescription" to="Enter contact information below."/>
+	<translation from="dialogWizardContactQuickAddName" to="Adding a Contact on %medium%"/>
+	<translation from="dialogWizardImport" to="Contact Wizard: Import Contacts"/>
+	<translation from="dialogWizardImportDescription" to="You can import contacts from your old IM clients into Trillian."/>
+	<translation from="dialogWizardImportName" to="Import Contacts"/>
+	<translation from="dialogWizardMetaContact" to="Contact Wizard: MetaContact"/>
+	<translation from="dialogWizardMetaContactDescription" to="Have 5 different contacts for the same Friend?  Bind multiple&#13;&#10;contacts into one using the MetaContact function."/>
+	<translation from="dialogWizardMetaContactName" to="Create MetaContacts"/>
+	<translation from="dialogWizardStart" to="Contact Wizard: Start"/>
+	<translation from="dialogWizardStartDescription" to="You can choose to add a contact or group, create a MetaContact or&#13;&#10;import contacts from another program."/>
+	<translation from="dialogWizardStartDescriptionBasic" to="You can choose to add a contact or group or import contacts from&#13;&#10;another program."/>
+	<translation from="dialogWizardStartName" to="Add Contacts Wizard"/>
+	<translation from="hour" to="hour"/>
+	<translation from="hours" to="hours"/>
+	<translation from="less than a minute" to="less than a minute"/>
+	<translation from="minute" to="minute"/>
+	<translation from="minutes" to="minutes"/>
+	<translation from="month" to="month"/>
+	<translation from="months" to="months"/>
+  <translation from="OK" to="OK"/>
+  <translation from="Reconnect" to="Reconnect"/>
+  <translation from="Reconnecting..." to="Reconnecting..."/>
+	<translation from="second" to="second"/>
+	<translation from="seconds" to="seconds"/>
+	<translation from="textErrorActionSelect" to="Please select a valid action.  You may be required to click the &apos;more options&apos; button for the action you selected."/>
+	<translation from="textErrorAlertRemove" to="Unable to determine which alert to remove."/>
+	<translation from="textErrorConnectionSetAll" to="Please change each &apos;unknown&apos; entry to a valid connection or hit cancel."/>
+	<translation from="textErrorContactOffline" to="User Offline: There is no connection associated with this user."/>
+	<translation from="textErrorDockingOff" to="Docking is currently turned off.  To turn on docking, go into preferences"/>
+	<translation from="textErrorDockingTaskbarEntry" to="Docking is only allowed if the taskbar entry is off.  To turn off the taskbar entry, go into preferences"/>
+	<translation from="textErrorEntryInvalid" to="No valid entries are selected."/>
+	<translation from="textErrorFileNotFound" to="Unable to find the file"/>
+	<translation from="textErrorGroupContainsContact" to="This group already contains this contact.  Please choose another."/>
+	<translation from="textErrorGroupInvalid" to="Group no longer appears to be valid"/>
+	<translation from="textErrorGroupSelectContact" to="Please select a group to add the Contact to."/>
+	<translation from="textErrorGroupSelectMetaContact" to="Please select a group to add the MetaContact to."/>
+	<translation from="textErrorImportMedium" to="Please select a service to continue."/>
+	<translation from="textErrorInformationGroup" to="No information is available for groups."/>
+	<translation from="textErrorInformationInvalid" to="Sorry, no available information on selected item."/>
+	<translation from="textErrorInformationMultiple" to="Please select only one entry to view information on."/>
+	<translation from="textErrorInformationSelect" to="Please select an entry to view information on."/>
+	<translation from="textErrorLogNoMemory" to="Unable to open log: There was not enough memory to complete the operation."/>
+	<translation from="textErrorLogNotFound" to="Unable to find the requested log file.  If logging is off, you may turn it on in Preferences-&gt;Message History."/>
+	<translation from="textErrorLogSharing" to="Unable to open log: A sharing violation occurred."/>
+	<translation from="textErrorLogViewerNotFound" to="Unable to find a log viewer.  You can specify one inside the Preferences-&gt;Message History."/>
+	<translation from="textErrorMetaContactDupe" to="Please enter a unique name for the MetaContact."/>
+	<translation from="textErrorMetaContactGroupCreate" to="You may not create a group within a MetaContact."/>
+	<translation from="textErrorMetaContactName" to="Please enter a name for the MetaContact."/>
+	<translation from="textErrorNoOnline" to="No online entries are selected or some of the contacts chosen were on a service that does not support mass messaging."/>
+	<translation from="textErrorOfflineContactMove" to="Contact can not be moved.  The destination group must not be Offline Contacts."/>
+	<translation from="textErrorOfflineMove" to="You can not move the Offline Contacts group."/>
+	<translation from="textErrorOfflineRemove" to="You may not remove the offline contacts folder.  If you wish to disable it, go to &quot;right click-&gt;Contact List Options-&gt;Hide Offline Contacts&quot; to see contacts in the correct groups."/>
+	<translation from="textErrorRemoveContact" to="Are you sure you want to remove %num_contacts% %word_contact%?"/>
+	<translation from="textErrorRemoveContactMetaContact" to="Are you sure you want to remove %num_contacts% %word_contact% and %num_metacontacts% %word_metacontact%?"/>
+	<translation from="textErrorRemoveContactSingle" to="Are you sure you want to remove %medium% Contact (%contact%)?"/>
+	<translation from="textErrorRemoveContactSingleNoMedium" to="Are you sure you want to remove contact (%contact%)?"/>
+	<translation from="textErrorRemoveGroup" to="Are you sure you want to remove %num_groups% %word_group%?"/>
+	<translation from="textErrorRemoveGroupContact" to="Are you sure you want to remove %num_groups% %word_group% and %num_contacts% %word_contact%?"/>
+	<translation from="textErrorRemoveGroupContactMetaContact" to="Are you sure you want to remove %num_groups% %word_group%, %num_contacts%s and %num_metacontacts% %word_metacontact%?"/>
+	<translation from="textErrorRemoveGroupMetaContact" to="Are you sure you want to remove %num_groups% %word_group% and %num_metacontacts% %word_metacontact%?"/>
+	<translation from="textErrorRemoveGroupSingle" to="Are you sure you want to remove the empty Group (%group%)?"/>
+	<translation from="textErrorRemoveGroupSingleContact" to="Are you sure you want to remove Group (%group%) and its %num_contacts% %word_contact%?"/>
+	<translation from="textErrorRemoveMetaContact" to="Are you sure you want to remove %num_metacontacts% %word_metacontact%?"/>
+	<translation from="textErrorRemoveMetaContactSingle" to="Are you sure you want to remove the empty MetaContact (%metacontact%)?"/>
+	<translation from="textErrorRemoveMetaContactSingleContact" to="Are you sure you want to remove MetaContact (%metacontact%) and its %num_contacts% %word_contact%?"/>
+  <translation from="textErrorSameName" to="Can't rename item because this name already exists."/>
+  <translation from="textErrorServerSelect" to="Please select an account."/>
+	<translation from="textErrorSoundSelect" to="Please select a sound by clicking on the &apos;more options&apos; button."/>
+	<translation from="textErrorSubcontactMove" to="You may not drag subcontacts."/>
+	<translation from="textErrorSubcontactRemove" to="You may not remove the subcontact (%subcontact%)"/>
+	<translation from="textErrorTextRequired" to="Please enter some text or close the window."/>
+	<translation from="textNoticeAlertRemove" to="Are you sure you want to remove the %num_alerts% %word_alert%"/>
+	<translation from="textNoticeContactQuickAddStop" to="Do you wish to stop adding this contact?"/>
+	<translation from="textNoticeFileNotFound" to="Unable to find the file, continue?"/>
+	<translation from="textNoticeMetaContactStop" to="Do you wish to stop creating this MetaContact?"/>
+	<translation from="textNoticeNoteOverwrite" to="%contact% already has a note: %note%.  Do you wish to overwrite this?"/>
+	<translation from="textNoticeSectionRemove" to="Remove this section and all of the contacts within?  (You may hide this section if you wish to keep the contacts, however do not want it visible)"/>
+	<translation from="textNoticeSystray" to="Trillian will continue to run so that you can receive instant messages when you are signed in.&#13;&#10;Click here to not show this reminder again."/>
+	<translation from="titleError" to="Trillian Error"/>
+	<translation from="titleNotice" to="Trillian Notice"/>
+	<translation from="titleNoticeSystray" to="Trillian is still running!"/>
+	<translation from="week" to="week"/>
+	<translation from="weeks" to="weeks"/>
+	<translation from="year" to="year"/>
+	<translation from="years" to="years"/>
+</language>

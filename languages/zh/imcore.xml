@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)">
+	<translation from="&amp;Actions" to="&amp;操作"/>
+	<translation from="Account Options" to="账户选项"/>
+	<translation from="Account Settings" to="账户设置"/>
+	<translation from="Add to Contact List..." to="添加到联系人列表..."/>
+	<translation from="Advanced" to="高级"/>
+	<translation from="Alert me when mail arrives for this account" to="此账户收到邮件时提醒我"/>
+	<translation from="Allow" to="允许"/>
+	<translation from="Allow a Contact..." to="允许联系人..."/>
+	<translation from="Auto-response: " to="自动回复："/>
+	<translation from="Automatically approve all incoming add requests" to="自动批准所有添加请求"/>
+	<translation from="Automatically connect to this account at startup" to="启动时自动连接此账户"/>
+	<translation from="Automatically log me into mail when possible" to="尽可能自动登录邮件"/>
+	<translation from="Away" to="离开"/>
+	<translation from="Block" to="阻止"/>
+	<translation from="Block List" to="阻止列表"/>
+	<translation from="Block User" to="阻止用户"/>
+	<translation from="Block a Contact..." to="阻止联系人..."/>
+	<translation from="Cancel" to="取消"/>
+	<translation from="Change Password" to="更改密码"/>
+	<translation from="Check Mail" to="检查邮件"/>
+	<translation from="Connection Settings" to="连接设置"/>
+	<translation from="Contact:" to="联系人："/>
+	<translation from="Disconnect" to="断开连接"/>
+	<translation from="Display Name" to="显示名称"/>
+	<translation from="Do Not Disturb" to="请勿打扰"/>
+	<translation from="Do Nothing" to="不执行任何操作"/>
+	<translation from="Error during file transfer." to="文件传输期间发生错误。"/>
+	<translation from="File transfer active." to="文件传输进行中。"/>
+	<translation from="File transfer cancelled by remote." to="文件传输被对方取消。"/>
+	<translation from="File transfer cancelled." to="文件传输已取消。"/>
+	<translation from="File transfer closed." to="文件传输已关闭。"/>
+	<translation from="File transfer completed successfully." to="文件传输成功完成。"/>
+	<translation from="File transfer declined." to="文件传输已拒绝。"/>
+	<translation from="File transfer was accepted at another location." to="文件传输已在其他位置被接受。"/>
+	<translation from="Fine tune the server and proxy settings for this connection." to="微调此连接的服务器和代理设置。"/>
+	<translation from="Free For Chat" to="空闲可聊天"/>
+	<translation from="General" to="常规"/>
+	<translation from="Group Conversation" to="群组对话"/>
+	<translation from="Hostname:" to="主机名："/>
+	<translation from="Idle" to="空闲"/>
+	<translation from="Invisible" to="隐身"/>
+	<translation from="Mail" to="邮件"/>
+	<translation from="Mail: New Mail" to="邮件：新邮件"/>
+	<translation from="Manage other options for this account." to="管理此账户的其他选项。"/>
+	<translation from="Manage the privacy settings for this account." to="管理此账户的隐私设置。"/>
+	<translation from="Manually specify proxy" to="手动指定代理"/>
+	<translation from="Message" to="消息"/>
+	<translation from="Mobile" to="移动设备"/>
+	<translation from="Miscellaneous" to="其他"/>
+	<translation from="None" to="无"/>
+	<translation from="Online" to="在线"/>
+	<translation from="Only accept messages from users on my contact list" to="仅接受联系人列表中用户的消息"/>
+	<translation from="Password" to="密码"/>
+	<translation from="Password:" to="密码："/>
+	<translation from="Permissions" to="权限"/>
+	<translation from="Port:" to="端口："/>
+	<translation from="Privacy" to="隐私"/>
+	<translation from="Privacy settings can only be controlled when connected to this account." to="隐私设置仅在连接到此账户时可控制。"/>
+	<translation from="Protocol:" to="协议："/>
+	<translation from="Proxy" to="代理"/>
+	<translation from="Re-request Authorization" to="重新请求授权"/>
+	<translation from="Reconnect" to="重新连接"/>
+	<translation from="Remove" to="移除"/>
+	<translation from="Reset" to="重置"/>
+	<translation from="Send File..." to="发送文件..."/>
+	<translation from="Send Message..." to="发送消息..."/>
+	<translation from="Send a Message..." to="发送消息..."/>
+	<translation from="Server" to="服务器"/>
+	<translation from="Set Status" to="设置状态"/>
+	<translation from="Show my mail account in the contact list" to="在联系人列表中显示我的邮件账户"/>
+	<translation from="Some of these settings will only take effect the next time you connect to this account." to="部分设置将在下次连接此账户时生效。"/>
+	<translation from="Some of these settings have been disabled because this connection is offline." to="部分设置因连接离线已被禁用。"/>
+	<translation from="Status" to="状态"/>
+	<translation from="Unblock" to="取消阻止"/>
+	<translation from="Unblock User" to="取消阻止用户"/>
+	<translation from="Use default proxy settings" to="使用默认代理设置"/>
+	<translation from="Username" to="用户名"/>
+	<translation from="Username:" to="用户名："/>
+	<translation from="ftBeginIncoming" to="*** 正在尝试从%username%接收%filename%。"/>
+	<translation from="ftBeginOutgoing" to="*** 正在尝试向%username%发送%filename%。"/>
+	<translation from="ftErrorCapability" to="*** 错误：%username%使用的客户端不支持文件传输。"/>
+	<translation from="ftErrorSelf" to="*** 错误：无法向自己发送文件。"/>
+	<translation from="ftErrorContact" to="*** 错误：无法向非联系人列表中的用户发送文件。"/>
+	<translation from="ftOpenFileFailure" to="*** 错误：尝试打开%filename%读取失败。请确保文件未被占用且可读后重试。"/>
+	<translation from="ftEnd" to="*** 文件传输已结束。"/>
+	<translation from="infoAutoResponseSent" to="已向%username%发送自动回复：%response%"/>
+	<translation from="is inviting you to join a conference." to="正在邀请您加入会议。"/>
+	<translation from="infoChatJoin" to="%username%已加入对话。"/>
+	<translation from="infoChatLeave" to="%username%已离开对话。"/>
+	<translation from="infoConfirmAccountRemove" to="确定要移除此账户吗？"/>
+	<translation from="infoConnProxy" to="我们正在使用类型为&quot;%protocol%&quot;的代理服务器，地址为&quot;%hostname%:%port%&quot;进行连接。"/>
+	<translation from="infoConnSucceed" to="您已成功连接到%medium%。"/>
+	<translation from="infoContactAway" to="&quot;%displayname% (%username%)&quot;于%time%离开。"/>
+	<translation from="infoContactInvisible" to="&quot;%displayname% (%username%)&quot;于%time%进入隐身状态。"/>
+	<translation from="infoContactMarked" to="&quot;%displayname% (%username%)&quot;于%time%被标记为&quot;%status%&quot;。"/>
+	<translation from="infoContactOffline" to="&quot;%displayname% (%username%)&quot;于%time%下线。"/>
+	<translation from="infoContactOnline" to="&quot;%displayname% (%username%)&quot;于%time%上线。"/>
+	<translation from="infoContactReturn" to="&quot;%displayname% (%username%)&quot;于%time%从离开状态返回。"/>
+	<translation from="infoCreateConn" to="正在创建连接&quot;%username%&quot;。"/>
+	<translation from="infoDisconnected" to="您已断开连接。"/>
+	<translation from="infoErrorConn" to="连接到%medium%失败：系统错误代码&quot;%errcode%&quot;。"/>
+	<translation from="infoFrom" to="来自%username%"/>
+	<translation from="infoLoggedoffOtherAcct" to="您正在从%medium%退出，因为其他设备有人登录了您的账户。"/>
+	<translation from="infoLoginErrPass" to="连接到%medium%失败：密码错误。"/>
+	<translation from="infoMessageErrUnavailable" to="您的消息未能成功送达收件人。请重试。"/>
+	<translation from="infoMsgLenExceed" to="您的消息未发送。原因：超出最大长度限制（%length%）。可通过Ctrl+↑或↑键（取决于设置）恢复上一条消息。"/>
+	<translation from="infoReconnect" to="正在以&quot;%username%&quot;身份重新连接到%medium%。"/>
+	<translation from="infoStatusChange" to="您当前的状态已设为&quot;%status%&quot;。"/>
+	<translation from="infoTLSType" to="已使用%description%建立TLS连接。"/>
+	<translation from="miscIsPaused" to="%username%已输入文字。"/>
+	<translation from="miscIsTyping" to="%username%正在输入消息。"/>
+	<translation from="systrayAuthApproved" to="%username%已批准您的授权请求。"/>
+	<translation from="systrayAuthDenied" to="%username%已拒绝您的授权请求。"/>
+	<translation from="systrayAuthRequest" to="%username%请求将您添加至其联系人列表。"/>
+	<translation from="systrayMail" to="%username%：您有新邮件。"/>
+	<translation from="systrayMailStatsP" to="%username%：您的收件箱中有%count%封邮件。"/>
+	<translation from="systrayMailStatsS" to="%username%：您的收件箱中有1封邮件。"/>
+	<translation from="systrayPassword" to="连接到%medium%失败：密码错误。点击此处重置。"/>
+	<translation from="systrayStatus" to="连接到%medium%失败。点击此处查看详情。"/>
+	<translation from="View User Information" to="查看用户信息"/>
+	<translation from="Preparing call..." to="准备呼叫中..."/>
+	<translation from="Establishing call..." to="建立呼叫中..."/>
+	<translation from="Ringing..." to="响铃中..."/>
+	<translation from="has closed the call." to="已结束通话。"/>
+	<translation from="has closed the call by signing offline." to="因下线已结束通话。"/>
+	<translation from="has cancelled the call." to="已取消通话。"/>
+	<translation from="has declined the call." to="已拒绝通话。"/>
+	<translation from="is calling you." to="正在呼叫您。"/>
+	<translation from="is currently unavailable." to="当前不可用。"/>
+	<translation from="infoCalling" to="正在呼叫%username%。"/>
+	<translation from="Override my display name for this account with: %prefsMiscOverrideDisplayNameName%" to="为此账户覆盖显示名称：%prefsMiscOverrideDisplayNameName%"/>
+	<translation from="When this account is not active, hide its connection icon from the Contact List" to="此账户未激活时，从联系人列表中隐藏其连接图标"/>
+	<translation from="This contact could not be added to your list." to="无法将此联系人添加到您的列表。"/>
+	<translation from="infoUsernameInvalid" to="%username%不是有效的%medium%用户名。"/>
+	<translation from="infoContactIdle" to="&quot;%displayname% (%username%)&quot;于%time%进入空闲状态。"/>
+	<translation from="infoContactReturnIdle" to="&quot;%displayname% (%username%)&quot;于%time%从空闲状态返回。"/>
+	<translation from="Allow and Block List" to="允许和阻止列表"/>
+	<translation from="Allow a User..." to="允许用户..."/>
+	<translation from="User:" to="用户："/>
+	<translation from="Invite to Conference..." to="邀请参加会议..."/>
+	<translation from="Participants" to="参与者"/>
+	<translation from="Invited" to="已邀请"/>
+	<translation from="infoChatCreating" to="正在创建会议..."/>
+	<translation from="infoChatInvite" to="%username%正在邀请您参加会议。"/>
+	<translation from="Join a Chat..." to="加入聊天..."/>
+	<translation from="Appear Online Always" to="始终显示在线"/>
+	<translation from="Appear Offline" to="显示离线"/>
+	<translation from="Busy" to="忙碌"/>
+	<translation from="On The Phone" to="通话中"/>
+	<translation from="Out To Lunch" to="外出就餐"/>
+	<translation from="systrayMailFrom" to="%username%：您有一封来自&lt;b&gt;%from%&lt;/b&gt;的新邮件，主题为：&quot;&lt;b&gt;%subject%&lt;/b&gt;&quot;。"/>
+	<translation from="Block a User..." to="阻止用户..."/>
+	<translation from="Client Description" to="客户端描述"/>
+	<translation from="day" to="天"/>
+	<translation from="days" to="天"/>
+	<translation from="hour" to="小时"/>
+	<translation from="hours" to="小时"/>
+	<translation from="minute" to="分钟"/>
+	<translation from="minutes" to="分钟"/>
+	<translation from="seconds" to="秒"/>
+	<translation from="infoLoginRebind" to="已绑定至资源%name%。"/>
+	<translation from="infoResourceChange" to="此窗口的活动资源已更改为&quot;%resource%&quot;。"/>
+	<translation from="infoContactFFC" to="&quot;%displayname% (%username%)&quot;于%time%空闲可聊天。"/>
+	<translation from="infoMsgNAK" to="以下消息未能送达所有收件人：%message%"/>
+	<translation from="ftConnectInfoServer" to="*** 注意：%username%请求通过服务器代理传输文件。正在尝试连接至%ip%:%port%。"/>
+	<translation from="ftErrorServer" to="*** 错误：无法连接到代理服务器%ip%:%port%。文件传输无法继续。"/>
+	<translation from="ftResumeFailureInc" to="*** 注意：请求恢复传输失败，因发送方的文件与您的版本不同。为避免数据丢失，正在创建新文件。"/>
+	<translation from="ftLocalHostChangeClient" to="*** 注意：连接%username%失败。正在尝试连接至备用地址%ip%:%port%。"/>
+	<translation from="ftLocalHostChangeExhaustedServer" to="*** 注意：所有直连%username%的尝试均已失败。正在请求服务器代理传输文件。"/>
+	<translation from="Call" to="语音通话"/>
+	<translation from="Video Call" to="视频通话"/>
+</language>

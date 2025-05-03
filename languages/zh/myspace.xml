@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)">
+	<translation from="Comment..." to="评论..."/>
+	<translation from="Enter your MySpaceIM email and password below and click connect." to="请在下方输入您的 MySpaceIM 邮箱和密码，然后点击连接。"/>
+	<translation from="MySpaceIM support." to="MySpaceIM 支持。"/>
+	<translation from="Send Mail..." to="发送邮件..."/>
+	<translation from="User not found - please check your spelling." to="未找到用户，请检查拼写。"/>
+	<translation from="infoVersionMismatch" to="MySpace 已不再支持此版本插件的登录。请确保您使用的是最新版 Trillian，然后重试。"/>
+	<translation from="systrayUniqueNickname" to="连接 MySpaceIM 失败。您必须先为账户设置唯一昵称才能使用此服务。点击此处跳转至 MySpace 主页，在“我的 URL”设置中完成配置后重试。"/>
+	<translation from="Email" to="电子邮箱"/>
+</language>

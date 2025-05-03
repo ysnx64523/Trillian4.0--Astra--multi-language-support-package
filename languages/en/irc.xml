@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="English"> <!-- enforce UTF 8: äöü //-->
+
+  <translation from="textPluginDescription" to="IRC (Internet Relay Chat) support." />
+
+  <translation from="Connecting" to="Connecting" />
+  <translation from="Online" to="Online" />
+  <translation from="Offline" to="Offline" />
+
+  <translation from="Disconnected." to="Disconnected." />
+
+  <translation from="Error" to="Error" />
+
+  <translation from="Opening network connection failed. Check server/port/nickname." to="Opening network connection failed. Check server/port/nickname." />
+  <translation from="Connecting to %server% at port %port% using SSL..." to="Connecting to %server% at port %port% using SSL..." />
+  <translation from="Connecting to %server% at port %port% (SSL is OFF)..." to="Connecting to %server% at port %port% (SSL is OFF)..." />
+  <translation from="Network error: %errorcode%" to="Network error: %errorcode%" />
+  <translation from="Connection established" to="Connection established" />
+
+  <translation from="Account name" to="Account name" />
+  <translation from="Nick name" to="Nick name" />
+  <translation from="Full name" to="Full name" />
+  <translation from="Server host" to="Server host" />
+
+  <translation from="Send a Message..." to="Send a Message..." />
+  <translation from="Browse for Channels..." to="Browse for Channels..." />
+  <translation from="Join a Channel..." to="Join a Channel..." />
+
+  <translation from="Yesterday" to="Yesterday" />
+  <translation from="Today" to="Today" />
+  <translation from="%mins% minutes ago" to="%mins% minutes ago" />
+  <translation from="textTime" to="%I:%M %p" /> <!-- http://www.cplusplus.com/reference/clibrary/ctime/strftime.html //-->
+  <translation from="textDate" to="%B %d" />
+
+  <translation from="%name% has joined %channel%" to="%name% has joined %channel%" />
+  <translation from="%name% has left %channel%" to="%name% has left %channel%" />
+  <translation from="%name% has left %channel%: %message%" to="%name% has left %channel%: %message%" />
+  <translation from="%name% has quit IRC: %message%" to="%name% has quit IRC: %message%" />
+  <translation from="%name% sets mode %modes%" to="%name% sets mode %modes%" />
+  <translation from="%name% is now known as %newnick%" to="%name% is now known as %newnick%" />
+  <translation from="%name% changed the channel topic" to="%name% changed the channel topic" />
+  <translation from="%name% kicked %victim% from the channel: %reason%" to="%name% kicked %victim% from the channel: %reason%" />
+
+  <translation from="Group/Users" to="Normal" />
+  <translation from="Group/Voiced" to="Voice" />
+  <translation from="Group/Half-Ops" to="Half-Ops" />
+  <translation from="Group/Operators" to="Ops" />
+  <translation from="Group/Protected" to="Protected" />
+  <translation from="Group/Owners" to="Owners" />
+
+  <translation from="Some of these settings will only take effect the next time you connect to this account." to="Some of these settings will only take effect the next time you connect to this account." />
+  <translation from="Fine tune server and proxy settings for this connection." to="Fine tune server and proxy settings for this connection." />
+  <translation from="Proxy" to="Proxy" />
+  <translation from="Use the default proxy settings" to="Use the default proxy settings" />
+  <translation from="Manually specify proxy" to="Manually specify proxy" />
+  <translation from="Hostname" to="Hostname" />
+  <translation from="Port" to="Port" />
+  <translation from="Username" to="Username" />
+  <translation from="Protocol" to="Protocol" />
+  <translation from="Connection Settings" to="Connection Settings" />
+  <translation from="None" to="None" />
+
+  <translation from="Server settings" to="Server settings" />
+  <translation from="Hostname" to="Hostname" />
+  <translation from="Port" to="Port" />
+  <translation from="Server requires SSL connection" to="Server requires SSL connection" />
+  <translation from="Server password" to="Server password" />
+
+  <translation from="Chat" to="Chat" />
+  <translation from="Display settings" to="Display settings" />
+  <translation from="Outgoing Messages" to="Outgoing Messages" />
+  <translation from="Show full user hosts on channel events" to="Show full user hosts on channel events" />
+  <translation from="Strip colors from incoming messages" to="Strip colors from incoming messages" />
+  <translation from="Use UTF-8 encoding" to="Use UTF-8 encoding" />
+  <translation from="Send colors" to="Send colors" />
+  <translation from="Prepend channel message nicks with mode prefix" to="Prepend channel message nicks with mode prefix" />
+  <translation from="Show join/part/quit/kick/mode/nick events in channel and query windows" to="Show join/part/quit/kick/mode/nick events in channel and query windows" />
+  <translation from="&quot;%string%&quot; is not a command!" to="&quot;%string%&quot; is not a command!" />
+  <translation from="-&gt; Server: %command%" to="-&gt; Server: %command%" />
+  <translation from="Insufficient parameters" to="Insufficient parameters" />
+  <translation from="The %command% command is not supported." to="The %command% command is not supported." />
+  <translation from="%name% is marked as being away: %msg%" to="%name% is marked as being away: %msg%" />
+  <translation from="Skip MOTD on connect" to="Skip MOTD on connect" />
+  <translation from="Miscellaneous" to="Miscellaneous" />
+  <translation from="Manage other options for this account." to="Manage other options for this account." />
+  <translation from="Commands (one per line)" to="Commands (one per line)" />
+  <translation from="Perform Buffer" to="Perform Buffer" />
+  <translation from="Executing perform buffer..." to="Executing perform buffer..." />
+  <translation from="Away Mode" to="Away Mode" />
+  <translation from="When I go away, change nick name to %awayNickName%" to="When I go away, change nick name to %awayNickName%" />
+  <translation from="CTCP %command% reply from %name%" to="CTCP %command% reply from %name%" />
+  <translation from="CTCP %command% request from %name%" to="CTCP %command% request from %name%" />
+  <translation from="Discarded CTCP %command% request from %name%" to="Discarded CTCP %command% request from %name%" />
+  <translation from="Don't reply to incoming CTCP requests" to="Don't reply to incoming CTCP requests" />
+  <translation from="Topic on %channel% is: %topic%" to="Topic on %channel% is: %topic%" />
+  <translation from="Topic set by %nick% (%datetime%)" to="Topic set by %nick% (%datetime%)" />
+  <translation from="Query" to="Query" />
+  <translation from="Whois" to="Whois" />
+  <translation from="Options" to="Options" />
+  <translation from="Attempt to reconnect %reconnectRetries% times" to="Attempt to reconnect %reconnectRetries% times" />
+  <translation from="Wait %reconnectDelay% seconds before next attempt" to="Wait %reconnectDelay% seconds before next attempt" />
+  <translation from="Reconnect on disconnect" to="Reconnect on disconnect" />
+  <translation from="Always show console window on connection creation" to="Always show console window on connection creation" />
+  <translation from="Automatically show Chat Room Browser window once connected" to="Automatically show Chat Room Browser window once connected" />
+  <translation from="Rejoin channels on connect" to="Rejoin channels on connect" />
+  <translation from="Rejoin channel when kicked" to="Rejoin channel when kicked" />
+  <translation from="Auto-join channel on invite" to="Auto-join channel on invite" />
+  <translation from="%name% invited you to join %channel%" to="%name% invited you to join %channel%" />
+  <translation from="Settings" to="Settings" />
+  <translation from="Default quit message: %defaultQuitMessage%" to="Default quit message: %defaultQuitMessage%" />
+  <translation from="Force notices into console window" to="Force notices into console window" />
+  <translation from="seconds" to="seconds" />
+  <translation from="Give Owner" to="Give Owner" />
+  <translation from="Give Protected" to="Give Protected" />
+  <translation from="Give Op" to="Give Op" />
+  <translation from="Give Halfop" to="Give Halfop" />
+  <translation from="Give Voice" to="Give Voice" />
+  <translation from="Take Owner" to="Take Owner" />
+  <translation from="Take Protected" to="Take Protected" />
+  <translation from="Take Op" to="Take Op" />
+  <translation from="Take Halfop" to="Take Halfop" />
+  <translation from="Take Voice" to="Take Voice" />
+  <translation from="Info" to="Info" />
+  <translation from="Real Name" to="Real Name" />
+  <translation from="Channels" to="Channels" />
+  <translation from="Server" to="Server" />
+  <translation from="Sign on time" to="Sign on time" />
+  <translation from="Idle time" to="Idle time" />
+
+  <translation from="second" to="second" />
+  <translation from="seconds" to="seconds" />
+  <translation from="minute" to="minute" />
+  <translation from="minutes" to="minutes" />
+  <translation from="hour" to="hour" />
+  <translation from="hours" to="hours" />
+  <translation from="day" to="day" />
+  <translation from="days" to="days" />
+
+  <translation from="General" to="General" />
+  <translation from="Channel Modes" to="Channel Modes" />
+  <translation from="Limit to %channelLimit% users" to="Limit to %channelLimit% users" />
+  <translation from="Channel key %channelKey%" to="Channel key %channelKey%" />
+  <translation from="Only ops may change the topic" to="Only ops may change the topic" />
+  <translation from="No external messages" to="No external messages" />
+  <translation from="Invite only" to="Invite only" />
+  <translation from="Moderated" to="Moderated" />
+  <translation from="Private" to="Private" />
+  <translation from="Secret" to="Secret" />
+  <translation from="Channel Preferences" to="Channel Preferences" />
+
+  <translation from="Encryption" to="Encryption" />
+  <translation from="FiSH and mircryption compatible IRC encryption" to="FiSH and mircryption compatible IRC encryption" />
+  <translation from="Encrypt topics" to="Encrypt topics" />
+  <translation from="Encrypt ACTIONs (/me ...)" to="Encrypt ACTIONs (/me ...)" />
+  <translation from="Encrypt notices" to="Encrypt notices" />
+  <translation from="Key exchange settings" to="Key exchange settings" />
+  <translation from="Automatically initiate a key exchange on incoming queries" to="Automatically initiate a key exchange on incoming queries" />
+  <translation from="Automatically accept incoming key exchange requests" to="Automatically accept incoming key exchange requests" />
+  <translation from="Blowfish key" to="Blowfish key" />
+  <translation from="Exchange keys" to="Exchange keys" />
+  <translation from="Remove key" to="Remove key" />
+  <translation from="Received public key from %name%, sending mine..." to="Received public key from %name%, sending mine..." />
+  <translation from="Key for %name% set to *censored*" to="Key for %name% set to *censored*" />
+  <translation from="Sent my public key to %name%, waiting for reply..." to="Sent my public key to %name%, waiting for reply..." />
+  <translation from="Encryption active" to="Encryption active" />
+  <translation from="%name% seems to have removed the key, the session is now unencrypted!" to="%name% seems to have removed the key, the session is now unencrypted!" />
+  <translation from="Key for %name% has been removed." to="Key for %name% has been removed." />
+  <translation from="Received public key from %name%! Type /acceptkey to accept the request for an encrypted session." to="Received public key from %name%! Type /acceptkey to accept the request for an encrypted session." />
+  <translation from="Automatically initiate a key exchange on queries you start" to="Automatically initiate a key exchange on queries you start" />
+  <translation from="Only if no key was set previously" to="Only if no key was set previously" />
+  <translation from="Remember channel keys" to="Remember channel keys" />
+  <translation from="%name% requested a DCC CHAT session and asks you to connect to %IP% at port %port%. To accept the request, type /dccaccept" to="%name% requested a DCC CHAT session and asks you to connect to %IP% at port %port%. To accept the request, type /dccaccept" />
+  <translation from="DCC connection has been closed. The last message may not have been sent." to="DCC connection has been closed. The last message may not have been sent." />
+  <translation from="DCC connection established." to="DCC connection established." />
+  <translation from="Connecting..." to="Connecting..." />
+  <translation from="DCC Port range" to="DCC Port range" />
+  <translation from="Randomize ports (in this range)" to="Randomize ports (in this range)" />
+  <translation from="First port" to="First port" />
+  <translation from="Last port" to="Last port" />
+  <translation from="Bind sockets to IP: %dccBindLocalIP%" to="Bind sockets to IP: %dccBindLocalIP%" />
+  <translation from="External IP address" to="External IP address" />
+  <translation from="textNoExtIP" to="Sorry, your external IP is unknown, so you can't send a file or initiate a DCC CHAT. Please set your IP in the Preferences." />
+  <translation from="DCC IP settings" to="DCC IP settings" />
+  <translation from="Waiting for acknowledgement..." to="Waiting for acknowledgement..." />
+  <translation from="IRC server" to="IRC server" />
+  <translation from="The active resource for this window has changed to &quot;DCC CHAT&quot;." to="The active resource for this window has changed to &quot;DCC CHAT&quot;." />
+  <translation from="The active resource for this window has changed to &quot;IRC server&quot;." to="The active resource for this window has changed to &quot;IRC server&quot;." />
+  <translation from="*** Connecting to %IP% at port %port%..." to="*** Connecting to %IP% at port %port%..." />
+  <translation from="*** Connection established." to="*** Connection established." />
+  <translation from="*** Connection has been closed." to="*** Connection has been closed." />
+  <translation from="Receiving file..." to="Receiving file..." />
+  <translation from="*** Waiting for connection on local interface %localSocketIP% at port %port% (external IP is %IP%)..." to="*** Waiting for connection on local interface %localSocketIP% at port %port% (external IP is %IP%)..." />
+  <translation from="Sending file..." to="Sending file..." />
+  <translation from="Transfer complete." to="Transfer complete." />
+  <translation from="Transfer incomplete." to="Transfer incomplete." />
+  <translation from="*** Resuming at %position% bytes..." to="*** Resuming at %position% bytes..." />
+  <translation from="*** Requesting resume..." to="*** Requesting resume..." />
+  <translation from="Privacy" to="Privacy" />
+  <translation from="Ignore a user..." to="Ignore a user..." />
+  <translation from="Nick name or host mask:" to="Nick name or host mask:" />
+  <translation from="Cancel" to="Cancel" />
+  <translation from="Block" to="Block" />
+  <translation from="Remove" to="Remove" />
+  <translation from="Ignore list" to="Ignore list" />
+  <translation from="URL: IRC Protocol" to="URL: IRC Protocol" />
+  <translation from="Ident settings" to="Ident settings" />
+  <translation from="Enable ident server" to="Enable ident server" />
+  <translation from="Enable only while connecting" to="Enable only while connecting" />
+  <translation from="Listen at port: %identServerPort%" to="Listen at port: %identServerPort%" />
+  <translation from="User ID (&quot;ident&quot; string)" to="User ID (&quot;ident&quot; string)" />
+  <translation from="System ID" to="System ID" />
+  <translation from="The nature of these settings requires that they are applied to all IRC accounts." to="The nature of these settings requires that they are applied to all IRC accounts." />
+  <translation from="Global Settings" to="Global Settings" />
+  <translation from="Do a /whois when someone messages me" to="Do a /whois when someone messages me" />
+  <translation from="(%users% %userword%, &quot;%topic%&quot;)" to="(%users% %userword%, &quot;%topic%&quot;)" />
+  <translation from="(%users% %userword%)" to="(%users% %userword%)" />
+  <translation from="userwordSingular" to="user" />
+  <translation from="userwordPlural" to="users" />
+  <translation from="External IP updated (now '%IP%')" to="External IP updated (now '%IP%')" />
+  <translation from="WARNING: Could not update external IP address!" to="WARNING: Could not update external IP address!" />
+  <translation from="Channel Information" to="Channel Information" />
+  <translation from="Active channel" to="Active channel" />
+  <translation from="Active network/server" to="Active network/server" />
+  <translation from="Current modes" to="Current modes" />
+  <translation from="Available modes" to="Available modes" />
+  <translation from="%chan% (%chanusers% users)" to="%chan% (%chanusers% users)" />
+  <translation from="This functionality has not been implemented at this time." to="This functionality has not been implemented at this time." />
+  <translation from="Are you sure you wish to remove this account?" to="Are you sure you wish to remove this account?" />
+  <translation from="noSafeListNotice" to="This IRC server does not support the &quot;safe list&quot; feature. You will most likely get disconnected by the server's flood protection if there are many channels on the network. Use /raw LIST to continue anyway." />
+  <translation from="%nick% was invited to join %channel%" to="%nick% was invited to join %channel%" />
+  <translation from="Kick/ban" to="Kick/ban" />
+  <translation from="Kick" to="Kick" />
+  <translation from="Ban" to="Ban" />
+  <translation from="Kickban" to="Kickban" />
+  <translation from="Kick..." to="Kick..." />
+  <translation from="Kickban..." to="Kickban..." />
+  <translation from="Default kick message: %defaultKickMessage%" to="Default kick message: %defaultKickMessage%" />
+  <translation from="defaultDefaultKickMessage" to="See You - Kick sponsored by www.trillian.im" />
+  <translation from="Ban mask" to="Ban mask" />
+  <translation from="Added '%str%' to ignore list." to="Added '%str%' to ignore list." />
+  <translation from="The following entries have been removed from your ignore list: %removed%" to="The following entries have been removed from your ignore list: %removed%" />
+  <translation from="'%str%' was not found on your ignore list." to="'%str%' was not found on your ignore list." />
+  
+  <translation from="Add..." to="Add..." />
+  <translation from="Add" to="Add" />
+  <translation from="Ban list" to="Ban list" />
+  <translation from="(Updating list...)" to="(Updating list...)" />
+  <translation from="Ban exception list" to="Ban exception list" />
+  <translation from="Invite exception list" to="Invite exception list" />
+  <translation from="Open irc:// links in Trillian" to="Open irc:// links in Trillian" />
+  <translation from="Sorry, Trillian can not understand this URI." to="Sorry, Trillian can not understand this URI." />
+  <translation from="URI appears to be malformed!" to="URI appears to be malformed!" />
+  <translation from="Switching servers..." to="Switching servers..." />
+  
+  <translation from="Change this channel's mode flags" to="Change this channel's mode flags" />
+  <translation from="Set up encrypted conversations" to="Set up encrypted conversations" />
+  <translation from="Manage server-side channel access lists" to="Manage server-side channel access lists" />
+  <translation from="Set up sending and receiving messages at your discretion" to="Set up sending and receiving messages at your discretion" />
+  <translation from="Control who is allowed to contact you" to="Control who is allowed to contact you" />
+  
+  <translation from="You are now known as %newnick%" to="You are now known as %newnick%" />
+  <translation from="Trying to join %channel%..." to="Trying to join %channel%..." />
+  <translation from="Channel Topic" to="Channel Topic" />
+  <translation from="Topic" to="Topic" />
+  <translation from="Server Browser" to="Server Browser" />
+  <translation from="Please close any other open server browser windows first." to="Please close any other open server browser windows first." />
+  <translation from="Error: You can't create a DCC CHAT session to yourself, sorry." to="Error: You can't create a DCC CHAT session to yourself, sorry." />
+  <translation from="*** Socket error (%error%)" to="*** Socket error (%error%)" />
+  <translation from="-to %name%-: %msg%" to="-to %name%-: %msg%" />
+  <translation from="-to %name% (notice)-: %msg%" to="-to %name% (notice)-: %msg%" />
+
+  <translation from="Output a warning when an unencrypted message is received from a secure channel" to="Output a warning when an unencrypted message is received from a secure channel" />
+  <translation from="Warning: %sender% sent an unencrypted message!" to="Warning: %sender% sent an unencrypted message!" />
+  <translation from="Send a File..." to="Send a File..." />
+  <translation from="OK" to="OK" />
+  
+  <translation from="Reconnect" to="Reconnect" />
+  
+  <translation from="Multi line message handling" to="Multi line message handling" />
+  <translation from="Do not allow multi-line messages" to="Do not allow multi-line messages" />
+  <translation from="Combine multiple lines into one" to="Combine multiple lines into one" />
+  <translation from="Send multiple lines as multiple messages" to="Send multiple lines as multiple messages" />
+
+  <translation from="Use proxy for file transfers and DCC Chats" to="Use proxy for file transfers and DCC Chats" />
+  <translation from="Join Channel" to="Join Channel" />
+  <translation from="Channel" to="Channel" />
+
+</language>

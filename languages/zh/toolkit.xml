@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)">
+  <translation from="&amp;Transparency" to="透明度(&amp;T)"/>
+  <translation from="&amp;View" to="视图(&amp;V)"/>
+  <translation from="10%" to="10%"/>
+  <translation from="20%" to="20%"/>
+  <translation from="30%" to="30%"/>
+  <translation from="40%" to="40%"/>
+  <translation from="50%" to="50%"/>
+  <translation from="60%" to="60%"/>
+  <translation from="70%" to="70%"/>
+  <translation from="80%" to="80%"/>
+  <translation from="90%" to="90%"/>
+  <translation from="Advanced Options" to="高级选项"/>
+  <translation from="Attach" to="附加"/>
+  <translation from="Cancel" to="取消"/>
+  <translation from="Cascade Windows" to="层叠窗口"/>
+  <translation from="Chat Room Window" to="聊天室窗口"/>
+  <translation from="Click to show more items" to="点击显示更多项"/>
+  <translation from="Close" to="关闭"/>
+  <translation from="Close All But This" to="关闭其他窗口"/>
+  <translation from="Connection Window" to="连接窗口"/>
+  <translation from="Contact Window" to="联系人窗口"/>
+  <translation from="Current Position and Size" to="当前位置与大小"/>
+  <translation from="Default" to="默认"/>
+  <translation from="Default Layout" to="默认布局"/>
+  <translation from="Default Theme" to="默认主题"/>
+  <translation from="Desktop" to="桌面"/>
+  <translation from="Detach" to="分离"/>
+  <translation from="Detach All" to="全部分离"/>
+  <translation from="Detach All and Close" to="全部分离并关闭"/>
+  <translation from="Edit existing container..." to="编辑现有容器..."/>
+  <translation from="Focus" to="聚焦"/>
+  <translation from="From local to remote" to="从本地到远程"/>
+  <translation from="Hide" to="隐藏"/>
+  <translation from="Layout" to="布局"/>
+  <translation from="Loading..." to="加载中..."/>
+  <translation from="Maximize" to="最大化"/>
+  <translation from="Minimize" to="最小化"/>
+  <translation from="New Container..." to="新建容器..."/>
+  <translation from="Off" to="关闭"/>
+  <translation from="On" to="开启"/>
+  <translation from="Options" to="选项"/>
+  <translation from="Please wait a moment..." to="请稍候..."/>
+  <translation from="Purge List" to="清除列表"/>
+  <translation from="Recent Containers" to="最近使用的容器"/>
+  <translation from="Rename..." to="重命名..."/>
+  <translation from="Reset" to="重置"/>
+  <translation from="Save Settings" to="保存设置"/>
+  <translation from="Set as Default Container" to="设为默认容器"/>
+  <translation from="Set as a Tabbed Container" to="设为标签式容器"/>
+  <translation from="Theme" to="主题"/>
+  <translation from="Themes" to="主题集"/>
+  <translation from="Tile Windows" to="平铺窗口"/>
+  <translation from="Transparency" to="透明度"/>
+  <translation from="Trillian is changing skins." to="Trillian 正在更换皮肤。"/>
+  <translation from="Turn it black and white" to="切换为黑白模式"/>
+  <translation from="Turn it semi-transparent" to="切换为半透明模式"/>
+  <translation from="Visible" to="可见"/>
+  <translation from="textErrorTextRequired" to="请输入文本或关闭窗口。"/>
+  <translation from="textErrorTransparency" to="透明度功能仅支持 Windows 2000/XP 系统。"/>
+  <translation from="dialogInitialInstructions" to="将窗口调整至所需位置、大小和内部布局，然后点击下方“保存设置”或“取消”返回 Trillian 偏好设置。"/>
+  <translation from="dialogInitialWarning" to="警告：您的窗口设置为记忆之前的状态。这意味着某些窗口可能不会反映您在此处所做的更改，除非您在偏好设置中选择“重置”其之前状态。"/>
+  <translation from="titleError" to="Trillian 错误"/>
+</language>

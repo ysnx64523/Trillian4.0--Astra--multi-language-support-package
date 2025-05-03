@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="english">
+	
+<!-- Text for console and message windows -->
+	
+	<translation from="infoCreateConn" to="Creating connection &quot;%username%&quot;"/>
+	<translation from="infoConnect" to="Connecting to %medium% as &quot;%username%&quot;."/>
+	<translation from="infoReconn" to ="Reconnecting to %medium% as &quot;%username%&quot;."/>
+	<translation from="infoConnSucceed" to="You have successfully connected to %medium%."/>
+	<translation from="infoDisconnected" to="You have been disconnected."/>
+	<translation from="infoErrorAuth" to="Wrong login and password combination."/>
+	<translation from="infoErrorAuthAlert" to="Connection to %medium% has failed - invalid password.  Click here to reset it."/>
+	<translation from="infoSystrayAlertThereAreNumNewTweets" to="There are %num% new tweets."/>
+	<translation from="infoSystrayAlertThereAreNewTweets" to="There are new tweets."/>
+	<translation from="infoSystrayAlertThereIsNewTwitterTrend" to="There is a new Twitter Trend: "/>
+	<translation from="infoSystrayAlertThereAreNewTwitterTrends" to="There are new Twitter Trends"/>
+	<translation from="infoMessage" to="message"/>
+	<translation from="infoReplies" to="replies to "/>
+	<translation from="infoTweets" to="tweets: "/>
+	<translation from="infoChangeTweet" to="You are now set as"/>
+
+	<translation from="infoDirectMessageWindow" to="This window allows you to send direct messages to your friend"/>
+	<translation from="infoAccountMessageWindow" to="Messages you type into this window will be immediately set as your current Tweet"/>
+	<translation from="infoReplyToContact" to="This is a public reply to %contact% to the following tweet &quot;%tweet%&quot;"/>
+
+	<translation from="infoConnectionSettingsTitle" to="Fine tune connection with the mail server"/>
+	<translation from="infoConnectionSettingsProxyHeader" to="Proxy"/>
+	
+	<translation from="infoMsgLenExceed" to="Your previous message has not been sent.  Reason: Maximum length (%length%) exceeded.  You can recall the last message typed with Ctrl-Up or Up, depending on settings."/>
+
+<!-- Contact tooltip -->	
+	
+	<translation from="LOCATION" to="Location"/>
+	<translation from="CURRENT_TWEET" to="Current Tweet"/>
+	<translation from="Last_tweets" to="Last Tweets"/>
+	<translation from="Recent_tweets" to="Recent Tweets"/>
+	<translation from="ViewMore" to="View %num% More"/>
+	<translation from="My Web" to="My Web"/>
+	<translation from="on Twitter" to="on Twitter"/>
+	<translation from="on Twitter (Friends)" to="on Twitter (Friends)"/>
+	<translation from="on Twitter (Newsbots)" to="on Twitter (Newsbots)"/>
+	<translation from="Trending topics" to="Trending topics"/>
+	<translation from="Twitter Trends" to="Twitter Trends"/>
+
+<!-- Account creating -->
+	
+	<translation from="prefsConnectionInvitation" to="Enter your Twitter username and password below, and click connect"/>
+	<translation from="prefsConnectionAutoConnect" to="Automatically connect to this account at startup"/>
+	<translation from="prefsConnectionUsername" to="User name"/>
+	<translation from="prefsConnectionPassword" to="Password"/>
+	
+<!-- Account preferences -->
+	<translation from="prefsMiscellaneousAllReplies" to="All @Replies"/>
+	<translation from="prefsMiscellaneousFollowingReplies" to="@replies to the people I&apos;m following"/>
+	<translation from="prefsMiscellaneousNoReplies" to="No @Replies"/>
+	<translation from="prefsMiscellaneousShowMe" to="@Replies"/>
+	<translation from="prefsMiscellaneousTweets" to="Tweets"/>
+	<translation from="prefsMiscellaneousTweetsMatch" to="Set my current Tweet to match my Trillian status"/>
+	<translation from="prefsMiscellaneousTweetsUpdate" to="Update me about Tweets every %prefsMiscellaneousTweetsUpdate% minutes"/>
+	<translation from="prefsMiscellaneousUrl" to="URLs"/>
+	<translation from="prefsMiscellaneousUrlShortening" to="Automatically shorten web addresses I include using TinyURL"/>
+	<translation from="prefsMiscellaneousDoNotTweetCurrentSong" to="Do not Tweet current song status messages"/>
+	
+
+	<translation from="prefsMiscellaneousMaxTweetNumberOnContactList" to="Show %prefsMiscellaneousMaxTweetNumberOnContactList% Tweets per group on Contact List"/>
+	<translation from="prefsMiscellaneousMaxTweetNumberOnTheContactsWindow" to="Show %prefsMiscellaneousMaxTweetNumberOnTheContactsWindow% Tweets on the contact&apos;s window"/>
+	<translation from="prefsMiscellaneousMaxTweetNumberInTooltip" to="Show %prefsMiscellaneousMaxTweetNumberInTooltip% Tweets on Info Cards"/>
+	<translation from="prefsMiscellaneousMaxTweetNumberInViewMore" to="View %prefsMiscellaneousMaxTweetNumberInViewMore% More"/>
+	
+	<translation from="prefsMiscellaneousNotifyMeWhen" to="Notify me when:"/>
+	<translation from="prefsMiscellaneousNotifyMeWhenSomeonePostsNewTweet" to="Someone posts a new tweet"/>
+	<translation from="prefsMiscellaneousNotifyMeWhenNewsbotPostsNewTweet" to="A Newsbot posts a new tweet"/>
+	<translation from="prefsMiscellaneousNotifyMeWhenNewTrendEmerges" to="A new trend emerges"/>
+	
+	<translation from="prefsMiscellaneousAdvanced" to="Advanced"/>
+	<translation from="prefsMiscellaneousHideConnectionOfInactiveAccount" to="When this account is not active, hide its connection icon from the contact list"/>
+	
+	<translation from="prefsOrganizationShowTheFollowingInMyContactList" to="Show the following in my Contact List:"/>
+	<translation from="prefsOrganizationFriendsTweets" to="Friends' tweets"/>
+	<translation from="prefsOrganizationNewsbotsTweets" to="Newsbots' tweets"/>
+	<translation from="prefsOrganizationShowThemInSeparateGroups" to="Show them in separate groups "/>
+	<translation from="prefsOrganizationTwitterTrends" to="Twitter trends"/>
+	<translation from="prefsOrganizationOnlyShowOneItemPerUser" to="Only show one item per user"/>
+	<translation from="prefsOrganizationOrganization" to="Organization"/>
+	<translation from="prefsOrganizationNewsbotsList" to="Newsbot List"/>
+	<translation from="prefsOrganizationIgnoreList" to="Ignore List"/>
+	<translation from="prefsButtonVarShowLabelAdd" to="Add..."/>
+	<translation from="prefsButtonVarHideLabelCancel" to="Cancel"/>
+	<translation from="prefsButtonVarAddLabelAdd" to="Add"/>
+	<translation from="prefsButtonVarRemoveLabelRemove" to="Remove"/>
+	<translation from="prefsOrganizationListsVarItemLabelNickName" to="Nick name:"/>
+	
+<!-- menu -->
+	<translation from="menuConnectionSetMyCurrentTweet" to="Set my current Tweet"/>
+	<translation from="menuConnectionGoToMyTwitterPage" to="Twitter Home"/>
+	<translation from="menuConnectionGoToMyTwitterProfilePage" to="Twitter Profile"/>
+	<translation from="menuConnectionGoToMyTwitterFavoritesPage" to="Twitter Favorites"/>
+	<translation from="menuConnectionDisconnect" to="Disconnect"/>
+	<translation from="menuConnectionReconnect" to="Reconnect"/>
+	<translation from="menuWebSectionDirectMessage" to="Send Direct Message"/>
+	<translation from="menuWebSectionViewTweets" to="View Tweets"/>
+	<translation from="menuWebSectionReply" to="Send Public Reply..."/>
+	<translation from="menuWebSectionFavorite" to="Set Favorite"/>
+	<translation from="menuWebSectionSetMyCurrentTweet" to="Set Current Tweet..."/>
+	<translation from="menuWebSectionRefresh" to="Refresh"/>
+	<translation from="menuWebSectionSettings" to="Settings..."/>
+	<translation from="menuWebSectionIgnoreTweetsFromName" to="Ignore tweets from %contact%"/>
+	<translation from="menuWebSectionMarkAsANewsbot" to="Mark as a Newsbot"/>
+	<translation from="menuWebSectionReTweet" to="Re-Tweet"/>
+	<translation from="menuFollowLinks" to="Follow Links"/>
+	
+<!--Connection Settings-->
+	<translation from="prefsConnectionSettingsUseDefaultProxyChoice" to="Use default proxy settings"/>
+	<translation from="prefsConnectionSettingsUseManualProxyChoice" to="Manually specify proxy"/>
+
+	<translation from="prefsConnectionSettingsProxyProtocol" to="Protocol:"/>
+	<translation from="prefsConnectionSettingsProxyProtocolNone" to="None"/>
+	<translation from="prefsConnectionSettingsProxyProtocolHTTP" to="HTTP"/>
+	<translation from="prefsConnectionSettingsProxyProtocolSOCKS4" to="SOCKS4"/>
+	<translation from="prefsConnectionSettingsProxyProtocolSOCKS5" to="SOCKS5"/>
+
+	<translation from="prefsConnectionSettingsProxyHost" to="Host:"/>
+	<translation from="prefsConnectionSettingsProxyPort" to="Port:"/>
+	<translation from="prefsConnectionSettingsProxyUsername" to="Username:"/>
+	<translation from="prefsConnectionSettingsProxyPassword" to="Password:"/>
+	
+<!--Miscellaneous-->
+	<translation from="from" to="from"/>
+
+	<translation from="infoAccountRemoveDialogText" to="Are you sure you wish to remove this account?"/>
+	<translation from="infoAccountRemoveDialogCaption" to="Trillian"/>
+	
+</language>

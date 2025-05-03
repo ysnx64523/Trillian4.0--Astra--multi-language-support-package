@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)">
+  <translation from="%medium% (%num% connection)" to="%medium% (%num% 个连接)"/>
+  <translation from="%medium% (%num% connections)" to="%medium% (%num% 个连接)"/>
+  <translation from="%medium% (click here to connect)" to="%medium% (点击此处连接)"/>
+  <translation from="%medium% (No connections)" to="%medium% (无连接)"/>
+  <translation from="%num% %time_unit%" to="%num% %time_unit%"/>
+  <translation from="%service% is disconnected." to="%service% 已断开连接。"/>
+  <translation from="%service1% and %service2% are disconnected." to="%service1% 和 %service2% 已断开连接。"/>
+  <translation from="%status%, Idle for %time%" to="%status%，空闲时间：%time%"/>
+  <translation from="%width% by %height%" to="%width% × %height%"/>
+  <translation from="&amp;About" to="关于(&amp;A)"/>
+  <translation from="&amp;Help" to="帮助(&amp;H)"/>
+  <translation from="&amp;Logoff" to="注销(&amp;L)"/>
+  <translation from="&amp;Switch User" to="切换用户(&amp;S)"/>
+  <translation from="&amp;Preferences" to="首选项(&amp;P)"/>
+  <translation from="&amp;Trillian" to="Trillian(&amp;T)"/>
+  <translation from="&amp;Update Available..." to="可用更新(&amp;U)..."/>
+  <translation from="&amp;View" to="查看(&amp;V)"/>
+  <translation from="&amp;Window" to="窗口(&amp;W)"/>
+  <translation from="Activity &amp;History" to="活动历史(&amp;H)"/>
+  <translation from="Add Contact" to="添加联系人"/>
+  <translation from="Add Contact or Group..." to="添加联系人或群组..."/>
+  <translation from="Add Contact..." to="添加联系人..."/>
+  <translation from="Add Group..." to="添加群组..."/>
+  <translation from="Add Notifications..." to="添加通知..."/>
+  <translation from="Add Subcontact..." to="添加子联系人..."/>
+  <translation from="Add Widget..." to="添加小部件..."/>
+  <translation from="Add this as contact..." to="添加为联系人..."/>
+  <translation from="Add to" to="添加到"/>
+  <translation from="Add to Contact List" to="添加到联系人列表"/>
+  <translation from="Add..." to="添加..."/>
+  <translation from="Add" to="添加"/>
+  <translation from="Adding..." to="正在添加..."/>
+  <translation from="alertNoIdle" to="&lt;b&gt;%name%&lt;/b&gt; 已结束空闲状态。"/>
+  <translation from="alertReturned" to="&lt;b&gt;%name%&lt;/b&gt; 已返回。"/>
+  <translation from="alertStatus" to="&lt;b&gt;%name%&lt;/b&gt; 的状态已更改为 %status%。"/>
+  <translation from="alertStatusMessage" to="&lt;b&gt;%name%&lt;/b&gt; 当前状态为 %status%：&quot;%status_message%&quot;"/>
+  <translation from="alertStatusMessageNone" to="&lt;b&gt;%name%&lt;/b&gt; 当前状态为 %status%。"/>
+  <translation from="alertSignOff" to="&lt;b&gt;%name%&lt;/b&gt; 已离线。"/>
+  <translation from="alertSignOn" to="&lt;b&gt;%name%&lt;/b&gt; 已上线。"/>
+  <translation from="All" to="全部"/>
+  <translation from="Alphabet" to="字母顺序"/>
+  <translation from="Alphabetically" to="按字母排序"/>
+  <translation from="Always On Top" to="始终置顶"/>
+  <translation from="Awaiting Authorization" to="等待授权"/>
+  <translation from="Away" to="离开"/>
+  <translation from="Away - %awaymessage%" to="离开 - %awaymessage%"/>
+  <translation from="Away Messages" to="离开消息"/>
+  <translation from="Based on Skin" to="基于皮肤"/>
+  <translation from="Bottom" to="底部"/>
+  <translation from="By Conversation History Size" to="按会话历史大小"/>
+  <translation from="By Service" to="按服务"/>
+  <translation from="By Status" to="按状态"/>
+  <translation from="Cancel" to="取消"/>
+  <translation from="Categorize Offline Contacts" to="分类离线联系人"/>
+  <translation from="Centered" to="居中"/>
+  <translation from="Close" to="关闭"/>
+  <translation from="Connect to %account%" to="连接到 %account%"/>
+  <translation from="Connected" to="在线"/>
+  <translation from="Connected - %awaymessage%" to="在线 - %awaymessage%"/>
+  <translation from="Connection Settings" to="连接设置"/>
+  <translation from="Connection: Change" to="连接：更改"/>
+  <translation from="Contact" to="联系人"/>
+  <translation from="Contact Information" to="联系人信息"/>
+  <translation from="Contact List Layout" to="联系人列表布局"/>
+  <translation from="Contact List Options" to="联系人列表选项"/>
+  <translation from="Contact List Preferences..." to="联系人列表首选项..."/>
+  <translation from="Contact List: Add" to="联系人列表：添加"/>
+  <translation from="Contact List: Bulk Changes Start" to="联系人列表：批量修改开始"/>
+  <translation from="Contact List: Bulk Changes Stop" to="联系人列表：批量修改结束"/>
+  <translation from="Contact List: Contact Alert Window" to="联系人列表：联系人提醒窗口"/>
+  <translation from="Contact List: Contact Bulk Signoff" to="联系人列表：批量联系人离线"/>
+  <translation from="Contact List: Contact Bulk Signon" to="联系人列表：批量联系人上线"/>
+  <translation from="Contact List: Contact Bulk Status Change" to="联系人列表：批量联系人状态变更"/>
+  <translation from="Contact List: Contact Signoff" to="联系人列表：联系人离线"/>
+  <translation from="Contact List: Contact Signon" to="联系人列表：联系人上线"/>
+  <translation from="Contact List: Contact Status Change" to="联系人列表：联系人状态变更"/>
+  <translation from="Contact List: Contact wall status change" to="联系人列表：联系人状态墙变更"/>
+  <translation from="Contact List: File Change" to="联系人列表：文件变更"/>
+  <translation from="Contact List: Hide" to="联系人列表：隐藏"/>
+  <translation from="Contact List: MetaContact Bulk Status Change" to="联系人列表：批量元联系人状态变更"/>
+  <translation from="Contact List: MetaContact Signoff" to="联系人列表：元联系人离线"/>
+  <translation from="Contact List: MetaContact Signon" to="联系人列表：元联系人上线"/>
+  <translation from="Contact List: MetaContact Status Change" to="联系人列表：元联系人状态变更"/>
+  <translation from="Contact List: Remove" to="联系人列表：移除"/>
+  <translation from="Contact List: Rename" to="联系人列表：重命名"/>
+  <translation from="Contact List: Show" to="联系人列表：显示"/>
+  <translation from="Contact List: Subcontact Bulk Signoff" to="联系人列表：批量子联系人离线"/>
+  <translation from="Contact List: Subcontact Bulk Signon" to="联系人列表：批量子联系人上线"/>
+  <translation from="Contact List: Subcontact Bulk Status Change" to="联系人列表：批量子联系人状态变更"/>
+  <translation from="Contact List: Subcontact Signoff" to="联系人列表：子联系人离线"/>
+  <translation from="Contact List: Subcontact Signon" to="联系人列表：子联系人上线"/>
+  <translation from="Contact List: Subcontact Status Change" to="联系人列表：子联系人状态变更"/>
+  <translation from="Contact List: Toggle Visible" to="联系人列表：切换可见性"/>
+  <translation from="Contacts" to="联系人"/>
+  <translation from="Conversation History Size" to="会话历史大小"/>
+  <translation from="Copy to" to="复制到"/>
+  <translation from="Create Meta Contact..." to="创建元联系人..."/>
+  <translation from="Custom..." to="自定义..."/>
+  <translation from="Default" to="默认"/>
+  <translation from="Delete Notifications" to="删除通知"/>
+  <translation from="Delete Notifications..." to="删除通知..."/>
+  <translation from="Delete Section..." to="删除分区..."/>
+  <translation from="Delete from" to="从...删除"/>
+  <translation from="Delete..." to="删除..."/>
+  <translation from="Disconnect" to="断开连接"/>
+  <translation from="Disconnected" to="离线"/>
+  <translation from="Docking" to="停靠"/>
+  <translation from="E&amp;xit" to="退出(&amp;X)"/>
+  <translation from="Edit Contact Notes..." to="编辑联系人备注..."/>
+  <translation from="Edit Group Notes..." to="编辑群组备注..."/>
+  <translation from="Edit Previous Messages..." to="编辑历史消息..."/>
+  <translation from="Extra Information" to="额外信息"/>
+  <translation from="Follow Links" to="跟踪链接"/>
+  <translation from="Global Connection" to="全局连接"/>
+  <translation from="Group" to="群组"/>
+  <translation from="Group Only" to="仅群组"/>
+  <translation from="Groups" to="群组"/>
+  <translation from="Help" to="帮助"/>
+  <translation from="Hide" to="隐藏"/>
+  <translation from="Hide Empty Groups" to="隐藏空群组"/>
+  <translation from="Idle for %time%" to="空闲时间：%time%"/>
+  <translation from="ID Name" to="ID 名称"/>
+  <translation from="Invisible" to="隐身"/>
+  <translation from="Large" to="大"/>
+  <translation from="Last Seen On" to="最后出现于"/>
+  <translation from="Last seen %time% ago" to="最后出现于 %time% 前"/>
+  <translation from="Learn about Trillian Pro" to="了解 Trillian Pro"/>
+  <translation from="Left" to="左侧"/>
+  <translation from="List" to="列表"/>
+  <translation from="Manage &amp;Connections..." to="管理连接(&amp;C)..."/>
+  <translation from="Medium" to="中"/>
+  <translation from="Medium Icons" to="中等图标"/>
+  <translation from="Message" to="消息"/>
+  <translation from="Metacontact" to="元联系人"/>
+  <translation from="Metacontacts" to="元联系人"/>
+  <translation from="Minimize" to="最小化"/>
+  <translation from="Modify Notifications..." to="修改通知..."/>
+  <translation from="More Messages" to="更多消息"/>
+  <translation from="More Options" to="更多选项"/>
+  <translation from="More results on Astra..." to="Astra 上的更多结果..."/>
+  <translation from="Multiple services are disconnected." to="多个服务已断开连接。"/>
+  <translation from="My Astra Profile" to="我的 Astra 个人资料"/>
+  <translation from="My Contacts" to="我的联系人"/>
+  <translation from="New Away Message..." to="新建离开消息..."/>
+  <translation from="New Contact" to="新建联系人"/>
+  <translation from="New Group" to="新建群组"/>
+  <translation from="New Group (%num%)" to="新建群组 (%num%)"/>
+  <translation from="New message..." to="新建消息..."/>
+  <translation from="No Connections Available" to="无可用连接"/>
+  <translation from="No Entries Available" to="无可用条目"/>
+  <translation from="No Results Found" to="未找到结果"/>
+  <translation from="No services are currently connected." to="当前无服务连接。"/>
+  <translation from="No services are currently installed.  Please enable a service in the plugin preferences." to="当前未安装任何服务。请在插件首选项中启用服务。"/>
+  <translation from="None" to="无"/>
+  <translation from="Normal" to="正常"/>
+  <translation from="Note" to="备注"/>
+  <translation from="Off" to="关闭"/>
+  <translation from="Offline" to="离线"/>
+  <translation from="Offline Contacts" to="离线联系人"/>
+  <translation from="On" to="开启"/>
+  <translation from="Online" to="在线"/>
+  <translation from="Online Contacts" to="在线联系人"/>
+  <translation from="Other..." to="其他..."/>
+  <translation from="Partially Connected" to="部分在线"/>
+  <translation from="Please select a service" to="请选择服务"/>
+  <translation from="Push here for more options" to="点击此处查看更多选项"/>
+  <translation from="Remove Contact" to="移除联系人"/>
+  <translation from="Rename" to="重命名"/>
+  <translation from="Reset Default Source" to="重置默认来源"/>
+  <translation from="Results for %search%" to="“%search%”的搜索结果"/>
+  <translation from="Reverse Alphabet" to="逆字母顺序"/>
+  <translation from="Reverse Alphabetically" to="按逆字母排序"/>
+  <translation from="Right" to="右侧"/>
+  <translation from="Scroll Down" to="向下滚动"/>
+  <translation from="Scroll Left" to="向左滚动"/>
+  <translation from="Scroll Right" to="向右滚动"/>
+  <translation from="Scroll Up" to="向上滚动"/>
+  <translation from="Search" to="搜索"/>
+  <translation from="Searching for %search%" to="正在搜索“%search%”"/>
+  <translation from="Send Message to" to="发送消息至"/>
+  <translation from="Send Message..." to="发送消息..."/>
+  <translation from="Send a Message to all..." to="发送消息给所有人..."/>
+  <translation from="Service" to="服务"/>
+  <translation from="Service Not Loaded" to="服务未加载"/>
+  <translation from="Set Default Source..." to="设置默认来源..."/>
+  <translation from="Set Notifications..." to="设置通知..."/>
+  <translation from="Set Status" to="设置状态"/>
+  <translation from="Share Trillian with a Friend..." to="与好友分享 Trillian..."/>
+  <translation from="Show Avatars" to="显示头像"/>
+  <translation from="Show Group Counts" to="显示群组计数"/>
+  <translation from="Show Medium Icons (if skinned)" to="显示中等图标（如果使用皮肤）"/>
+  <translation from="Show Offline Contacts in Groups" to="在群组中显示离线联系人"/>
+  <translation from="Show Status Window" to="显示状态窗口"/>
+  <translation from="Shutdown" to="关闭程序"/>
+  <translation from="Simple" to="简洁"/>
+  <translation from="Size" to="大小"/>
+  <translation from="Small" to="小"/>
+  <translation from="Sort" to="排序"/>
+  <translation from="Status" to="状态"/>
+  <translation from="Status Unavailable" to="状态不可用"/>
+  <translation from="Stretched" to="拉伸"/>
+  <translation from="Suppress Empty Groups" to="隐藏空群组"/>
+  <translation from="Switch User" to="切换用户"/>
+  <translation from="Theme" to="主题"/>
+  <translation from="There are no connections online." to="当前无在线连接。"/>
+  <translation from="Tiled" to="平铺"/>
+  <translation from="Tiles" to="磁贴"/>
+  <translation from="Tiny" to="极小"/>
+  <translation from="Top" to="顶部"/>
+  <translation from="Turn Autohide Off" to="关闭自动隐藏"/>
+  <translation from="Turn Autohide On" to="开启自动隐藏"/>
+  <translation from="Turn Off" to="关闭"/>
+  <translation from="Turn On" to="开启"/>
+  <translation from="Unbind" to="解绑"/>
+  <translation from="Unknown" to="未知"/>
+  <translation from="Upgrade to Trillian Pro" to="升级至 Trillian Pro"/>
+  <translation from="User: Default Message Send" to="用户：默认消息发送"/>
+  <translation from="View" to="查看"/>
+  <translation from="View Contact History" to="查看联系人历史"/>
+  <translation from="View Contact Information" to="查看联系人信息"/>
+  <translation from="alert" to="提醒"/>
+  <translation from="alerts" to="提醒"/>
+  <translation from="day" to="天"/>
+  <translation from="days" to="天"/>
+  <translation from="dialogAlertAction" to="操作"/>
+  <translation from="dialogAlertAway" to="%contact% 于 %time% 结束离开状态。"/>
+  <translation from="dialogAlertContact" to="联系人"/>
+  <translation from="dialogAlertDisplayName" to="显示名称"/>
+  <translation from="dialogAlertEdit" to="编辑联系人提醒：%contact%"/>
+  <translation from="dialogAlertIdle" to="%contact% 于 %time% 结束空闲状态。"/>
+  <translation from="dialogAlertMedium" to="媒介"/>
+  <translation from="dialogAlertOffline" to="%contact% 于 %time% 离线。"/>
+  <translation from="dialogAlertOnline" to="%contact% 于 %time% 上线。"/>
+  <translation from="dialogAlertOptionsNotify" to="选择以下选项以在“%contact%”处于特定状态时通知您。"/>
+  <translation from="dialogAlertSave" to="保存"/>
+  <translation from="dialogAlertWhen" to="当"/>
+  <translation from="dialogContactListDescription" to="配置 Trillian 联系人列表的布局与行为。"/>
+  <translation from="dialogContactListName" to="联系人列表"/>
+  <translation from="dialogContactPrompt" to="联系人"/>
+  <translation from="dialogContactRename" to="重命名联系人"/>
+  <translation from="dialogFromContact" to="联系人"/>
+  <translation from="dialogFromDefault" to="默认"/>
+  <translation from="dialogFromFrom" to="来自"/>
+  <translation from="dialogGroupAdd" to="添加群组"/>
+  <translation from="dialogGroupChoose" to="选择群组（%contact%）..."/>
+  <translation from="dialogGroupInformation" to="群组信息"/>
+  <translation from="dialogGroupPrompt" to="群组"/>
+  <translation from="dialogMassSetDefault" to="选择未来发送消息的默认来源。您可随时点击“重置默认来源”禁用此功能。"/>
+  <translation from="dialogMessageServerNonContact" to="选择消息来源。此目标非联系人，无法设置默认。"/>
+  <translation from="dialogServerRequest" to="请为此操作选择一个连接。"/>
+  <translation from="dialogWizardAdd" to="联系人向导：添加联系人/群组"/>
+  <translation from="dialogWizardAddDescription" to="通过选择媒介和群组来添加好友的联系人。"/>
+  <translation from="dialogWizardAddName" to="添加联系人或群组"/>
+  <translation from="dialogWizardContactQuickAddDescription" to="在下方输入联系人信息。"/>
+  <translation from="dialogWizardContactQuickAddName" to="在 %medium% 添加联系人"/>
+  <translation from="dialogWizardImport" to="联系人向导：导入联系人"/>
+  <translation from="dialogWizardImportDescription" to="您可以从旧版即时通讯客户端导入联系人到 Trillian。"/>
+  <translation from="dialogWizardImportName" to="导入联系人"/>
+  <translation from="dialogWizardMetaContact" to="联系人向导：元联系人"/>
+  <translation from="dialogWizardMetaContactDescription" to="为同一好友创建多个联系人？使用元联系人功能将其合并。"/>
+  <translation from="dialogWizardMetaContactName" to="创建元联系人"/>
+  <translation from="dialogWizardStart" to="联系人向导：开始"/>
+  <translation from="dialogWizardStartDescription" to="您可以选择添加联系人或群组、创建元联系人，或从其他程序导入联系人。"/>
+  <translation from="dialogWizardStartDescriptionBasic" to="您可以选择添加联系人或群组，或从其他程序导入联系人。"/>
+  <translation from="dialogWizardStartName" to="添加联系人向导"/>
+  <translation from="hour" to="小时"/>
+  <translation from="hours" to="小时"/>
+  <translation from="less than a minute" to="不到一分钟"/>
+  <translation from="minute" to="分钟"/>
+  <translation from="minutes" to="分钟"/>
+  <translation from="month" to="月"/>
+  <translation from="months" to="月"/>
+  <translation from="OK" to="确定"/>
+  <translation from="Reconnect" to="重新连接"/>
+  <translation from="Reconnecting..." to="正在重新连接..."/>
+  <translation from="second" to="秒"/>
+  <translation from="seconds" to="秒"/>
+  <translation from="textErrorActionSelect" to="请选择有效操作。某些操作可能需要点击“更多选项”按钮。"/>
+  <translation from="textErrorAlertRemove" to="无法确定要删除的提醒。"/>
+  <translation from="textErrorConnectionSetAll" to="请将所有“未知”条目更改为有效连接或点击取消。"/>
+  <translation from="textErrorContactOffline" to="用户离线：此用户未关联任何连接。"/>
+  <translation from="textErrorDockingOff" to="停靠功能已关闭。如需启用，请进入首选项设置。"/>
+  <translation from="textErrorDockingTaskbarEntry" to="仅当任务栏入口关闭时允许停靠。如需关闭任务栏入口，请进入首选项设置。"/>
+  <translation from="textErrorEntryInvalid" to="未选择有效条目。"/>
+  <translation from="textErrorFileNotFound" to="无法找到文件"/>
+  <translation from="textErrorGroupContainsContact" to="此群组已包含该联系人。请选择其他群组。"/>
+  <translation from="textErrorGroupInvalid" to="群组已失效"/>
+  <translation from="textErrorGroupSelectContact" to="请选择要添加联系人的群组。"/>
+  <translation from="textErrorGroupSelectMetaContact" to="请选择要添加元联系人的群组。"/>
+  <translation from="textErrorImportMedium" to="请选择服务以继续。"/>
+  <translation from="textErrorInformationGroup" to="群组无可用信息。"/>
+  <translation from="textErrorInformationInvalid" to="抱歉，所选条目无可用信息。"/>
+  <translation from="textErrorInformationMultiple" to="请仅选择一个条目以查看信息。"/>
+  <translation from="textErrorInformationSelect" to="请选择一个条目以查看信息。"/>
+  <translation from="textErrorLogNoMemory" to="无法打开日志：内存不足。"/>
+  <translation from="textErrorLogNotFound" to="无法找到日志文件。若日志功能关闭，可在首选项-&gt;消息历史中开启。"/>
+  <translation from="textErrorLogSharing" to="无法打开日志：共享冲突。"/>
+  <translation from="textErrorLogViewerNotFound" to="未找到日志查看器。可在首选项-&gt;消息历史中指定。"/>
+  <translation from="textErrorMetaContactDupe" to="请输入唯一的元联系人名称。"/>
+  <translation from="textErrorMetaContactGroupCreate" to="不能在元联系人内创建群组。"/>
+  <translation from="textErrorMetaContactName" to="请输入元联系人名称。"/>
+  <translation from="textErrorNoOnline" to="未选择在线条目，或部分联系人所属服务不支持群发消息。"/>
+  <translation from="textErrorOfflineContactMove" to="无法移动联系人。目标群组不能是“离线联系人”。"/>
+  <translation from="textErrorOfflineMove" to="无法移动“离线联系人”群组。"/>
+  <translation from="textErrorOfflineRemove" to="不可删除离线联系人文件夹。如需隐藏，请右键点击-&gt;联系人列表选项-&gt;隐藏离线联系人。"/>
+  <translation from="textErrorRemoveContact" to="确定要移除 %num_contacts% 个%word_contact%吗？"/>
+  <translation from="textErrorRemoveContactMetaContact" to="确定要移除 %num_contacts% 个%word_contact% 和 %num_metacontacts% 个%word_metacontact%吗？"/>
+  <translation from="textErrorRemoveContactSingle" to="确定要移除 %medium% 联系人（%contact%）吗？"/>
+  <translation from="textErrorRemoveContactSingleNoMedium" to="确定要移除联系人（%contact%）吗？"/>
+  <translation from="textErrorRemoveGroup" to="确定要移除 %num_groups% 个%word_group%吗？"/>
+  <translation from="textErrorRemoveGroupContact" to="确定要移除 %num_groups% 个%word_group% 和 %num_contacts% 个%word_contact%吗？"/>
+  <translation from="textErrorRemoveGroupContactMetaContact" to="确定要移除 %num_groups% 个%word_group%、%num_contacts% 个%word_contact% 和 %num_metacontacts% 个%word_metacontact%吗？"/>
+  <translation from="textErrorRemoveGroupMetaContact" to="确定要移除 %num_groups% 个%word_group% 和 %num_metacontacts% 个%word_metacontact%吗？"/>
+  <translation from="textErrorRemoveGroupSingle" to="确定要移除空群组（%group%）吗？"/>
+  <translation from="textErrorRemoveGroupSingleContact" to="确定要移除群组（%group%）及其 %num_contacts% 个%word_contact%吗？"/>
+  <translation from="textErrorRemoveMetaContact" to="确定要移除 %num_metacontacts% 个%word_metacontact%吗？"/>
+  <translation from="textErrorRemoveMetaContactSingle" to="确定要移除空元联系人（%metacontact%）吗？"/>
+  <translation from="textErrorRemoveMetaContactSingleContact" to="确定要移除元联系人（%metacontact%）及其 %num_contacts% 个%word_contact%吗？"/>
+  <translation from="textErrorSameName" to="无法重命名，名称已存在。"/>
+  <translation from="textErrorServerSelect" to="请选择一个账户。"/>
+  <translation from="textErrorSoundSelect" to="请点击“更多选项”按钮选择提示音。"/>
+  <translation from="textErrorSubcontactMove" to="不可拖拽子联系人。"/>
+  <translation from="textErrorSubcontactRemove" to="不可移除子联系人（%subcontact%）。"/>
+  <translation from="textErrorTextRequired" to="请输入文本或关闭窗口。"/>
+  <translation from="textNoticeAlertRemove" to="确定要移除 %num_alerts% 个%word_alert%吗？"/>
+  <translation from="textNoticeContactQuickAddStop" to="是否停止添加此联系人？"/>
+  <translation from="textNoticeFileNotFound" to="无法找到文件，是否继续？"/>
+  <translation from="textNoticeMetaContactStop" to="是否停止创建此元联系人？"/>
+  <translation from="textNoticeNoteOverwrite" to="%contact% 已有备注：%note%。是否覆盖？"/>
+  <translation from="textNoticeSectionRemove" to="是否移除此分区及其所有联系人？（如需保留联系人但隐藏分区，请选择隐藏）"/>
+  <translation from="textNoticeSystray" to="Trillian 将继续运行以便接收即时消息。&#13;&#10;点击此处不再显示此提示。"/>
+  <translation from="titleError" to="Trillian 错误"/>
+  <translation from="titleNotice" to="Trillian 提示"/>
+  <translation from="titleNoticeSystray" to="Trillian 仍在运行！"/>
+  <translation from="week" to="周"/>
+  <translation from="weeks" to="周"/>
+  <translation from="year" to="年"/>
+  <translation from="years" to="年"/>
+</language>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)"> <!-- enforce UTF 8: äöü //-->
+  
+	<translation from="textPluginDescription" to="Facebook 社交网络集成。联系人提醒、新闻动态等！" />
+  <translation from="Your name" to="你的姓名" />
+  
+	<translation from="textClickAlertWhenLoggedIn" to="浏览器应已打开以提供 Facebook 登录信息。登录 Facebook 后，请点击此处！" />
+	<translation from="textSessionExpiredClickToRelogin" to="Facebook 登录会话已过期。请点击此处重新登录！" />
+	<translation from="Show Login Page Again" to="再次显示登录页面" />
+	
+	<translation from="You have successfully connected to FACEBOOK." to="你已成功连接到 Facebook。" />
+	
+	<translation from="Requesting status update permission..." to="正在请求状态更新权限..." />
+	<translation from="textNeedStatusUpdateAuthorization" to="Trillian 需要权限来更新你的 Facebook 状态。此为一次性操作。点击此处继续。" />
+	<translation from="Updating Facebook status..." to="正在更新 Facebook 状态..." />
+	<translation from="Facebook status updated successfully!" to="Facebook 状态更新成功！" />
+  
+  <translation from="Connecting" to="正在连接" />
+  <translation from="Reconnect" to="重新连接" />
+  <translation from="Close Connection" to="关闭连接" />
+  <translation from="Online" to="在线" />
+  <translation from="Offline" to="离线" />
+  
+  <translation from="Disconnected." to="已断开连接。" />
+  
+  <translation from="Error" to="错误" />
+  
+  <translation from="Infinite session detected, validating..." to="检测到无限会话，正在验证..." />
+  <translation from="Existing session detected, validating..." to="检测到现有会话，正在验证..." />
+  <translation from="Requesting authentication token from Facebook..." to="正在从 Facebook 请求验证令牌..." />
+  <translation from="Received authentication token." to="已接收验证令牌。" />
+  <translation from="textClickHereLink" to="点击此处" />
+  <translation from="textLaunchingLoginPage" to="正在打开登录页面。如果网页未显示，可%clickherelink%重新尝试。注意：若页面已打开，此链接将失效，请右键菜单重试。" />
+  <translation from="textAuthAborted" to="Facebook 验证未完成。请先完成验证以继续使用插件。" />
+  <translation from="Requesting session key..." to="正在请求会话密钥..." />
+  
+  <translation from="You have %count% unread messages" to="你有 %count% 条未读消息" />
+  <translation from="You have an unread message" to="你有一条未读消息" />
+  <translation from="You have been poked!" to="有人戳了你！" />
+  <translation from="You have %count% new pokes." to="你有 %count% 条新戳一戳。" />
+  <translation from="You have one new poke." to="你有一条新戳一戳。" />
+  <translation from="You have new shares!" to="你有新分享！" />
+  <translation from="You have %count% new shares" to="你有 %count% 条新分享" />
+  <translation from="You have one new share" to="你有一条新分享" />
+  
+  <translation from="%owner% added new pictures to album %album%" to="%owner% 在相册 %album% 中添加了新照片" />
+  <translation from="You have been tagged in a photo!" to="你被标记在照片中！" />
+  
+  <translation from="textNewFriendRequest" to="%name% 向你发送了好友请求！" />
+  <translation from="textNewFriendRequests" to="你有新好友请求（来自 %name% 等 %othercount% 人）！" />
+  <translation from="textNewFriendRequestsSimple" to="你有 %count% 条新好友请求。" />
+  
+  <translation from="%name% and %othercount% other(s) want to add you as a friend." to="%name% 等 %othercount% 人想添加你为好友。" />
+  <translation from="%name% wants to add you as a friend." to="%name% 想添加你为好友。" />
+  
+  <translation from="textNewGroupInvite" to="你被邀请加入群组 %name%" />
+  <translation from="textNewGroupInvites" to="你被邀请加入 %name% 等 %othercount% 个群组" />
+  <translation from="textNewGroupInvitesSimple" to="你被邀请加入 %count% 个群组" />
+  <translation from="textNewGroupInviteNewSingle" to="你被邀请加入一个群组" />
+  
+  <translation from="textNewEventInvite" to="你被邀请参加活动 %name%" />
+  <translation from="textNewEventInvites" to="你被邀请参加 %name% 等 %othercount% 个活动" />
+  <translation from="textNewEventInvitesSimple" to="你被邀请参加 %count% 个活动" />
+  <translation from="textNewEventInviteNewSingle" to="你被邀请参加一个活动" />
+  
+  <translation from="&quot;%name%&quot; %status%" to="“%name%” %status%" />
+  <translation from="%name% %status%" to="%name% %status%" />
+  <translation from="%name% has updated their profile." to="%name% 更新了个人资料。" />
+  <translation from="%name% has updated his profile." to="%name% 更新了他的个人资料。" />
+  <translation from="%name% has updated her profile." to="%name% 更新了她的个人资料。" />
+  <translation from="&quot;%name%&quot; has updated their profile!" to="“%name%” 更新了他们的个人资料！" />
+  <translation from="&quot;%name%&quot; has updated his profile!" to="“%name%” 更新了他的个人资料！" />
+  <translation from="&quot;%name%&quot; has updated her profile!" to="“%name%” 更新了她的个人资料！" />
+  <translation from="%name%'s wall has been written on!" to="%name% 的留言墙有新内容！" />
+  <translation from="%name%'s wall has been written on." to="%name% 的留言墙已更新。" />
+  <translation from="Someone wrote on your wall!" to="有人在你留言墙上留言！" />
+  <translation from="Someone wrote on your wall." to="有人在你留言墙上留言。" />
+  <translation from="%name% has a new note!" to="%name% 有新日志！" />
+  <translation from="%name% wrote a new note." to="%name% 写了一篇新日志。" />
+  
+  <translation from="notificationBirthdayIn3Days" to="%name% 的生日将在 %weekday%！" />
+  <translation from="notificationBirthdayTomorrow" to="别忘了，明天是 %name% 的生日！" />
+  <translation from="notificationBirthdayToday" to="今天是 %name% 的生日！" />
+  <translation from="notificationBirthdayTodayInclAge" to="生日到啦：%name% 今天满 %age% 岁！" />
+  
+  <translation from="%firstname% turns %age% years old today" to="%firstname% 今天满 %age% 岁" />
+  <translation from="%firstname% turns %age% years old tomorrow" to="%firstname% 明天满 %age% 岁" />
+  <translation from="%firstname% turns %age% years old in three days" to="%firstname% 将在三天后满 %age% 岁" />
+  
+  <translation from="%name%'s birthday is today." to="今天是 %name% 的生日。" />
+  <translation from="%name%'s birthday is tomorrow." to="明天是 %name% 的生日。" />
+  <translation from="%name%'s birthday is in three days." to="%name% 的生日在三天后。" />
+  <translation from="%name% turns %age% years old today." to="%name% 今天满 %age% 岁。" />
+  
+  <translation from="It's %firstname%'s birthday today" to="今天是 %firstname% 的生日" />
+  <translation from="It's %firstname%'s birthday tomorrow" to="明天是 %firstname% 的生日" />
+  <translation from="It's %firstname%'s birthday in three days" to="%firstname% 的生日在三天后" />
+  
+  <translation from="%name% created a new album - %albumname%" to="%name% 创建了新相册《%albumname%》" />
+  <translation from="%name% added new photos to album - %albumname%" to="%name% 在相册《%albumname%》中添加了新照片" />
+  
+  <translation from="Name" to="姓名" />
+  <translation from="Age" to="年龄" />
+  <translation from="textAge" to="%age% 岁" />
+  <translation from="%firstname%'s birthday" to="%firstname% 的生日" />
+  <translation from="in %daysleft% days" to="%daysleft% 天后" />
+  <translation from="tomorrow" to="明天" />
+  <translation from="today" to="今天" />
+  <translation from="textBirthday" to="%month%月%day%日 %year%年（%daysleftword%）" />
+  <translation from="textBirthdayNoYear" to="%month%月%day%日（%daysleftword%）" />
+  <translation from="Status Message" to="状态消息" />
+  <translation from="%firstname%'s time zone" to="%firstname% 的时区" />
+  <translation from="GMT%offset%" to="GMT%offset%" />
+  <translation from="hourWordSingular" to="小时" />
+  <translation from="hourWord" to="小时" />
+  <translation from="textAdvancedTZInfoAhead" to="GMT%offset%（比你快 %localhours% %hourWord%）" />
+  <translation from="textAdvancedTZInfoBefore" to="GMT%offset%（比你慢 %localhours% %hourWord%）" />
+  <translation from="Profile updated" to="个人资料已更新" />
+  <translation from="textLastProfileUpdate" to="%days% 天前" />
+  <translation from="About Me" to="关于我" />
+  <translation from="Current Location" to="当前位置" />
+  <translation from="View Profile..." to="查看个人资料..." />
+  <translation from="View Wall..." to="查看留言墙..." />
+  <translation from="Poke %firstname%..." to="戳一戳 %firstname%..." />
+  <translation from="Send a Mail Message..." to="发送私信..." />
+  <translation from="View Friends..." to="查看好友..." />
+  <translation from="View Photos of %firstname%..." to="查看 %firstname% 的照片..." />
+  <translation from="View Photos by %firstname%..." to="查看 %firstname% 上传的照片..." />
+  <translation from="Event time" to="活动时间" />
+  <translation from="Updated" to="更新时间" />
+  <translation from="Set at" to="设置于" />
+  <translation from="Tagged at" to="标记于" />
+  
+  <translation from="Yesterday" to="昨天" />
+  <translation from="Today" to="今天" />
+  <translation from="%mins% minutes ago" to="%mins% 分钟前" />
+  <translation from="textTime" to="%I:%M %p" />
+  <translation from="textDate" to="%B %d" />
+  
+  <translation from="You were tagged in a photo in %albumname%." to="你在相册《%albumname%》的照片中被标记。" />
+  <translation from="You were tagged in a photo." to="你在一张照片中被标记。" />
+  <translation from="Album" to="相册" />
+  <translation from="Album Update" to="相册更新" />
+  <translation from="Photo" to="照片" />
+  <translation from="Owner" to="所有者" />
+  <translation from="Tagged in a Photo" to="照片标记" />
+  <translation from="Friend Request" to="好友请求" />
+  <translation from="Friend Requests" to="好友请求" />
+  <translation from="Album description" to="相册描述" />
+  <translation from="Photos" to="照片" />
+  <translation from="View Photo..." to="查看照片..." />
+  <translation from="View Album..." to="查看相册..." />
+  <translation from="Group Page..." to="群组页面..." />
+  <translation from="Event Page..." to="活动页面..." />
+  <translation from="View Shares..." to="查看分享..." />
+  <translation from="View Pokes..." to="查看戳一戳..." />
+  <translation from="View Invites..." to="查看邀请..." />
+  <translation from="View Requests..." to="查看请求..." />
+  
+  <translation from="Group Invite" to="群组邀请" />
+  <translation from="Group Invites" to="群组邀请" />
+  <translation from="Group" to="群组" />
+  
+  <translation from="Event Invite" to="活动邀请" />
+  <translation from="Event Invites" to="活动邀请" />
+  <translation from="Event" to="活动" />
+  
+  <translation from="Facebook Home" to="Facebook 主页" />
+  <translation from="Profile" to="个人资料" />
+  <translation from="Friends" to="好友" />
+  <translation from="Photos" to="照片" />
+  <translation from="Inbox" to="收件箱" />
+  
+  <translation from="News Feed" to="新闻动态" />
+  <translation from="Configure how the news feed will appear in the Contact List." to="配置新闻动态在联系人列表中的显示方式。" />
+  <translation from="Feed Items" to="动态条目" />
+  
+  <translation from="Number of unread pokes" to="未读戳一戳数量" />
+  <translation from="Number of unread shares" to="未读分享数量" />
+  
+  <translation from="Status message updates" to="状态消息更新" />
+  <translation from="Profile updates" to="个人资料更新" />
+  
+  <translation from="New group invites" to="新群组邀请" />
+  <translation from="New event invites" to="新活动邀请" />
+  <translation from="New friend requests" to="新好友请求" />
+  
+  <translation from="New posts on my wall" to="我的留言墙新内容" />
+  <translation from="New posts on friends' walls" to="好友留言墙新内容" />
+  <translation from="New notes created by friends" to="好友发布的新日志" />
+  
+  <translation from="New albums created by friends" to="好友创建的新相册" />
+  <translation from="Albums updated by friends" to="好友更新的相册" />
+  <translation from="I was tagged in a photo" to="我在照片中被标记" />
+  <translation from="Three days till a friend's birthday" to="好友生日三天倒计时" />
+  
+  <translation from="News Feed Behavior" to="新闻动态行为" />
+  <translation from="Show %maxFeedItems% feed items at maximum" to="最多显示 %maxFeedItems% 条动态" />
+  <translation from="Do not show items older than %maxFeedItemAge% days" to="不显示超过 %maxFeedItemAge% 天的内容" />
+  <translation from="Show feed group at the top of the &quot;My Web&quot; section (at the bottom otherwise)" to="在“我的网络”顶部显示动态分组（默认在底部）" />
+  
+  <translation from="Notifications" to="通知" />
+  <translation from="Pick which events you want to receive a notification for." to="选择需要接收通知的事件。" />
+  <translation from="Notify me when" to="当以下事件发生时通知我" />
+  
+  <translation from="New mail arrives in Inbox" to="收件箱收到新邮件" />
+  <translation from="Someone pokes me" to="有人戳我" />
+  <translation from="Someone shares me an item" to="有人与我分享内容" />
+  <translation from="Someone sends me a friend request" to="有人发送好友请求" />
+  <translation from="A group invitation is received" to="收到群组邀请" />
+  <translation from="An event invitation is received" to="收到活动邀请" />
+  <translation from="A friend adds a note" to="好友添加日志" />
+  <translation from="Someone posts on a friend's wall" to="有人在好友留言墙发帖" />
+  <translation from="Someone posts on my wall" to="有人在我的留言墙发帖" />
+  <translation from="A friend's birthday is three days away" to="好友生日还有三天" />
+  <translation from="Tomorrow is a friend's birthday" to="明天是好友生日" />
+  <translation from="Today is a friend's birthday" to="今天是好友生日" />
+  <translation from="A friend updates his or her status message" to="好友更新状态消息" />
+  <translation from="A friend updates his or her profile" to="好友更新个人资料" />
+  <translation from="You are tagged in a photo" to="你在照片中被标记" />
+  <translation from="A friend uploads new photos" to="好友上传新照片" />
+  
+  <translation from="Miscellaneous" to="其他设置" />
+  <translation from="Manage other options for this account." to="管理此账号的其他选项。" />
+  
+  <translation from="Status Message Update" to="状态消息更新" />
+  <translation from="Use Trillian's status message in Facebook" to="在 Facebook 中使用 Trillian 的状态消息" />
+  <translation from="Unless Trillian is in Away Mode" to="除非 Trillian 处于离开模式" />
+  <translation from="Prefix status message with %statusMsgPrefix%" to="在状态消息前添加前缀 %statusMsgPrefix%" />
+  <translation from="is" to="是" />
+  <translation from="Other Settings" to="其他设置" />
+  <translation from="Show my inbox in the contact list" to="在联系人列表中显示收件箱" />
+  <translation from="Only when there actually is new mail" to="仅当有新邮件时显示" />
+  <translation from="Download and display profile pictures" to="下载并显示个人资料图片" />
+  <translation from="Some of these settings will only take effect the next time you connect to this account." to="部分设置需重新连接账号后生效。" />
+  <translation from="Fine tune server and proxy settings for this connection." to="调整此连接的服务器和代理设置。" />
+  <translation from="Proxy" to="代理" />
+  <translation from="Server" to="服务器" />
+  <translation from="Use SSL/TLS secured connections whenever possible" to="尽可能使用 SSL/TLS 安全连接" />
+  <translation from="Use the default proxy settings" to="使用默认代理设置" />
+  <translation from="Manually specify proxy" to="手动指定代理" />
+  <translation from="Hostname" to="主机名" />
+  <translation from="Port" to="端口" />
+  <translation from="Username" to="用户名" />
+  <translation from="Protocol" to="协议" />
+  <translation from="Connection Settings" to="连接设置" />
+  <translation from="None" to="无" />
+  <translation from="Download and display pictures for photo updates" to="下载并显示照片更新中的图片" />
+  
+  <translation from="Are you certain you want to remove this account?" to="确定要删除此账号吗？" />
+  
+  <translation from="Preferences" to="偏好设置" />
+  <translation from="My Web" to="我的网络" />
+  <translation from="%name% on Facebook" to="%name% 的 Facebook" />
+  <translation from="Unhighlight" to="取消高亮" />
+  <translation from="%name% on Facebook (%newitems%)" to="%name% 的 Facebook（%newitems%）" />
+  
+  <translation from="Status" to="状态" />
+  <translation from="Status Update" to="状态更新" />
+  <translation from="Profile Update" to="个人资料更新" />
+  <translation from="%firstname% added a Note" to="%firstname% 添加了日志" />
+  <translation from="New Wall Post" to="新留言墙帖子" />
+  <translation from="Show recent feed items in the feed group's tooltip" to="在动态分组的提示中显示近期内容" />
+  <translation from="Recent Events" to="近期事件" />
+  <translation from="View %num% More" to="查看更多（%num% 条）" />
+  
+  <translation from="News Feed on Facebook" to="Facebook 新闻动态" />
+  <translation from="Facebook Login" to="Facebook 登录" />
+  <translation from="Facebook Authorization" to="Facebook 授权" />
+  
+  <translation from="Notes" to="日志" />
+  <translation from="Wall Posts" to="留言墙帖子" />
+  
+  <translation from="textNoResponseFromServer" to="Facebook 服务器未返回有效响应。可能是网络错误或平台临时问题，请稍后重试。" />
+  <translation from="Use default browser to authorize Facebook application instead of built-in Mini Browser" to="使用默认浏览器而非内置浏览器进行 Facebook 应用授权" />
+  <translation from="Clear Facebook status when I clear my status message in Trillian" to="在 Trillian 中清除状态时同步清除 Facebook 状态" />
+  
+  <!-- chat stuff start //-->
+  <translation from="Facebook Chat" to="Facebook 聊天" />
+  <translation from="Experimental Chat Support" to="实验性聊天支持" />
+  <translation from="Email address" to="电子邮箱" />
+  <translation from="The last message has not been delivered because %username% is no longer online." to="由于 %username% 已离线，最后一条消息未送达。" />
+  <translation from="Error: Please use the same Facebook account for chat and notifications log in." to="错误：聊天和通知功能需使用同一 Facebook 账号登录。" />
+  <translation from="Facebook Chat Error: %code% (%description%)" to="Facebook 聊天错误：%code%（%description%）" />
+  <translation from="Chat" to="聊天" />
+  <translation from="Disconnected from Facebook Chat." to="已断开 Facebook 聊天连接。" />
+  <translation from="Logging into Facebook Chat..." to="正在登录 Facebook 聊天..." />
+  <translation from="You have successfully connected to Facebook Chat." to="你已成功连接到 Facebook 聊天。" />
+  <translation from="textChatInfoNoLogIn" to="Facebook 聊天：登录失败！若账号无误，可能是 Facebook 修改了协议导致功能暂时失效。" />
+  <translation from="Connect to Facebook Chat" to="连接至 Facebook 聊天" />
+  <translation from="&quot;%username%&quot; signed off at %time%." to="“%username%” 于 %time% 离线。"/>
+	<translation from="&quot;%username%&quot; signed on at %time%." to="“%username%” 于 %time% 上线。"/>
+	<translation from="Facebook Chat has encountered an error and cannot continue." to="Facebook 聊天遇到错误，无法继续。" />
+  <!-- chat stuff end //-->
+  
+</language>

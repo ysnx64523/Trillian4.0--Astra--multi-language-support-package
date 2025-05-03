@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)">
+
+<!-- Text for console and message windows -->
+	
+	<translation from="infoCreateConn" to="正在创建连接“%username%”"/>
+	<translation from="infoConnect" to="正在以“%username%”身份连接至 %medium%。"/>
+	<translation from="infoReconn" to ="正在以“%username%”身份重新连接至 %medium%。"/>
+	<translation from="infoConnSucceed" to="您已成功连接至 %medium%。"/>
+	<translation from="infoDisconnected" to="您已断开连接。"/>
+	<translation from="infoErrorAuth" to="用户名或密码错误。"/>
+	<translation from="infoErrorAuthAlert" to="连接 %medium% 失败 - 密码无效。点击此处重置密码。"/>
+	<translation from="infoSystrayAlertThereAreNumNewTweets" to="有 %num% 条新推文。"/>
+	<translation from="infoSystrayAlertThereAreNewTweets" to="有新的推文。"/>
+	<translation from="infoSystrayAlertThereIsNewTwitterTrend" to="有新的 Twitter 趋势："/>
+	<translation from="infoSystrayAlertThereAreNewTwitterTrends" to="有新的 Twitter 趋势"/>
+	<translation from="infoMessage" to="消息"/>
+	<translation from="infoReplies" to="回复至 "/>
+	<translation from="infoTweets" to="推文："/>
+	<translation from="infoChangeTweet" to="您当前的推文已设置为"/>
+
+	<translation from="infoDirectMessageWindow" to="此窗口允许您向好友发送私信"/>
+	<translation from="infoAccountMessageWindow" to="您在此窗口输入的内容将立即设置为当前推文"/>
+	<translation from="infoReplyToContact" to="这是对 %contact% 的公开回复，原推文为“%tweet%”"/>
+
+	<translation from="infoConnectionSettingsTitle" to="调整与邮件服务器的连接设置"/>
+	<translation from="infoConnectionSettingsProxyHeader" to="代理"/>
+
+	<translation from="infoMsgLenExceed" to="您的前一条消息未发送。原因：超出最大长度限制（%length%）。您可通过 Ctrl+↑ 或 ↑ 键（取决于设置）找回上一条输入内容。"/>
+
+<!-- Contact tooltip -->
+	
+	<translation from="LOCATION" to="位置"/>
+	<translation from="CURRENT_TWEET" to="当前推文"/>
+	<translation from="Last_tweets" to="历史推文"/>
+	<translation from="Recent_tweets" to="最新推文"/>
+	<translation from="ViewMore" to="查看更多（%num% 条）"/>
+	<translation from="My Web" to="我的主页"/>
+	<translation from="on Twitter" to="Twitter 主页"/>
+	<translation from="on Twitter (Friends)" to="Twitter（好友列表）"/>
+	<translation from="on Twitter (Newsbots)" to="Twitter（新闻机器人）"/>
+	<translation from="Trending topics" to="热门话题"/>
+	<translation from="Twitter Trends" to="Twitter 趋势"/>
+
+<!-- Account creating -->
+	
+	<translation from="prefsConnectionInvitation" to="输入您的 Twitter 用户名和密码后点击连接"/>
+	<translation from="prefsConnectionAutoConnect" to="启动时自动连接此账户"/>
+	<translation from="prefsConnectionUsername" to="用户名"/>
+	<translation from="prefsConnectionPassword" to="密码"/>
+	
+<!-- Account preferences -->
+	<translation from="prefsMiscellaneousAllReplies" to="所有 @回复"/>
+	<translation from="prefsMiscellaneousFollowingReplies" to="仅关注用户的 @回复"/>
+	<translation from="prefsMiscellaneousNoReplies" to="不接收 @回复"/>
+	<translation from="prefsMiscellaneousShowMe" to="@回复"/>
+	<translation from="prefsMiscellaneousTweets" to="推文"/>
+	<translation from="prefsMiscellaneousTweetsMatch" to="使我的当前推文与 Trillian 状态同步"/>
+	<translation from="prefsMiscellaneousTweetsUpdate" to="每隔 %prefsMiscellaneousTweetsUpdate% 分钟更新推文"/>
+	<translation from="prefsMiscellaneousUrl" to="网址"/>
+	<translation from="prefsMiscellaneousUrlShortening" to="自动通过 TinyURL 缩短我输入的网址"/>
+	<translation from="prefsMiscellaneousDoNotTweetCurrentSong" to="不推送当前播放歌曲状态"/>
+	
+
+	<translation from="prefsMiscellaneousMaxTweetNumberOnContactList" to="在联系人列表中每组显示 %prefsMiscellaneousMaxTweetNumberOnContactList% 条推文"/>
+	<translation from="prefsMiscellaneousMaxTweetNumberOnTheContactsWindow" to="在联系人窗口中显示 %prefsMiscellaneousMaxTweetNumberOnTheContactsWindow% 条推文"/>
+	<translation from="prefsMiscellaneousMaxTweetNumberInTooltip" to="在信息卡片中显示 %prefsMiscellaneousMaxTweetNumberInTooltip% 条推文"/>
+	<translation from="prefsMiscellaneousMaxTweetNumberInViewMore" to="查看更多（%prefsMiscellaneousMaxTweetNumberInViewMore% 条）"/>
+	
+	<translation from="prefsMiscellaneousNotifyMeWhen" to="在以下情况通知我："/>
+	<translation from="prefsMiscellaneousNotifyMeWhenSomeonePostsNewTweet" to="有人发布新推文"/>
+	<translation from="prefsMiscellaneousNotifyMeWhenNewsbotPostsNewTweet" to="新闻机器人发布新推文"/>
+	<translation from="prefsMiscellaneousNotifyMeWhenNewTrendEmerges" to="出现新趋势"/>
+	
+	<translation from="prefsMiscellaneousAdvanced" to="高级"/>
+	<translation from="prefsMiscellaneousHideConnectionOfInactiveAccount" to="当此账户未激活时，隐藏其在联系人列表中的连接图标"/>
+	
+	<translation from="prefsOrganizationShowTheFollowingInMyContactList" to="在联系人列表中显示以下内容："/>
+	<translation from="prefsOrganizationFriendsTweets" to="好友的推文"/>
+	<translation from="prefsOrganizationNewsbotsTweets" to="新闻机器人的推文"/>
+	<translation from="prefsOrganizationShowThemInSeparateGroups" to="在独立分组中显示"/>
+	<translation from="prefsOrganizationTwitterTrends" to="Twitter 趋势"/>
+	<translation from="prefsOrganizationOnlyShowOneItemPerUser" to="每个用户仅显示一条内容"/>
+	<translation from="prefsOrganizationOrganization" to="组织"/>
+	<translation from="prefsOrganizationNewsbotsList" to="新闻机器人列表"/>
+	<translation from="prefsOrganizationIgnoreList" to="忽略列表"/>
+	<translation from="prefsButtonVarShowLabelAdd" to="添加..."/>
+	<translation from="prefsButtonVarHideLabelCancel" to="取消"/>
+	<translation from="prefsButtonVarAddLabelAdd" to="添加"/>
+	<translation from="prefsButtonVarRemoveLabelRemove" to="移除"/>
+	<translation from="prefsOrganizationListsVarItemLabelNickName" to="昵称："/>
+	
+<!-- menu -->
+	<translation from="menuConnectionSetMyCurrentTweet" to="设置我的当前推文"/>
+	<translation from="menuConnectionGoToMyTwitterPage" to="Twitter 主页"/>
+	<translation from="menuConnectionGoToMyTwitterProfilePage" to="Twitter 个人资料"/>
+	<translation from="menuConnectionGoToMyTwitterFavoritesPage" to="Twitter 收藏"/>
+	<translation from="menuConnectionDisconnect" to="断开连接"/>
+	<translation from="menuConnectionReconnect" to="重新连接"/>
+	<translation from="menuWebSectionDirectMessage" to="发送私信"/>
+	<translation from="menuWebSectionViewTweets" to="查看推文"/>
+	<translation from="menuWebSectionReply" to="发送公开回复..."/>
+	<translation from="menuWebSectionFavorite" to="设为收藏"/>
+	<translation from="menuWebSectionSetMyCurrentTweet" to="设置当前推文..."/>
+	<translation from="menuWebSectionRefresh" to="刷新"/>
+	<translation from="menuWebSectionSettings" to="设置..."/>
+	<translation from="menuWebSectionIgnoreTweetsFromName" to="忽略来自 %contact% 的推文"/>
+	<translation from="menuWebSectionMarkAsANewsbot" to="标记为新闻机器人"/>
+	<translation from="menuWebSectionReTweet" to="转推"/>
+	<translation from="menuFollowLinks" to="关注链接"/>
+	
+<!-- Connection Settings -->
+	<translation from="prefsConnectionSettingsUseDefaultProxyChoice" to="使用默认代理设置"/>
+	<translation from="prefsConnectionSettingsUseManualProxyChoice" to="手动指定代理"/>
+
+	<translation from="prefsConnectionSettingsProxyProtocol" to="协议："/>
+	<translation from="prefsConnectionSettingsProxyProtocolNone" to="无"/>
+	<translation from="prefsConnectionSettingsProxyProtocolHTTP" to="HTTP"/>
+	<translation from="prefsConnectionSettingsProxyProtocolSOCKS4" to="SOCKS4"/>
+	<translation from="prefsConnectionSettingsProxyProtocolSOCKS5" to="SOCKS5"/>
+
+	<translation from="prefsConnectionSettingsProxyHost" to="主机："/>
+	<translation from="prefsConnectionSettingsProxyPort" to="端口："/>
+	<translation from="prefsConnectionSettingsProxyUsername" to="用户名："/>
+	<translation from="prefsConnectionSettingsProxyPassword" to="密码："/>
+	
+<!-- Miscellaneous -->
+	<translation from="from" to="来自"/>
+
+	<translation from="infoAccountRemoveDialogText" to="确定要移除此账户吗？"/>
+	<translation from="infoAccountRemoveDialogCaption" to="Trillian"/>
+	
+</language>

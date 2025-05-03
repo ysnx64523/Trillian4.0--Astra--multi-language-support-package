@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language type="Chinese(Simplified)">
+	<translation from="infomDNSError" to="从 DNS 引擎接收到错误代码 %errcode%；无法继续连接。"/>
+	<translation from="infoErrorUserConn" to="尝试与用户 %username% 建立聊天连接时发生错误。"/>
+	<translation from="systrayBonjour" to="连接 Bonjour 失败：当前系统中未找到 Bonjour 服务。点击此处下载安装。"/>
+	<translation from="Communicate with no-hassle, serverless, always-on messaging to other users inside your local area network." to="通过无配置、无服务器、持续在线的消息服务，与局域网内的其他用户轻松通信。"/>
+	<translation from="Enter your desired Bonjour username and click connect." to="输入您希望的 Bonjour 用户名并点击连接。"/>
+</language>

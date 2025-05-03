@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)">
+	<translation from="/me is listening to &quot;%album%&quot; (headphones)&apos;&apos;8" to="/me 正在聆听 &quot;%album%&quot;（耳机）&apos;&apos;8"/>
+	<translation from="/me is listening to &quot;%artist%&quot; (headphones)&apos;&apos;8" to="/me 正在聆听 &quot;%artist%&quot;（耳机）&apos;&apos;8"/>
+	<translation from="/me is listening to &quot;%song%&quot; (headphones)&apos;&apos;8" to="/me 正在聆听 &quot;%song%&quot;（耳机）&apos;&apos;8"/>
+	<translation from="/me is listening to &quot;%song%&quot; by &quot;%artist%&quot; (headphones)&apos;&apos;8" to="/me 正在聆听 &quot;%song%&quot;（作者：&quot;%artist%&quot;，耳机）&apos;&apos;8"/>
+	<translation from="Automatically Saved Messages" to="自动保存的消息"/>
+	<translation from="Away since %time%." to="离开状态始于 %time%。"/>
+	<translation from="Clear" to="清空"/>
+	<translation from="Click for pending events" to="点击查看待处理事件"/>
+	<translation from="Current Song" to="当前歌曲"/>
+	<translation from="Default Group" to="默认分组"/>
+	<translation from="Events: Away state" to="事件：离开状态"/>
+	<translation from="Events: Back state" to="事件：返回状态"/>
+	<translation from="Events: Idle back" to="事件：空闲返回"/>
+	<translation from="Events: Invisible state" to="事件：隐身状态"/>
+	<translation from="Events: Next Event" to="事件：下一个事件"/>
+	<translation from="Events: Screensaver End" to="事件：屏保结束"/>
+	<translation from="Events: Screensaver Start" to="事件：屏保启动"/>
+	<translation from="Events: Song Change" to="事件：歌曲切换"/>
+	<translation from="Events Pending; %event%" to="待处理事件：%event%"/>
+	<translation from="Idle since %time%." to="空闲状态始于 %time%。"/>
+	<translation from="Multiple Events Pending; First: %event%" to="多个待处理事件；首个：%event%"/>
+	<translation from="No Contacts Found" to="未找到联系人"/>
+	<translation from="No Pending Events" to="无待处理事件"/>
+	<translation from="Random Message" to="随机消息"/>
+	<translation from="Saved Messages..." to="已保存的消息..."/>
+	<translation from="Set Globally Away" to="全局设为离开"/>
+	<translation from="Set Globally Back" to="全局设为返回"/>
+	<translation from="Set Globally Idle" to="全局设为空闲"/>
+	<translation from="Set all Away" to="全部设为离开"/>
+	<translation from="Set all Back" to="全部设为返回"/>
+	<translation from="Set all Idle" to="全部设为空闲"/>
+	<translation from="Set all Invisible" to="全部设为隐身"/>
+	<translation from="dialogActionsAlertWindow" to="警示窗口"/>
+	<translation from="dialogActionsExecuteProgram" to="执行程序"/>
+	<translation from="dialogActionsProgramAction" to="程序操作"/>
+	<translation from="dialogActionsSendMessage" to="发送消息"/>
+	<translation from="dialogActionsSetStatus" to="设置状态"/>
+	<translation from="dialogActionsSound" to="声音"/>
+	<translation from="dialogActionsSystrayAlert" to="系统托盘提醒"/>
+	<translation from="dialogAdvanced" to="高级"/>
+	<translation from="dialogAdvancedAction" to="操作"/>
+	<translation from="dialogAdvancedEnabled" to="启用"/>
+	<translation from="dialogAdvancedType" to="类型"/>
+	<translation from="dialogAwayAdd" to="添加离开消息"/>
+	<translation from="dialogAwayMedium" to="媒介"/>
+	<translation from="dialogAwayStatus" to="状态"/>
+	<translation from="dialogEventAdd" to="添加事件"/>
+	<translation from="dialogEventsContactAlert" to="联系人提醒"/>
+	<translation from="dialogEventsDescription" to="事件包括声音、离开状态、弹窗、快捷键等功能。"/>
+	<translation from="dialogEventsHotkey" to="快捷键"/>
+	<translation from="dialogEventsIdleTime" to="空闲时间"/>
+	<translation from="dialogEventsName" to="事件"/>
+	<translation from="dialogEventsProgramGenerated" to="程序生成事件"/>
+	<translation from="dialogEventsScheduler" to="计划任务"/>
+	<translation from="dialogGeneral" to="常规"/>
+	<translation from="systrayUnknownAction" to="&lt;b&gt;事件错误：&lt;/b&gt;&lt;br&gt;未知操作：%action%"/>
+	<translation from="textErrorAwayUniqueLabel" to="必须为此消息输入唯一的标签。"/>
+	<translation from="textErrorEventHotkey" to="请选择一个快捷键。"/>
+	<translation from="textErrorEventType" to="请先输入事件类型。"/>
+	<translation from="textErrorSelectActionType" to="请选择操作类型"/>
+	<translation from="textErrorSelectAwayToEditAdd" to="请选择要编辑的离开消息，或点击添加新消息"/>
+	<translation from="textErrorSelectAwayToRemove" to="请选择要删除的离开消息。"/>
+	<translation from="textErrorSelectEventToEditAdd" to="请选择要编辑的事件，或点击添加新事件"/>
+	<translation from="textErrorSelectEventToRemove" to="请选择要删除的事件"/>
+	<translation from="textErrorSelectEventType" to="请选择事件类型"/>
+	<translation from="textNoticeAwayRemove" to="确定要删除此消息吗？"/>
+	<translation from="textNoticeChangeConnected" to="当前离开消息关联了事件，修改标签可能导致功能异常，确定继续吗？"/>
+	<translation from="titleError" to="Trillian 错误"/>
+	<translation from="titleNotice" to="Trillian 通知"/>
+</language>

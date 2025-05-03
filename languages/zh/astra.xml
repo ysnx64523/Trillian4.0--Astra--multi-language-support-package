@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language type="Chinese(Simplified)">
+	<translation from="infoErrorVersion" to="您的Trillian版本无法连接"/>
+	<translation from="infoErrorServerVersion" to="您的Trillian版本不可连接到此服务器"/>
+	<translation from="infoErrorPassword" to="密码错误"/>
+	<translation from="infoErrorUnavailable" to="Astra服务目前不可用，请重试"/>
+	<translation from="infoErrorOther" to="Errorcode %errcode% received during authentication."/>
+	<translation from="infoMsgLost" to="您的上一条信息无法发送至收件人，请重试"/>
+	<translation from="infoMsgPermissions" to="您无法向屏蔽列表中的用户发送信息"/>
+	<translation from="infoOtherComputer" to="由于您已在另一台计算机上登录，因此您已被注销。"/>
+	<translation from="infoMsgLenExceeded" to="信息发送失败: 信息长度过长"/>
+	<translation from="TLS" to="TLS"/>
+	<translation from="Enabled" to="启用"/>
+	<translation from="Disabled" to="禁用"/>
+	<translation from="Astra support." to="Astra支持"/>
+	<translation from="TLS is active to this user." to="此用户的TLS已启用"/>
+	<translation from="Override default resource name with: %prefsAstraResourceName%" to="用以下名称替换默认资源名: %prefsAstraResourceName%"/>
+	<translation from="Proxy:" to="代理:"/>
+	<translation from="systraySelfOnline" to="您的资源 &quot;%resource%&quot;, a device running &quot;%description%&quot;,已上线"/>
+	<translation from="systraySelfOffline" to="您的资源 &quot;%resource%&quot;已下线"/>
+	<translation from="systraySelfDisconnect" to="您的其他设备, &quot;%resource%&quot;, 已应要求已断开连接"/>
+	<translation from="Latitude" to="纬度"/>
+	<translation from="Longitude" to="经度"/>
+	<translation from="Class" to="组"/>
+	<translation from="ftCandidateInfo" to="***已成功与%ip%上的%username%建立%type%连接."/>
+	<translation from="Appear Offline and Block" to="显示为离线并阻止"/>
+	<translation from="has accepted the call at another location." to="已接受在另一个地点的呼叫。"/>
+	<translation from="Securely synchronize my accounts between devices" to="在设备之间安全地同步我的帐户"/>
+	<translation from="Show my status on my profile webpage" to="在我的个人资料网页上显示我的状态"/>
+	<translation from="QuickTime could not be located on your computer, and is required for video conferencing.  Please download it at http://www.apple.com/quicktime/download/" to="在您的计算机上找不到QuickTime，而视频会议需要该程序。 Please download it at http://www.apple.com/quicktime/download/"/>
+	<translation from="A required codec could not be located on your computer, and is required for conferencing." to="在您的计算机上找不到所需的编解码器，而会议需要该编解码器。"/>
+</language>

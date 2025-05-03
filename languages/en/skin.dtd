@@ -1,0 +1,305 @@
+<!-- English Language Pack for Skins -->
+<!-- Provides translation for words used frequently in a Stixe Interface or any skins. -->
+
+
+<!ENTITY wordTrillian				"Trillian">
+
+<!ENTITY wordGeneral				"General">
+<!ENTITY wordAdvanced				"Advanced">
+<!ENTITY wordDetails				"Details">
+<!ENTITY wordClose				"Close">
+
+<!-- Words for Contact List -->
+<!ENTITY wordMain				"Main">
+<!ENTITY wordContacts				"Contacts">
+<!ENTITY wordShortcuts				"Shortcuts">
+<!ENTITY wordLinks				"Links">
+<!ENTITY wordTasks				"Tasks">
+<!ENTITY wordTypeToSearch			"Type to Search">
+<!ENTITY wordTypeToAdd				"">
+<!ENTITY wordLeaveANote				"Leave a note">
+<!ENTITY wordAddAContact			"Add a Contact">
+<!ENTITY wordUsername				"Username">
+<!ENTITY wordServices				"Services">
+<!ENTITY wordAddButton				"Add">
+<!ENTITY wordClearText				"Clear Text">
+<!ENTITY wordSearch				"Search">
+<!ENTITY wordAdd				"Add">
+
+<!-- Words for Console -->
+<!ENTITY wordUserName-CSole			"User">
+<!ENTITY wordConnection-CSole			"Connection">
+<!ENTITY wordActivity-CSole			"Activity">
+<!ENTITY wordRemove-CSole			"Remove">
+<!ENTITY wordReadLog-CSole			"Read Log...">
+
+<!-- Words for File Transfer Window -->
+<!ENTITY wordFrom-FT				"From">
+<!ENTITY wordTo-FT				"To">
+<!ENTITY wordFile-FT				"File">
+<!ENTITY wordSavedAs-FT				"Saved As">
+<!ENTITY wordStatus-FT				"Status">
+<!ENTITY wordTotalSize-FT			"Total Size">
+<!ENTITY wordSent-FT				"Sent">
+<!ENTITY wordReceived-FT			"Received">
+<!ENTITY wordTimeLeft-FT			"Time Left">
+<!ENTITY wordTimeTaken-FT			"Time Taken">
+<!ENTITY wordSpeed-FT				"Speed">
+<!ENTITY wordFT-More				"More">
+<!ENTITY wordFT-Less				"Less">
+
+<!-- Words for IRC Channel Window -->
+<!ENTITY wordTopic-IRC				"Topic">
+<!ENTITY wordUsersList-IRC			"Users">
+<!ENTITY wordOps-IRC				"Ops">
+<!ENTITY wordUsers-IRC				"Users">
+
+<!-- Words for Message Window -->
+<!ENTITY wordSendButton				"Send">
+<!ENTITY wordConversations			"Conversations">
+<!ENTITY wordConversationsClosed		"Conversations (double click to show)">
+<!ENTITY wordServerMessages			"Server Messages">
+<!ENTITY wordAddAuthorizationRequest		"Add Authorization Request">
+<!ENTITY wordAddRequestAccepted			"Add Request Accepted">
+<!ENTITY wordFontStyles				"Font Styles">
+<!ENTITY wordInsert				"Insert">
+<!ENTITY wordDraw				"Draw">
+<!ENTITY wordKnowledgeBar-Description		"Thank you for using Trillian Astra!">
+<!ENTITY wordKnowledgeBar-Title			"Instant Knowledge">
+
+<!-- Words for Panels Titles -->
+<!ENTITY wordSearch				"Web Search">
+<!ENTITY wordVideoCamera			"Video Camera">
+<!ENTITY wordAudioChat				"Audio Chat">
+<!ENTITY wordWalkieTalkie			"Walkie Talkie">
+<!ENTITY wordFileTransfers			"File Transfers">
+
+<!-- Words for Layout Names -->
+<!ENTITY wordShowMyIdentityPanel		"Default My Identity Panel">
+<!ENTITY wordHideMyIdentityPanel		"Small My Identity Panel">
+<!ENTITY wordUseLargeToolbarwithText		"Default Toolbar with Text">
+<!ENTITY wordUseSmallToolbar			"Small Toolbar">
+<!ENTITY wordDefaultLayout			"Default Interface Layout">
+
+<!-- Words for Panels in View Menu -->
+<!ENTITY wordMyContacts-VM			"My Contacts">
+<!ENTITY wordMyWeb-VM				"My Web">
+<!ENTITY wordMyMusic-VM				"My Music">
+<!ENTITY wordMyMail-VM				"My Mail">
+<!ENTITY wordMyNews-VM				"My News">
+<!ENTITY wordTelephone-VM			"Telephone">
+<!ENTITY wordSearch-VM				"Search">
+<!ENTITY wordVideoControls-VM			"Video Controls">
+<!ENTITY wordAudioControls-VM			"Audio Controls">
+<!ENTITY wordFileTransfers-VM			"File Transfers">
+<!ENTITY wordTextConversations-VM		"Text Conversations">
+<!ENTITY wordTextEditor-VM			"Text Editor">
+<!ENTITY wordUsersList-VM			"Users List">
+
+<!-- Words for Emoticons -->
+<!ENTITY wordBasicSmileys			"Basic Smileys">
+<!ENTITY wordMSNMessengerCompatible		"MSN Messenger Compatible">
+<!ENTITY wordYahooMessengerCompatible		"Yahoo! Messenger Compatible">
+<!ENTITY wordExtraSmileys			"Extra Smileys">
+<!ENTITY wordExtraObjects			"Extra Objects">
+<!ENTITY wordExtraSymbols			"Extra Symbols">
+
+<!-- Words for Large Message Toolbar -->
+<!ENTITY wordProfile-PMLToolbar			"Profile">
+<!ENTITY wordVideo-PMLToolbar			"Video">
+<!ENTITY wordAudio-PMLToolbar			"Audio">
+<!ENTITY wordSendFile-PMLToolbar		"Send File">
+<!ENTITY wordInvite-PMLToolbar			"Invite">
+<!ENTITY wordInfo-PMLToolbar			"Info">
+<!ENTITY wordHistory-PMLToolbar			"History">
+<!ENTITY wordAdd-PMLToolbar			"Add">
+<!ENTITY wordWarn-PMLToolbar			"Warn">
+<!ENTITY wordBlock-PMLToolbar			"Block">
+
+<!-- Words for Profile -->
+<!ENTITY wordStatus-Profile			"Busy traffic to this profile currently. Please refresh manually.">
+<!ENTITY wordRefresh-Profile			"Refresh">
+<!ENTITY wordIntro-Profile			"Intro">
+<!ENTITY wordWalls-Profile			"Walls">
+<!ENTITY wordMini-Profile			"Mini">
+<!ENTITY wordAddWall-Profile			"Add Wall">
+<!ENTITY wordProfileWall-Profile		"Profile Wall">
+<!ENTITY wordAstraProfile			"Astra Profile">
+<!ENTITY wordWebServices			"Web Services">
+<!ENTITY wordUserInformation			"User Information">
+<!ENTITY wordBiography				"Biography">
+<!ENTITY wordBack-Profile			"Back">
+<!ENTITY wordMore-Profile			"More">
+
+<!-- Words for Profile Editor -->
+<!ENTITY wordProfileEditor			"Profile Editor">
+<!ENTITY wordProfileEditorOf			"Profile Editor - ">
+<!ENTITY wordProfile				"Profile">
+<!ENTITY wordMyProfile				"My Profile">
+<!ENTITY wordWidgetBrowser			"Widget Browser">
+<!ENTITY wordMyAstraProfile			"My Astra Profile">
+<!ENTITY wordMyBasicInformation			"My Basic Information">
+<!ENTITY wordTrillianMini			"Trillian Mini">
+<!ENTITY wordMyWebServices			"My Web Services">
+<!ENTITY wordFirstName				"First Name">
+<!ENTITY wordLastName				"Last Name">
+<!ENTITY wordNickname				"Nickname">
+<!ENTITY wordAstraContactStatusIcons		"AstraContact Status Icons">
+<!ENTITY wordAddaWebService			"Add a Web Service...">
+<!ENTITY wordAddWidgets				"Add Widgets...">
+<!ENTITY wordGenerateHTMLCode			"Generate HTML Code...">
+<!ENTITY wordWallSettings			"Wall Settings">
+<!ENTITY wordDeleteWall				"Delete Wall">
+<!ENTITY wordPEditBar-Settings			"Settings">
+<!ENTITY wordPEditBar-DeleteWall		"Delete Wall">
+<!ENTITY wordWidgetBrowser-BrowseTitle		"I want a widget related to...">
+<!ENTITY wordWidgetBrowser-BrowseCount		"Showing Page &#37;browse-gallery.currentpage&#37; out of &#37;browse-gallery.totalpages&#37;">
+
+<!-- Words for Group Invite Window -->
+<!ENTITY wordGroup				"Group">
+<!ENTITY wordGroupInvite			"Invite Contacts to Chat...">
+<!ENTITY wordGroupInvite-List			"Available Contacts">
+<!ENTITY wordGroupInvite-Invitees		"Contacts to be Invited">
+<!ENTITY wordInvite				"Invite">
+<!ENTITY wordCancel				"Cancel">
+
+<!-- Words for Cordonata Contact List -->
+<!ENTITY word-lbl-Cordonata:CL:CBox:Search:Title	 "Search">
+<!ENTITY word-edit-Cordonata:CL:CBox:Search	 "Type to Search">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Title	 "Add">
+<!ENTITY word-edit-Cordonata:CL:CBox:Add	 "">
+<!ENTITY word-lblbtn-Cordonata:CL:CBox:Add:Button	 "Add">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Name	 "ID Name">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Service	 "Service">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Group	 "Group">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Reason	 "Reason">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Main:Status	 "Status">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Profile:Title	 "Manage My Profile">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Profile:ChangeMyIcon	 "Change My Icon...">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Profile:ProfileEditor	 "Profile Editor">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Prefs:Title	 "Manage My Trillian">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Prefs:AlwaysOnTop	 "Always On Top">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Prefs:PlaySounds	 "Play Sounds">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Prefs:ShowNotifiers	 "Hide Notifiers">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Prefs:AllPreferences	 "Preferences">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Prefs:ActivityHistory	 "Activity History">
+
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Contact	 "a Contact...">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Meta	 "a MetaContact...">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Group	 "a Group">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Connection	 "a Connection...">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Widget	 "a Widget...">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Profile:Theme	 "Theme - Default">
+
+<!ENTITY word-btnShowMenuBarButton	 "Show Menu Bar for advanced users">
+<!ENTITY word-btnHideMenuBarButton	 "Hide Menu Bar for advanced users">
+<!ENTITY word-btn-Cordonata:CL:CBox:Add	 "Add a Contact, Group, Connection, or Widget">
+<!ENTITY word-btn-Cordonata:CL:CBox:Search	 "Search Contact List">
+<!ENTITY word-btn-Cordonata:CL:CBox:Profile	 "Manage my Profile">
+<!ENTITY word-btn-Cordonata:CL:CBox:Prefs	 "Manage my Trillian">
+<!ENTITY word-btn-Cordonata:CL:CBox:Thumbnail-Layer1	 "Click to show your Connection Status\n Double Click to change your Icon">
+<!ENTITY word-btn-Cordonata:CL:CBox:Thumbnail-Layer1-Slct	 "Double Click to change your Icon">
+<!ENTITY word-btnCBox-CL-Close	 "Close current tab and return to Main tab">
+<!ENTITY word-btn-Cordonata:CL:CBox:Main:Expand	 "Click here to show individual connection services">
+<!ENTITY word-btn-Cordonata:CL:CBox:Main:Collapse	 "Click here to hide individual connection services">
+<!ENTITY word-btn-Cordonata:CL:Status:Add:Close	 "Click here to hide this error">
+
+
+<!-- Words for Cordonata Chat Windows -->
+<!ENTITY word-lbl-Cordonata:PM:Tabs:Info	 "User Info">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:Profile	 "Profile">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:Chat	 "Chat">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:Draw	 "Draw">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:Audio	 "Voice">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:Video	 "Video">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:WebcamInvite "Invite to Webcam">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:WebcamView	 "View Webcam">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:File	 "Send File">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:Conf	 "Conference">
+<!ENTITY word-lblChannelAstraTabs-ConfInvite	 "Invite User">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:History	 "History">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:AudioChat-Slct	 "Voice Chat">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:VideoChat-Slct	 "Video Chat">
+<!ENTITY word-topic-Cordonata:PM:CBox:Audio:End	 "Hang Up">
+<!ENTITY word-lbl-Cordonata:PM:CBox:Profile:Intro	 "Intro">
+<!ENTITY word-lbl-Cordonata:PM:CBox:Profile:Walls	 "Wall">
+<!ENTITY word-lbl-Cordonata:PM:DBox:Profile:Intro:List	 "Web Services">
+<!ENTITY word-topic-Cordonata:PM:CBox:Info:ProfileLink	 "View Extended Info...">
+<!ENTITY word-topic-Cordonata:PM:CBox:Info:Refresh	 "Refresh">
+<!ENTITY word-lbl-Cordonata:PM:DBox:Info:Display	 "Biography">
+<!ENTITY word-lbl-Cordonata:PM:Status:Stranger:Warning	 "This user is not on your contact list.  Be careful when disclosing personal information or clicking links.">
+<!ENTITY word-lbl-Cordonata:PM:Add	 "Add">
+<!ENTITY word-lbl-Cordonata:PM:Block	 "Block">
+<!ENTITY word-lbl-Cordonata:PM:Status:WebVisitor:Warning	 "This is a Visitor from the Web. It may not be the same person as it is named. They will know that you are online once you reply.">
+<!ENTITY word-lbl-Cordonata:PM:Accept	 "Accept">
+<!ENTITY word-lbl-Cordonata:PM:Deny	 "Deny">
+<!ENTITY word-lbl-Cordonata:PM:Ignore	 "Ignore">
+<!ENTITY word-topic-Cordonata:PM:KBar:Title	 "Instant Knowledge">
+<!ENTITY word-topic-Cordonata:PM:KBar:Description	 "Thank you for using Trillian Astra.">
+
+<!ENTITY word-btn-Cordonata:PM:Tabs:Info	 "Shows the information of the contact">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Profile	 "Shows the profile of the contact">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Chat	 "Sends and receives text messages or pictures">
+<!ENTITY word-btn-Cordonata:CH:Tabs:Chat	 "Sends and receives group chat conversations">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Draw	 "Draw a message to your friend!">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Audio	 "Talk naturally through your microphone or headset">
+<!ENTITY word-btn-Cordonata:CH:Tabs:Audio	 "Talk naturally through your microphone or headset">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Video	 "Shows live video of the contact and yourself">
+<!ENTITY word-btn-Cordonata:PM:Tabs:WebcamInvite	 "Invite to view your webcam stream">
+<!ENTITY word-btn-Cordonata:PM:Tabs:WebcamView	 "View webcam of your friend">
+<!ENTITY word-btn-Cordonata:PM:Tabs:File	 "Sends or receives files">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Conf	 "Invite to a group chat">
+<!ENTITY word-btn-Cordonata:CH:Tabs:ConfInvite	 "Invite to this group chat">
+<!ENTITY word-btn-Cordonata:PM:Tabs:History	 "View the history of conversation">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Audio-Chat	 "Sends text or picture messages along with real-time audio">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Video-Chat	 "Sends text or picture messages along with real-time video">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Video-Audio	 "Shows live video with audio">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Video-Audio-Chat	"Sends text or picture messages along with real-time video and audio">
+<!ENTITY word-btn-Cordonata:PM:Status:Stranger:Close	"Click here to hide this warning. To add the contact, use the right click menu.">
+<!ENTITY word-tip-Cordonata:PM:Status:Audio:Init	"Do you want to start a Voice Chat now?">
+<!ENTITY word-tip-Cordonata:PM:Status:Video:Init	"Do you want to start a Video Chat now?">
+<!ENTITY word-lbl-Cordonata:PM:Status:Audio:Init:AD:Accept	"Yes">
+<!ENTITY word-lbl-Cordonata:PM:Status:Audio:Init:AD:Deny	"No">
+<!ENTITY word-lbl-Cordonata:PM:Status:Video:Init:AD:Accept	"Yes">
+<!ENTITY word-lbl-Cordonata:PM:Status:Video:Init:AD:Deny	"No">
+
+<!-- Words for Cordonata Miscellaneous -->
+<!ENTITY word-lbl-Cordonata:NF-AD:Chat	 "Chat first...">
+<!ENTITY word-lblConsole	 "Server Messages">
+<!ENTITY word-lblGroupInvite	 "Invite Contacts to Chat...">
+<!ENTITY word-lblGroupInvite-List	 "Available Contacts">
+<!ENTITY word-lblGroupInvite-Invitees	 "Contacts to be Invited">
+<!ENTITY word-editSearch	 "Type to Search">
+<!ENTITY word-lbl-Cordonata:NF:Reply	 "Reply">
+<!ENTITY word-lbl-Cordonata:NF:QuickReply	 "Quick Reply">
+
+
+<!-- Words for Cordonata Profile Editor -->
+<!ENTITY word-lbl-Cordonata:PE	 "Profile Editor -">
+<!ENTITY word-lbl-Cordonata:WG	 "SocialWidget Gallery">
+<!ENTITY word-lbl-Cordonata:PE:NowLoading	 "Loading Profile...">
+<!ENTITY word-lbl-Cordonata:PE:FlashRequired	 "Adobe Flash 9 is required.">
+<!ENTITY word-lbl-Cordonata:PE:FlashDownload	 "Click here to download Flash.">
+<!ENTITY word-edit-Cordonata:PE:FirstName	 "First Name">
+<!ENTITY word-edit-Cordonata:PE:LastName	 "Last Name">
+<!ENTITY word-edit-Cordonata:PE:Nickname	 "Nickname">
+<!ENTITY word-lbl-Cordonata:PE:Astracontact	 "AstraContact Status Icons">
+<!ENTITY word-topic-Cordonata:PE:Controls:IntroListAdd	 "Add a Web Service...">
+<!ENTITY word-topic-Cordonata:PE:Controls:Mini:Add	 "Add Widgets...">
+<!ENTITY word-topic-Cordonata:PE:Controls:Mini:Codegen	 "Generate HTML Code...">
+<!ENTITY word-ttp-Cordonata:PE:Mini	 "Choose three widgets that best suit your personality and profile!">
+<!ENTITY word-lbl-Cordonata:PE:Tabs:Intro	 "Intro">
+<!ENTITY word-lbl-Cordonata:PE:Tabs:Walls	 "Walls">
+<!ENTITY word-lbl-Cordonata:PE:Tabs:Mini	 "Trillian Mini">
+<!ENTITY word-lbl-Cordonata:EC:Cancel	 "Cancel">
+<!ENTITY word-topic-Cordonata:PE:Controls:Walls:AddWidget	 "Add Widget...">
+<!ENTITY word-topic-Cordonata:PE:Controls:Walls:Add	 "Create New Wall...">
+<!ENTITY word-topic-Cordonata:PE:Controls:Walls:Settings	 "Wall Settings">
+<!ENTITY word-topic-Cordonata:PE:Controls:Walls:Delete	 "Delete Wall">
+
+
+
+
+
+
+

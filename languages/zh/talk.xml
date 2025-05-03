@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)">
+    <translation from="%bytes% Bytes Received" to="已接收 %bytes% 字节"/>
+    <translation from="%bytes% Bytes Sent" to="已发送 %bytes% 字节"/>
+    <translation from="%bytes% of %total% (%percentage%)" to="%bytes% / %total% (%percentage%)"/>
+    <translation from="%channel% on %server%" to="%server% 上的 %channel%"/>
+    <translation from="%contact% - %date%" to="%contact% - %date%"/>
+    <translation from="%contact% - Activity History" to="%contact% - 活动历史"/>
+    <translation from="%month% %year%" to="%month% %year%"/>
+    <translation from="%name% appears to be offline.  Messages you send will be delivered when they sign in." to="%name% 似乎已离线。您发送的消息将在其登录后送达。"/>
+    <translation from="%name% appears to be offline.  Messages you send will most likely &lt;b&gt;not&lt;/b&gt; be delivered when they sign in" to="%name% 似乎已离线。您发送的消息很可能&lt;b&gt;无法&lt;/b&gt;在其登录后送达。"/>
+    <translation from="%num% %word_hour% ago at %time%" to="%num% %word_hour%前（%time%）"/>
+    <translation from="%num% %word_minute% ago at %time%" to="%num% %word_minute%前（%time%）"/>
+    <translation from="%num% %word_week% ago" to="%num% %word_week%前"/>
+    <translation from="%num% months ago" to="%num% 个月前"/>
+    <translation from="%num% related files found." to="找到 %num% 个相关文件。"/>
+    <translation from="%num_hours% %word_hour% %num_minutes% %word_minute%" to="%num_hours% %word_hour% %num_minutes% %word_minute%"/>
+    <translation from="%num_minutes% %word_minute%" to="%num_minutes% %word_minute%"/>
+    <translation from="%percentage%%% - Received %file% from %name%" to="%percentage%%% - 已从 %name% 接收 %file%"/>
+    <translation from="%percentage%%% - Receiving %file% from %name%" to="%percentage%%% - 正在从 %name% 接收 %file%"/>
+    <translation from="%percentage%%% - Sending %file% to %name%" to="%percentage%%% - 正在向 %name% 发送 %file%"/>
+    <translation from="%percentage%%% - Sent %file% to %name%" to="%percentage%%% - 已向 %name% 发送 %file%"/>
+    <translation from="%reltime% at %time%" to="%reltime%（%time%）"/>
+    <translation from="%user% user connected." to="%user% 名用户已连接。"/>
+    <translation from="%user% users connected." to="%user% 名用户已连接。"/>
+    <translation from="%username% has received %filename%." to="%username% 已收到 %filename%。"/>
+    <translation from="%username% is trying to send you &quot;%filename%&quot;." to="%username% 正尝试向您发送“%filename%”。"/>
+    <translation from="&amp;Close" to="关闭(&amp;C)"/>
+    <translation from="&amp;Edit" to="编辑(&amp;E)"/>
+    <translation from="&amp;File" to="文件(&amp;F)"/>
+    <translation from="&amp;Help" to="帮助(&amp;H)"/>
+    <translation from="&amp;View" to="视图(&amp;V)"/>
+    <translation from="&amp;Webcam" to="摄像头(&amp;W)"/>
+    <translation from="&lt;1 minute" to="&lt;1 分钟"/>
+    <translation from="&lt;b&gt;%name%&lt;/b&gt; (%medium%) is requesting a video call..." to="&lt;b&gt;%name%&lt;/b&gt;（%medium%）请求进行视频通话..."/>
+    <translation from="&lt;b&gt;%name%&lt;/b&gt; (%medium%) is requesting a voice call..." to="&lt;b&gt;%name%&lt;/b&gt;（%medium%）请求进行语音通话..."/>
+    <translation from="&lt;b&gt;%name%&lt;/b&gt; is requesting a video call..." to="&lt;b&gt;%name%&lt;/b&gt; 请求进行视频通话..."/>
+    <translation from="&lt;b&gt;%name%&lt;/b&gt; is requesting a voice call..." to="&lt;b&gt;%name%&lt;/b&gt; 请求进行语音通话..."/>
+    <translation from="(image)" to="(图片)"/>
+    <translation from="AM" to="上午"/>
+    <translation from="About..." to="关于..."/>
+    <translation from="Accept" to="接受"/>
+    <translation from="Activity Graph" to="活动图表"/>
+    <translation from="Activity History" to="活动历史"/>
+    <translation from="Activity History with %contact%" to="与 %contact% 的活动历史"/>
+    <translation from="Add Bookmark..." to="添加书签..."/>
+    <translation from="Add Contact" to="添加联系人"/>
+    <translation from="Add Emotiblip..." to="添加表情动画..."/>
+    <translation from="alertBuzz" to="&lt;b&gt;%name%&lt;/b&gt; 给您发送了震动！"/>
+    <translation from="alertMessageChat" to="&lt;b&gt;%name%&lt;/b&gt;（%channel%）说：%message%"/>
+    <translation from="alertMessagePrivate" to="&lt;b&gt;%name%&lt;/b&gt; 说：%message%"/>
+    <translation from="alertTyping" to="&lt;b&gt;%name%&lt;/b&gt; 正在准备发送消息..."/>
+    <translation from="All" to="全部"/>
+    <translation from="Already on Contact List" to="已在联系人列表中"/>
+    <translation from="Alt-Enter" to="Alt+Enter"/>
+    <translation from="Alt-S" to="Alt+S"/>
+    <translation from="Always" to="始终"/>
+    <translation from="Always On Top" to="始终置顶"/>
+    <translation from="April" to="四月"/>
+    <translation from="Ask" to="询问"/>
+    <translation from="Assets" to="资源"/>
+    <translation from="Assets for %contact%" to="%contact% 的资源"/>
+    <translation from="Attempting to establish SecureIM..." to="正在尝试建立安全即时通讯..."/>
+    <translation from="Audio" to="音频"/>
+    <translation from="Audio Chat" to="语音聊天"/>
+    <translation from="Audio recording ended." to="音频录制已结束。"/>
+    <translation from="Audio recording started." to="音频录制已开始。"/>
+    <translation from="August" to="八月"/>
+    <translation from="Avatar: Update" to="头像：更新"/>
+    <translation from="Back" to="返回"/>
+    <translation from="Background" to="背景"/>
+    <translation from="Background Color" to="背景颜色"/>
+    <translation from="Below is a summary of the most recent conversations with %contact%." to="以下是最近与 %contact% 的对话摘要。"/>
+    <translation from="Below is a summary of your conversation on %date%." to="以下是 %date% 的对话摘要。"/>
+    <translation from="Bitmap..." to="位图..."/>
+    <translation from="Block Contact" to="阻止联系人"/>
+    <translation from="Bold" to="粗体"/>
+    <translation from="Bookmarks" to="书签"/>
+    <translation from="Browse" to="浏览"/>
+    <translation from="Browse..." to="浏览..."/>
+    <translation from="Buddy Icon" to="好友图标"/>
+    <translation from="Buzz" to="震动"/>
+    <translation from="Calendar" to="日历"/>
+    <translation from="Cancel" to="取消"/>
+    <translation from="Cancel Search" to="取消搜索"/>
+    <translation from="Cancel Transfer" to="取消传输"/>
+    <translation from="Capture" to="捕获"/>
+    <translation from="Capture Image" to="捕获图像"/>
+    <translation from="Capture and set as my local avatar" to="捕获并设置为本地头像"/>
+    <translation from="Change Search Provider" to="更换搜索提供商"/>
+    <translation from="Change view" to="切换视图"/>
+    <translation from="Chat" to="聊天"/>
+    <translation from="Chat Request from %contact% (%medium%)..." to="来自 %contact%（%medium%）的聊天请求..."/>
+    <translation from="Choose..." to="选择..."/>
+    <translation from="Clear" to="清除"/>
+    <translation from="Clear All" to="全部清除"/>
+    <translation from="Clear History" to="清除历史记录"/>
+    <translation from="Clear Log..." to="清除日志..."/>
+    <translation from="Click for Options" to="点击查看选项"/>
+    <translation from="Click to change your icon." to="点击更改您的图标。"/>
+    <translation from="Close" to="关闭"/>
+    <translation from="Close Connection" to="关闭连接"/>
+    <translation from="Close File Transfer" to="关闭文件传输"/>
+    <translation from="Close after send" to="发送后关闭"/>
+    <translation from="Code" to="代码"/>
+    <translation from="Color" to="颜色"/>
+    <translation from="Compressing file %num%/%total%" to="正在压缩文件（%num%/%total%）"/>
+    <translation from="Connecting..." to="正在连接..."/>
+    <translation from="Connection: All Connected" to="连接状态：全部已连接"/>
+    <translation from="Connection: All Disconnected" to="连接状态：全部断开"/>
+    <translation from="Connection: Partially Disconnected" to="连接状态：部分断开"/>
+    <translation from="Connection Settings" to="连接设置"/>
+    <translation from="Console" to="控制台"/>
+    <translation from="Contact" to="联系人"/>
+    <translation from="Contacts" to="联系人"/>
+    <translation from="Containers" to="容器"/>
+    <translation from="Conversations" to="对话"/>
+    <translation from="Copied text to clipboard." to="已复制文本到剪贴板。"/>
+    <translation from="Copy" to="复制"/>
+    <translation from="Copy Definition" to="复制定义"/>
+    <translation from="Copy Link Location" to="复制链接地址"/>
+    <translation from="Copying selected text to clipboard." to="正在将选定文本复制到剪贴板。"/>
+    <translation from="Ctrl-Enter" to="Ctrl+Enter"/>
+    <translation from="Ctrl-S" to="Ctrl+S"/>
+    <translation from="Ctrl-e" to="Ctrl+E"/>
+    <translation from="Ctrl-u" to="Ctrl+U"/>
+    <translation from="Ctrl-up / Ctrl-down" to="Ctrl+上 / Ctrl+下"/>
+    <translation from="Current Conversation at %time%" to="当前对话（%time%）"/>
+    <translation from="Cut" to="剪切"/>
+    <translation from="DCC Chat" to="DCC 聊天"/>
+    <translation from="DCC Send" to="DCC 发送"/>
+    <translation from="Date" to="日期"/>
+    <translation from="Date Modified" to="修改日期"/>
+    <translation from="December" to="十二月"/>
+    <translation from="Decrease Font Size" to="减小字体"/>
+    <translation from="Default" to="默认"/>
+    <translation from="Definition" to="定义"/>
+    <translation from="Definition by Wikipedia" to="维基百科定义"/>
+    <translation from="Delete" to="删除"/>
+    <translation from="Deny" to="拒绝"/>
+    <translation from="Description:" to="描述："/>
+    <translation from="Disconnect" to="断开连接"/>
+    <translation from="Direct Connect" to="直接连接"/>
+    <translation from="Draw your message here" to="在此绘制消息"/>
+    <translation from="Duration" to="时长"/>
+    <translation from="Editbox is locked, please wait..." to="编辑框已锁定，请稍候..."/>
+    <translation from="EmotiSounds" to="音效表情"/>
+    <translation from="Emotiblips" to="表情动画"/>
+    <translation from="Emoticons" to="表情符号"/>
+    <translation from="Encrypt" to="加密"/>
+    <translation from="Encrypted DCC Chat" to="加密 DCC 聊天"/>
+    <translation from="End call and close" to="结束通话并关闭"/>
+    <translation from="Enter" to="输入"/>
+    <translation from="Eraser" to="橡皮擦"/>
+    <translation from="Execute" to="执行"/>
+    <translation from="Fast Forward" to="快进"/>
+    <translation from="February" to="二月"/>
+    <translation from="File Transfer: Complete" to="文件传输：完成"/>
+    <translation from="File Transfer: Pending Event" to="文件传输：待处理事件"/>
+    <translation from="File Transfers" to="文件传输"/>
+    <translation from="Filename:" to="文件名："/>
+    <translation from="Filters" to="过滤器"/>
+    <translation from="Find..." to="查找..."/>
+    <translation from="Finger" to="Finger 协议"/>
+    <translation from="Finished searching for:" to="搜索完成："/>
+    <translation from="Flashing" to="闪烁"/>
+    <translation from="Font Face" to="字体"/>
+    <translation from="Font Size" to="字体大小"/>
+    <translation from="Fonts" to="字体"/>
+    <translation from="Foreground Color" to="前景颜色"/>
+    <translation from="Formatting" to="格式"/>
+    <translation from="Forward" to="转发"/>
+    <translation from="Friday" to="星期五"/>
+    <translation from="From %from% to %contact%" to="从 %from% 到 %contact%"/>
+    <translation from="Full Screen" to="全屏"/>
+    <translation from="Get Contact Information" to="获取联系人信息"/>
+    <translation from="Go Offline" to="切换为离线"/>
+    <translation from="Go Online" to="切换为在线"/>
+    <translation from="Go to" to="跳转到"/>
+    <translation from="Grayscale" to="灰度"/>
+    <translation from="Group Chat" to="群聊"/>
+    <translation from="Group Conversations" to="群组对话"/>
+    <translation from="Hang up" to="挂断"/>
+    <translation from="Help" to="帮助"/>
+    <translation from="Help..." to="帮助..."/>
+    <translation from="Hide" to="隐藏"/>
+    <translation from="Hide Local" to="隐藏本地"/>
+    <translation from="Hide Transfer" to="隐藏传输"/>
+    <translation from="Hide Window" to="隐藏窗口"/>
+    <translation from="Highlighter" to="荧光笔"/>
+    <translation from="History" to="历史记录"/>
+    <translation from="Hyperlink..." to="超链接..."/>
+    <translation from="Icon Changes" to="图标变更"/>
+    <translation from="Ignore" to="忽略"/>
+    <translation from="Image Preview" to="图片预览"/>
+    <translation from="Image Preview (%percent%%%)" to="图片预览（%percent%%%）"/>
+    <translation from="Image Size" to="图片尺寸"/>
+    <translation from="Important!" to="重要！"/>
+    <translation from="Incoming File from %contact% (%medium%)..." to="来自 %contact%（%medium%）的传入文件..."/>
+    <translation from="Incoming file transfer status..." to="传入文件传输状态..."/>
+    <translation from="Increase Font Size" to="增大字体"/>
+    <translation from="Insert" to="插入"/>
+    <translation from="Insert Bookmark at &quot;%description%&quot;" to="在“%description%”插入书签"/>
+    <translation from="Insert Current URL" to="插入当前 URL"/>
+    <translation from="Insert Emotiblip" to="插入表情动画"/>
+    <translation from="Insert Picture..." to="插入图片..."/>
+    <translation from="Insert Screen Capture..." to="插入屏幕截图..."/>
+    <translation from="Insert URL" to="插入 URL"/>
+    <translation from="Insert URL..." to="插入 URL..."/>
+    <translation from="Insert Video Capture..." to="插入视频捕获..."/>
+    <translation from="Instant Video Capture Mode" to="即时视频捕获模式"/>
+    <translation from="Invalid video format." to="无效的视频格式。"/>
+    <translation from="Inverse" to="反色"/>
+    <translation from="Invite" to="邀请"/>
+    <translation from="Invite Contacts" to="邀请联系人"/>
+    <translation from="Invite User" to="邀请用户"/>
+    <translation from="Italics" to="斜体"/>
+    <translation from="January" to="一月"/>
+    <translation from="Join" to="加入"/>
+    <translation from="Join Channel" to="加入频道"/>
+    <translation from="July" to="七月"/>
+    <translation from="June" to="六月"/>
+    <translation from="Large" to="大"/>
+    <translation from="Larger" to="更大"/>
+    <translation from="Last Month" to="上月"/>
+    <translation from="Last Week" to="上周"/>
+    <translation from="Last image at (%time%)" to="最后图像（%time%）"/>
+    <translation from="Last message received on %date% at %time%." to="最后消息接收于 %date% %time%。"/>
+    <translation from="Less than a minute ago at %time%" to="不到一分钟前（%time%）"/>
+    <translation from="List Channels" to="列出频道"/>
+    <translation from="Loading..." to="加载中..."/>
+    <translation from="Logging" to="日志记录"/>
+    <translation from="March" to="三月"/>
+    <translation from="Maximize/Restore" to="最大化/还原"/>
+    <translation from="May" to="五月"/>
+    <translation from="Message" to="消息"/>
+    <translation from="Message History" to="消息历史"/>
+    <translation from="Message: Buzz" to="消息：震动"/>
+    <translation from="Message: Buzz (out of focus)" to="消息：震动（非焦点）"/>
+    <translation from="Message: Buzz Outbound" to="消息：发送震动"/>
+    <translation from="Message: Chat Inbound (in focus)" to="消息：接收聊天（焦点中）"/>
+    <translation from="Message: Chat Inbound (in focus, unmuteable)" to="消息：接收聊天（焦点中，不可静音）"/>
+    <translation from="Message: Chat Inbound (out of focus)" to="消息：接收聊天（非焦点）"/>
+    <translation from="Message: Chat Inbound (out of focus, unmuteable)" to="消息：接收聊天（非焦点，不可静音）"/>
+    <translation from="Message: Chat Outbound" to="消息：发送聊天"/>
+    <translation from="Message: Chat Outbound (unmuteable)" to="消息：发送聊天（不可静音）"/>
+    <translation from="Message: IM Inbound (in focus)" to="消息：接收即时消息（焦点中）"/>
+    <translation from="Message: IM Inbound (in focus, unmuteable)" to="消息：接收即时消息（焦点中，不可静音）"/>
+    <translation from="Message: IM Inbound (out of focus)" to="消息：接收即时消息（非焦点）"/>
+    <translation from="Message: IM Inbound (out of focus, unmuteable)" to="消息：接收即时消息（非焦点，不可静音）"/>
+    <translation from="Message: IM Outbound" to="消息：发送即时消息"/>
+    <translation from="Message: IM Outbound (unmuteable)" to="消息：发送即时消息（不可静音）"/>
+    <translation from="Message: IM Window Creation" to="消息：创建即时消息窗口"/>
+    <translation from="Message: IM Window Creation (unmuteable)" to="消息：创建即时消息窗口（不可静音）"/>
+    <translation from="Message: IM Window Destruction" to="消息：销毁即时消息窗口"/>
+    <translation from="Message: IM Window Initial View" to="消息：即时消息窗口初始视图"/>
+    <translation from="Message: Pending Event" to="消息：待处理事件"/>
+    <translation from="Message: Typing (no window)" to="消息：正在输入（无窗口）"/>
+    <translation from="Message: URL" to="消息：URL"/>
+    <translation from="Messages" to="消息"/>
+    <translation from="Minimize" to="最小化"/>
+    <translation from="Monday" to="星期一"/>
+    <translation from="Monochrome" to="单色"/>
+    <translation from="Mute Microphone" to="静音麦克风"/>
+    <translation from="Mute Speakers" to="静音扬声器"/>
+    <translation from="My Contacts" to="我的联系人"/>
+    <translation from="My Web Cam" to="我的摄像头"/>
+    <translation from="My Webcam" to="我的摄像头"/>
+    <translation from="Name" to="名称"/>
+    <translation from="Never" to="从不"/>
+    <translation from="New Search" to="新搜索"/>
+    <translation from="No" to="否"/>
+    <translation from="No Assets Found." to="未找到资源。"/>
+    <translation from="No Bookmarks Found." to="未找到书签。"/>
+    <translation from="No Emotiblips Found" to="未找到表情动画"/>
+    <translation from="No Menu Available" to="无可用菜单"/>
+    <translation from="No Windows Available" to="无可用窗口"/>
+    <translation from="No activity on this date." to="此日期无活动。"/>
+    <translation from="No filtered results available.  Click the above filter buttons to show the hidden items." to="无筛选结果。点击上方筛选按钮以显示隐藏项。"/>
+    <translation from="No previous conversations found." to="未找到历史对话。"/>
+    <translation from="No users watching" to="无用户观看"/>
+    <translation from="No webcam found." to="未找到摄像头。"/>
+    <translation from="Non-Operators" to="非操作员"/>
+    <translation from="None" to="无"/>
+    <translation from="None Found." to="未找到。"/>
+    <translation from="Normal" to="正常"/>
+    <translation from="Normal Font Size" to="标准字体大小"/>
+    <translation from="Nothing" to="无内容"/>
+    <translation from="November" to="十一月"/>
+    <translation from="OK" to="确定"/>
+    <translation from="October" to="十月"/>
+    <translation from="Off" to="关闭"/>
+    <translation from="Offline Messages received %num% %word_hour% ago at %time%" to="离线消息于 %num% %word_hour%前（%time%）接收"/>
+    <translation from="Offline Messages received %num% %word_minute% ago at %time%" to="离线消息于 %num% %word_minute%前（%time%）接收"/>
+    <translation from="Offline Messages received %reltime% at %time%" to="离线消息于 %reltime%（%time%）接收"/>
+    <translation from="Offline Messages received less than a minute ago at %time%" to="离线消息于不到一分钟前（%time%）接收"/>
+    <translation from="Offline." to="离线。"/>
+    <translation from="On" to="开启"/>
+    <translation from="Online" to="在线"/>
+    <translation from="Open Containing Folder" to="打开所在文件夹"/>
+    <translation from="Open Folder" to="打开文件夹"/>
+    <translation from="Open in Browser" to="在浏览器中打开"/>
+    <translation from="Open in a New Browser" to="在新浏览器中打开"/>
+    <translation from="Operators" to="操作员"/>
+    <translation from="Options" to="选项"/>
+    <translation from="Other" to="其他"/>
+    <translation from="Outgoing file transfer status..." to="传出文件传输状态..."/>
+    <translation from="PM" to="下午"/>
+    <translation from="Page %location%" to="页面 %location%"/>
+    <translation from="Paste" to="粘贴"/>
+    <translation from="Paste Special" to="选择性粘贴"/>
+    <translation from="Pastel" to="蜡笔色"/>
+    <translation from="Pause" to="暂停"/>
+    <translation from="Pause Broadcast" to="暂停广播"/>
+    <translation from="Paused." to="已暂停。"/>
+    <translation from="Pen Color" to="画笔颜色"/>
+    <translation from="Pencil" to="铅笔"/>
+    <translation from="Picture in Picture" to="画中画"/>
+    <translation from="Picture..." to="图片..."/>
+    <translation from="Pixelated" to="像素化"/>
+    <translation from="Play" to="播放"/>
+    <translation from="Press ESC to exit full screen" to="按 ESC 退出全屏"/>
+    <translation from="Privacy" to="隐私"/>
+    <translation from="Promote Trillian..." to="推荐 Trillian..."/>
+    <translation from="Received %file% from %name%" to="已从 %name% 接收 %file%"/>
+    <translation from="Receiving %file% from %name%" to="正在从 %name% 接收 %file%"/>
+    <translation from="Reconnect" to="重新连接"/>
+    <translation from="Reconnecting..." to="正在重新连接..."/>
+    <translation from="Record" to="录制"/>
+    <translation from="Redo" to="重做"/>
+    <translation from="Related Links" to="相关链接"/>
+    <translation from="Remove Bookmark" to="移除书签"/>
+    <translation from="Rename" to="重命名"/>
+    <translation from="Resend" to="重新发送"/>
+    <translation from="Restart" to="重新启动"/>
+    <translation from="Results" to="结果"/>
+    <translation from="Results (%num%)" to="结果（%num%）"/>
+    <translation from="Rewind" to="倒带"/>
+    <translation from="Saturday" to="星期六"/>
+    <translation from="Save As..." to="另存为..."/>
+    <translation from="Save Image As..." to="图片另存为..."/>
+    <translation from="Screen Capture..." to="屏幕截图..."/>
+    <translation from="Scroll Down" to="向下滚动"/>
+    <translation from="Scroll Up" to="向上滚动"/>
+    <translation from="Search" to="搜索"/>
+    <translation from="Search Information" to="搜索信息"/>
+    <translation from="Search Web" to="网页搜索"/>
+    <translation from="Search for:" to="搜索："/>
+    <translation from="Searching for activity on this date..." to="正在搜索此日期的活动..."/>
+    <translation from="Searching for previous conversations..." to="正在搜索历史对话..."/>
+    <translation from="Searching for:" to="正在搜索："/>
+    <translation from="SecureIM" to="安全即时通讯"/>
+    <translation from="SecureIM connection ended." to="安全即时通讯连接已终止。"/>
+    <translation from="SecureIM connection is established." to="安全即时通讯连接已建立。"/>
+    <translation from="SecureIM: 128-bit Secured." to="安全即时通讯：128 位加密。"/>
+    <translation from="Select All" to="全选"/>
+    <translation from="Send" to="发送"/>
+    <translation from="Send File" to="发送文件"/>
+    <translation from="Send Message" to="发送消息"/>
+    <translation from="Send Private Message" to="发送私聊消息"/>
+    <translation from="Send Webcam Invitation" to="发送摄像头邀请"/>
+    <translation from="Sending %file% to %name%" to="正在向 %name% 发送 %file%"/>
+    <translation from="Sending a file to %contact%..." to="正在向 %contact% 发送文件..."/>
+    <translation from="Sent %file% to %name%" to="已向 %name% 发送 %file%"/>
+    <translation from="Sepia" to="怀旧色"/>
+    <translation from="September" to="九月"/>
+    <translation from="Service Connections" to="服务连接"/>
+    <translation from="Session Started" to="会话已启动"/>
+    <translation from="Session Stopped" to="会话已停止"/>
+    <translation from="Sessions" to="会话"/>
+    <translation from="Set Background Color" to="设置背景颜色"/>
+    <translation from="Set Foreground Color" to="设置前景颜色"/>
+    <translation from="Set..." to="设置..."/>
+    <translation from="Settings" to="设置"/>
+    <translation from="Share" to="分享"/>
+    <translation from="Share Trillian with your Friend..." to="与朋友分享 Trillian..."/>
+    <translation from="Shift-Enter" to="Shift+Enter"/>
+    <translation from="Show" to="显示"/>
+    <translation from="Side by Side" to="并排显示"/>
+    <translation from="Simple" to="简单"/>
+    <translation from="Since you left the window..." to="自您离开窗口后..."/>
+    <translation from="Size" to="大小"/>
+    <translation from="Small" to="小"/>
+    <translation from="Smaller" to="更小"/>
+    <translation from="Solarize" to="曝光效果"/>
+    <translation from="Sounds" to="声音"/>
+    <translation from="Source" to="来源"/>
+    <translation from="Starting compression..." to="正在启动压缩..."/>
+    <translation from="Status" to="状态"/>
+    <translation from="Status Window" to="状态窗口"/>
+    <translation from="Stay on call and minimize" to="保持通话并最小化"/>
+    <translation from="Stop Current Emotiblip" to="停止当前表情动画"/>
+    <translation from="Stopped." to="已停止。"/>
+    <translation from="Summary" to="摘要"/>
+    <translation from="Sunday" to="星期日"/>
+    <translation from="Text" to="文本"/>
+    <translation from="Text Formatting" to="文本格式"/>
+    <translation from="The Future" to="未来"/>
+    <translation from="Thick" to="粗"/>
+    <translation from="Thin" to="细"/>
+    <translation from="Thursday" to="星期四"/>
+    <translation from="Time" to="时间"/>
+    <translation from="Time Online" to="在线时间"/>
+    <translation from="Timestamp" to="时间戳"/>
+    <translation from="Timeline" to="时间线"/>
+    <translation from="Today" to="今天"/>
+    <translation from="Toggle Broadcasting" to="切换广播"/>
+    <translation from="Toggle Draw Mode" to="切换绘图模式"/>
+    <translation from="Toggle capture mode" to="切换捕获模式"/>
+    <translation from="Toggle video sending" to="切换视频发送"/>
+    <translation from="Trying to establish file transfer." to="正在尝试建立文件传输。"/>
+    <translation from="Tuesday" to="星期二"/>
+    <translation from="Turn Off Draw Mode" to="关闭绘图模式"/>
+    <translation from="Turn On Draw Mode" to="开启绘图模式"/>
+    <translation from="Turn sounds off" to="关闭声音"/>
+    <translation from="Turn sounds on" to="开启声音"/>
+    <translation from="Type" to="类型"/>
+    <translation from="Type your message here" to="在此输入消息"/>
+    <translation from="Typing" to="正在输入"/>
+    <translation from="Underline" to="下划线"/>
+    <translation from="Undo" to="撤销"/>
+    <translation from="Unknown Medium" to="未知媒介"/>
+    <translation from="Unknown Type" to="未知类型"/>
+    <translation from="Unknown fatal error." to="未知致命错误。"/>
+    <translation from="Unpause" to="取消暂停"/>
+    <translation from="Use Video Filter" to="使用视频滤镜"/>
+    <translation from="User" to="用户"/>
+    <translation from="User cancelled search for:" to="用户已取消搜索："/>
+    <translation from="User has paused the webcam." to="用户已暂停摄像头。"/>
+    <translation from="Users watching me" to="正在观看我的用户"/>
+    <translation from="Video" to="视频"/>
+    <translation from="Video Capture..." to="视频捕获..."/>
+    <translation from="Video Chat" to="视频聊天"/>
+    <translation from="Video chat request..." to="视频聊天请求..."/>
+    <translation from="Video recording ended." to="视频录制已结束。"/>
+    <translation from="Video recording started." to="视频录制已开始。"/>
+    <translation from="Video screen captured." to="视频屏幕已捕获。"/>
+    <translation from="Video: Capture" to="视频：捕获"/>
+    <translation from="View" to="查看"/>
+    <translation from="View Activity History" to="查看活动历史"/>
+    <translation from="View Captured Images..." to="查看捕获的图像..."/>
+    <translation from="View Wikipedia Entry" to="查看维基百科条目"/>
+    <translation from="Waiting for accept/deny to establish connection" to="等待接受/拒绝以建立连接"/>
+    <translation from="Waiting for other side to establish connection" to="等待对方建立连接"/>
+    <translation from="Warn Contact" to="警告联系人"/>
+    <translation from="Web" to="网页"/>
+    <translation from="Webcam" to="摄像头"/>
+    <translation from="Wednesday" to="星期三"/>
+    <translation from="Who&apos;s watching me?" to="谁在观看我？"/>
+    <translation from="Wikipedia" to="维基百科"/>
+    <translation from="Yes" to="是"/>
+    <translation from="Yesterday" to="昨天"/>
+    <translation from="You are not connected to %medium%." to="您未连接到 %medium%。"/>
+    <translation from="Zoom" to="缩放"/>
+    <translation from="attempting to send audio..." to="正在尝试发送音频..."/>
+    <translation from="attempting to send video..." to="正在尝试发送视频..."/>
+    <translation from="buzzes %name%!" to="向 %name% 发送震动！"/>
+    <translation from="buzzes you!" to="向您发送震动！"/>
+    <translation from="cancelled file transfer" to="已取消文件传输"/>
+    <translation from="changes status to %status%" to="状态已更改为 %status%"/>
+    <translation from="connection established.  Begin sending." to="连接已建立。开始发送。"/>
+    <translation from="dialogFileTransferDirectoryMultiple" to="请选择存储这 %num_files% 个文件的目录。"/>
+    <translation from="dialogWordMatchAdd" to="添加词语匹配条目"/>
+    <translation from="end of file transfer" to="文件传输结束"/>
+    <translation from="error in file transfer" to="文件传输错误"/>
+    <translation from="has changed their icon." to="已更改其图标。"/>
+    <translation from="has ended audio session." to="已结束音频会话。"/>
+    <translation from="has ended video session." to="已结束视频会话。"/>
+    <translation from="has started sending audio." to="已开始发送音频。"/>
+    <translation from="has started sending video." to="已开始发送视频。"/>
+    <translation from="has stopped sending audio." to="已停止发送音频。"/>
+    <translation from="has stopped sending video." to="已停止发送视频。"/>
+    <translation from="hour" to="小时"/>
+    <translation from="hours" to="小时"/>
+    <translation from="minute" to="分钟"/>
+    <translation from="minutes" to="分钟"/>
+    <translation from="received file %file%" to="已接收文件 %file%"/>
+    <translation from="requests to send %file%..." to="请求发送 %file%..."/>
+    <translation from="textErrorBuffer" to="无法写入缓冲区到磁盘。"/>
+    <translation from="textErrorClipboard" to="无法访问剪贴板。"/>
+    <translation from="textErrorEventType" to="请先输入事件类型。"/>
+    <translation from="textErrorFind" to="找不到文本“%text%”"/>
+    <translation from="textErrorHTTP" to="下载文件 %url% 时出错。"/>
+    <translation from="textErrorImageWrite" to="[Trillian：写入图像错误。请检查目录权限。]"/>
+    <translation from="textErrorLogNoMemory" to="无法打开日志：内存不足，无法完成操作。"/>
+    <translation from="textErrorLogNotFound" to="无法找到请求的日志文件。如果未启用日志记录，请在“偏好设置-&gt;活动历史”中开启。"/>
+    <translation from="textErrorLogSharing" to="无法打开日志：发生共享冲突。"/>
+    <translation from="textErrorLogViewerNotFound" to="未找到日志查看器。您可以通过关联 .log 扩展名的程序进行设置。"/>
+    <translation from="textErrorPaste" to="粘贴的文本将超过此聊天服务的单条消息最大长度。"/>
+    <translation from="textErrorSearch" to="必须输入搜索词。"/>
+    <translation from="textErrorURL" to="必须输入超链接 URL 和超链接文本。"/>
+    <translation from="textErrorWord" to="必须输入词语或点击取消。"/>
+    <translation from="textNoticeAudio" to="您当前处于语音通话中。是否关闭此窗口并结束通话？"/>
+    <translation from="textNoticeAudioInstructions" to="您当前处于语音通话中。关闭窗口将结束通话。"/>
+    <translation from="textNoticeBuddyIcon" to="是否将您的好友图标更改为刚下载的图标？&#13;&#10;注意：此操作将更改所有连接的关联图标。"/>
+    <translation from="textNoticeDownload" to="下载目录错误。是否选择其他位置？"/>
+    <translation from="textNoticeLogRemove" to="确定要永久删除与此用户关联的日志文件吗？"/>
+    <translation from="textNoticeVideo" to="您当前处于视频通话中。是否关闭此窗口并结束通话？"/>
+    <translation from="textNoticeVideoInstructions" to="您当前处于视频通话中。关闭窗口将结束通话。"/>
+    <translation from="textTrillianIM" to="嘿，你应该试试我用的这个超酷的即时通讯软件 Trillian。它支持所有主流即时通讯网络。更多信息请访问：http://www.ceruleanstudios.com/"/>
+    <translation from="titleError" to="Trillian 错误"/>
+    <translation from="titleNotice" to="Trillian 提示"/>
+    <translation from="up / down" to="上 / 下"/>
+    <translation from="week" to="周"/>
+    <translation from="weeks" to="周"/>
+    <translation from="You have received %filename%." to="您已收到 %filename%。"/>
+</language>

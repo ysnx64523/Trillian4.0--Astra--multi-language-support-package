@@ -1,0 +1,305 @@
+<!-- Chinese(Simplified) Language Pack for Skins -->
+<!-- Provides translation for words used frequently in a Stixe Interface or any skins. -->
+
+
+<!ENTITY wordTrillian				"Trillian">
+
+<!ENTITY wordGeneral				"常规">
+<!ENTITY wordAdvanced				"高级">
+<!ENTITY wordDetails				"详细信息">
+<!ENTITY wordClose				"关闭">
+
+<!-- Words for Contact List -->
+<!ENTITY wordMain				"主页">
+<!ENTITY wordContacts				"联系人">
+<!ENTITY wordShortcuts				"快捷方式">
+<!ENTITY wordLinks				"链接">
+<!ENTITY wordTasks				"任务">
+<!ENTITY wordTypeToSearch			"输入以搜索">
+<!ENTITY wordTypeToAdd				"">
+<!ENTITY wordLeaveANote				"留言">
+<!ENTITY wordAddAContact			"添加联系人">
+<!ENTITY wordUsername				"用户名">
+<!ENTITY wordServices				"服务">
+<!ENTITY wordAddButton				"添加">
+<!ENTITY wordClearText				"清空文本">
+<!ENTITY wordSearch				"搜索">
+<!ENTITY wordAdd				"添加">
+
+<!-- Words for Console -->
+<!ENTITY wordUserName-CSole			"用户">
+<!ENTITY wordConnection-CSole			"连接">
+<!ENTITY wordActivity-CSole			"活动">
+<!ENTITY wordRemove-CSole			"移除">
+<!ENTITY wordReadLog-CSole			"查看日志...">
+
+<!-- Words for File Transfer Window -->
+<!ENTITY wordFrom-FT				"来自">
+<!ENTITY wordTo-FT				"发送至">
+<!ENTITY wordFile-FT				"文件">
+<!ENTITY wordSavedAs-FT				"另存为">
+<!ENTITY wordStatus-FT				"状态">
+<!ENTITY wordTotalSize-FT			"总大小">
+<!ENTITY wordSent-FT				"已发送">
+<!ENTITY wordReceived-FT			"已接收">
+<!ENTITY wordTimeLeft-FT			"剩余时间">
+<!ENTITY wordTimeTaken-FT			"已用时间">
+<!ENTITY wordSpeed-FT				"速度">
+<!ENTITY wordFT-More				"更多">
+<!ENTITY wordFT-Less				"更少">
+
+<!-- Words for IRC Channel Window -->
+<!ENTITY wordTopic-IRC				"主题">
+<!ENTITY wordUsersList-IRC			"用户列表">
+<!ENTITY wordOps-IRC				"管理员">
+<!ENTITY wordUsers-IRC				"用户">
+
+<!-- Words for Message Window -->
+<!ENTITY wordSendButton				"发送">
+<!ENTITY wordConversations			"会话">
+<!ENTITY wordConversationsClosed		"会话 (双击显示)">
+<!ENTITY wordServerMessages			"服务器消息">
+<!ENTITY wordAddAuthorizationRequest		"添加授权请求">
+<!ENTITY wordAddRequestAccepted			"添加请求已接受">
+<!ENTITY wordFontStyles				"字体样式">
+<!ENTITY wordInsert				"插入">
+<!ENTITY wordDraw				" 绘图 ">
+<!ENTITY wordKnowledgeBar-Description		"感谢使用Trillian Astra!">
+<!ENTITY wordKnowledgeBar-Title			"即时知识">
+
+<!-- Words for Panels Titles -->
+<!ENTITY wordSearch				"网页搜索">
+<!ENTITY wordVideoCamera			"摄像头">
+<!ENTITY wordAudioChat				"语音聊天">
+<!ENTITY wordWalkieTalkie			"对讲机">
+<!ENTITY wordFileTransfers			"文件传输">
+
+<!-- Words for Layout Names -->
+<!ENTITY wordShowMyIdentityPanel		"默认身份面板">
+<!ENTITY wordHideMyIdentityPanel		"精简身份面板">
+<!ENTITY wordUseLargeToolbarwithText		"带文本的默认工具栏">
+<!ENTITY wordUseSmallToolbar			"精简工具栏">
+<!ENTITY wordDefaultLayout			"默认界面布局">
+
+<!-- Words for Panels in View Menu -->
+<!ENTITY wordMyContacts-VM			"我的联系人">
+<!ENTITY wordMyWeb-VM				"我的网页">
+<!ENTITY wordMyMusic-VM				"我的音乐">
+<!ENTITY wordMyMail-VM				"我的邮件">
+<!ENTITY wordMyNews-VM				"我的新闻">
+<!ENTITY wordTelephone-VM			"电话">
+<!ENTITY wordSearch-VM				"搜索">
+<!ENTITY wordVideoControls-VM			"视频控制">
+<!ENTITY wordAudioControls-VM			"音频控制">
+<!ENTITY wordFileTransfers-VM			"文件传输">
+<!ENTITY wordTextConversations-VM		"文本会话">
+<!ENTITY wordTextEditor-VM			"文本编辑器">
+<!ENTITY wordUsersList-VM			"用户列表">
+
+<!-- Words for Emoticons -->
+<!ENTITY wordBasicSmileys			"基础表情">
+<!ENTITY wordMSNMessengerCompatible		"兼容MSN Messenger">
+<!ENTITY wordYahooMessengerCompatible		"兼容Yahoo! Messenger">
+<!ENTITY wordExtraSmileys			"扩展表情">
+<!ENTITY wordExtraObjects			"扩展对象">
+<!ENTITY wordExtraSymbols			"扩展符号">
+
+<!-- Words for Large Message Toolbar -->
+<!ENTITY wordProfile-PMLToolbar			"个人资料">
+<!ENTITY wordVideo-PMLToolbar			"视频">
+<!ENTITY wordAudio-PMLToolbar			"音频">
+<!ENTITY wordSendFile-PMLToolbar		"文件">
+<!ENTITY wordInvite-PMLToolbar			"邀请">
+<!ENTITY wordInfo-PMLToolbar			"信息">
+<!ENTITY wordHistory-PMLToolbar			"历史">
+<!ENTITY wordAdd-PMLToolbar			"添加">
+<!ENTITY wordWarn-PMLToolbar			"警告">
+<!ENTITY wordBlock-PMLToolbar			"屏蔽">
+
+<!-- Words for Profile -->
+<!ENTITY wordStatus-Profile			"当前访问量过高，请手动刷新。">
+<!ENTITY wordRefresh-Profile			"刷新">
+<!ENTITY wordIntro-Profile			"简介">
+<!ENTITY wordWalls-Profile			"留言墙">
+<!ENTITY wordMini-Profile			"迷你资料">
+<!ENTITY wordAddWall-Profile			"添加留言墙">
+<!ENTITY wordProfileWall-Profile		"个人资料墙">
+<!ENTITY wordAstraProfile			"Astra个人资料">
+<!ENTITY wordWebServices			"网络服务">
+<!ENTITY wordUserInformation			"用户信息">
+<!ENTITY wordBiography				"个人简介">
+<!ENTITY wordBack-Profile			"返回">
+<!ENTITY wordMore-Profile			"更多">
+
+<!-- Words for Profile Editor -->
+<!ENTITY wordProfileEditor			"个人资料编辑器">
+<!ENTITY wordProfileEditorOf			"个人资料编辑器 - ">
+<!ENTITY wordProfile				"个人资料">
+<!ENTITY wordMyProfile				"我的个人资料">
+<!ENTITY wordWidgetBrowser			"小部件浏览">
+<!ENTITY wordMyAstraProfile			"我的Astra资料">
+<!ENTITY wordMyBasicInformation			"我的基本信息">
+<!ENTITY wordTrillianMini			"Trillian Mini">
+<!ENTITY wordMyWebServices			"我的网络服务">
+<!ENTITY wordFirstName				"名字">
+<!ENTITY wordLastName				"姓氏">
+<!ENTITY wordNickname				"昵称">
+<!ENTITY wordAstraContactStatusIcons		"Astra联系人状态图标">
+<!ENTITY wordAddaWebService			"添加网络服务...">
+<!ENTITY wordAddWidgets				"添加小部件...">
+<!ENTITY wordGenerateHTMLCode			"生成HTML代码...">
+<!ENTITY wordWallSettings			"留言墙设置">
+<!ENTITY wordDeleteWall				"删除留言墙">
+<!ENTITY wordPEditBar-Settings			"设置">
+<!ENTITY wordPEditBar-DeleteWall		"删除留言墙">
+<!ENTITY wordWidgetBrowser-BrowseTitle		"我需要与以下相关的小部件...">
+<!ENTITY wordWidgetBrowser-BrowseCount		"显示第&#37;browse-gallery.currentpage&#37;页，共&#37;browse-gallery.totalpages&#37;页">
+
+<!-- Words for Group Invite Window -->
+<!ENTITY wordGroup				"群组">
+<!ENTITY wordGroupInvite			"邀请联系人加入聊天...">
+<!ENTITY wordGroupInvite-List			"可用联系人">
+<!ENTITY wordGroupInvite-Invitees		"待邀请联系人">
+<!ENTITY wordInvite				"邀请">
+<!ENTITY wordCancel				"取消">
+
+<!-- Words for Cordonata Contact List -->
+<!ENTITY word-lbl-Cordonata:CL:CBox:Search:Title	 "搜索">
+<!ENTITY word-edit-Cordonata:CL:CBox:Search	 "输入以搜索">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Title	 "添加">
+<!ENTITY word-edit-Cordonata:CL:CBox:Add	 "">
+<!ENTITY word-lblbtn-Cordonata:CL:CBox:Add:Button	 "添加">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Name	 "ID名称">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Service	 "服务">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Group	 "群组">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Reason	 "原因">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Main:Status	 "状态">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Profile:Title	 "管理我的资料">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Profile:ChangeMyIcon	 "更改我的图标...">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Profile:ProfileEditor	 "个人资料编辑器">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Prefs:Title	 "管理我的Trillian">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Prefs:AlwaysOnTop	 "始终置顶">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Prefs:PlaySounds	 "播放声音">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Prefs:ShowNotifiers	 "隐藏通知">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Prefs:AllPreferences	 "首选项">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Prefs:ActivityHistory	 "活动历史">
+
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Contact	 "添加联系人...">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Meta	 "添加元联系人...">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Group	 "添加群组">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Connection	 "添加连接...">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Add:Widget	 "添加小部件...">
+<!ENTITY word-lbl-Cordonata:CL:CBox:Profile:Theme	 "主题 - 默认">
+
+<!ENTITY word-btnShowMenuBarButton	 "显示高级用户菜单栏">
+<!ENTITY word-btnHideMenuBarButton	 "隐藏高级用户菜单栏">
+<!ENTITY word-btn-Cordonata:CL:CBox:Add	 "添加联系人、群组、连接或小部件">
+<!ENTITY word-btn-Cordonata:CL:CBox:Search	 "搜索联系人列表">
+<!ENTITY word-btn-Cordonata:CL:CBox:Profile	 "管理我的资料">
+<!ENTITY word-btn-Cordonata:CL:CBox:Prefs	 "管理我的Trillian">
+<!ENTITY word-btn-Cordonata:CL:CBox:Thumbnail-Layer1	 "点击显示连接状态\n 双击更改图标">
+<!ENTITY word-btn-Cordonata:CL:CBox:Thumbnail-Layer1-Slct	 "双击更改图标">
+<!ENTITY word-btnCBox-CL-Close	 "关闭当前标签页并返回主标签页">
+<!ENTITY word-btn-Cordonata:CL:CBox:Main:Expand	 "点击显示独立连接服务">
+<!ENTITY word-btn-Cordonata:CL:CBox:Main:Collapse	 "点击隐藏独立连接服务">
+<!ENTITY word-btn-Cordonata:CL:Status:Add:Close	 "点击隐藏此错误">
+
+
+<!-- Words for Cordonata Chat Windows -->
+<!ENTITY word-lbl-Cordonata:PM:Tabs:Info	 "用户信息">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:Profile	 "个人资料">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:Chat	 "聊天">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:Draw	 "绘图">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:Audio	 "语音">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:Video	 "视频">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:WebcamInvite "邀请查看摄像头">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:WebcamView	 "查看摄像头">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:File	 "发送文件">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:Conf	 "会议">
+<!ENTITY word-lblChannelAstraTabs-ConfInvite	 "邀请用户">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:History	 "历史记录">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:AudioChat-Slct	 "语音聊天">
+<!ENTITY word-lbl-Cordonata:PM:Tabs:VideoChat-Slct	 "视频聊天">
+<!ENTITY word-topic-Cordonata:PM:CBox:Audio:End	 "挂断">
+<!ENTITY word-lbl-Cordonata:PM:CBox:Profile:Intro	 "简介">
+<!ENTITY word-lbl-Cordonata:PM:CBox:Profile:Walls	 "留言墙">
+<!ENTITY word-lbl-Cordonata:PM:DBox:Profile:Intro:List	 "网络服务">
+<!ENTITY word-topic-Cordonata:PM:CBox:Info:ProfileLink	 "查看详细信息...">
+<!ENTITY word-topic-Cordonata:PM:CBox:Info:Refresh	 "刷新">
+<!ENTITY word-lbl-Cordonata:PM:DBox:Info:Display	 "个人简介">
+<!ENTITY word-lbl-Cordonata:PM:Status:Stranger:Warning	 "此用户不在您的联系人列表中。透露个人信息或点击链接时请谨慎。">
+<!ENTITY word-lbl-Cordonata:PM:Add	 "添加">
+<!ENTITY word-lbl-Cordonata:PM:Block	 "屏蔽">
+<!ENTITY word-lbl-Cordonata:PM:Status:WebVisitor:Warning	 "这是来自网络的访客。可能并非同名本人。回复后对方将知道您在线。">
+<!ENTITY word-lbl-Cordonata:PM:Accept	 "接受">
+<!ENTITY word-lbl-Cordonata:PM:Deny	 "拒绝">
+<!ENTITY word-lbl-Cordonata:PM:Ignore	 "忽略">
+<!ENTITY word-topic-Cordonata:PM:KBar:Title	 "即时知识">
+<!ENTITY word-topic-Cordonata:PM:KBar:Description	 "感谢使用Trillian Astra。">
+
+<!ENTITY word-btn-Cordonata:PM:Tabs:Info	 "显示联系人信息">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Profile	 "显示联系人资料">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Chat	 "发送或接收文本消息/图片">
+<!ENTITY word-btn-Cordonata:CH:Tabs:Chat	 "发送或接收群聊消息">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Draw	 "给好友绘制消息!">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Audio	 "通过麦克风或耳机自然通话">
+<!ENTITY word-btn-Cordonata:CH:Tabs:Audio	 "通过麦克风或耳机自然通话">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Video	 "显示联系人及自身的实时视频">
+<!ENTITY word-btn-Cordonata:PM:Tabs:WebcamInvite	 "邀请查看您的摄像头">
+<!ENTITY word-btn-Cordonata:PM:Tabs:WebcamView	 "查看好友的摄像头">
+<!ENTITY word-btn-Cordonata:PM:Tabs:File	 "发送或接收文件">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Conf	 "邀请加入群聊">
+<!ENTITY word-btn-Cordonata:CH:Tabs:ConfInvite	 "邀请加入此群聊">
+<!ENTITY word-btn-Cordonata:PM:Tabs:History	 "查看会话历史">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Audio-Chat	 "发送文本/图片消息并实时语音">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Video-Chat	 "发送文本/图片消息并实时视频">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Video-Audio	 "显示带音频的实时视频">
+<!ENTITY word-btn-Cordonata:PM:Tabs:Video-Audio-Chat	"发送文本/图片消息并实时音视频">
+<!ENTITY word-btn-Cordonata:PM:Status:Stranger:Close	"点击隐藏此警告。右键菜单可添加联系人。">
+<!ENTITY word-tip-Cordonata:PM:Status:Audio:Init	"是否立即开始语音聊天?">
+<!ENTITY word-tip-Cordonata:PM:Status:Video:Init	"是否立即开始视频聊天?">
+<!ENTITY word-lbl-Cordonata:PM:Status:Audio:Init:AD:Accept	"是">
+<!ENTITY word-lbl-Cordonata:PM:Status:Audio:Init:AD:Deny	"否">
+<!ENTITY word-lbl-Cordonata:PM:Status:Video:Init:AD:Accept	"是">
+<!ENTITY word-lbl-Cordonata:PM:Status:Video:Init:AD:Deny	"否">
+
+<!-- Words for Cordonata Miscellaneous -->
+<!ENTITY word-lbl-Cordonata:NF-AD:Chat	 "先聊天...">
+<!ENTITY word-lblConsole	 "服务器消息">
+<!ENTITY word-lblGroupInvite	 "邀请联系人加入聊天...">
+<!ENTITY word-lblGroupInvite-List	 "可用联系人">
+<!ENTITY word-lblGroupInvite-Invitees	 "待邀请联系人">
+<!ENTITY word-editSearch	 "输入以搜索">
+<!ENTITY word-lbl-Cordonata:NF:Reply	 "回复">
+<!ENTITY word-lbl-Cordonata:NF:QuickReply	 "快速回复">
+
+
+<!-- Words for Cordonata Profile Editor -->
+<!ENTITY word-lbl-Cordonata:PE	 "个人资料编辑器 -">
+<!ENTITY word-lbl-Cordonata:WG	 "社交小部件库">
+<!ENTITY word-lbl-Cordonata:PE:NowLoading	 "正在加载资料...">
+<!ENTITY word-lbl-Cordonata:PE:FlashRequired	 "需要Adobe Flash">
+<!ENTITY word-lbl-Cordonata:PE:FlashDownload	 "点击下载Flash。">
+<!ENTITY word-edit-Cordonata:PE:FirstName	 "名字">
+<!ENTITY word-edit-Cordonata:PE:LastName	 "姓氏">
+<!ENTITY word-edit-Cordonata:PE:Nickname	 "昵称">
+<!ENTITY word-lbl-Cordonata:PE:Astracontact	 "AstraContact Status Icons">
+<!ENTITY word-topic-Cordonata:PE:Controls:IntroListAdd	 "Add a Web Service...">
+<!ENTITY word-topic-Cordonata:PE:Controls:Mini:Add	 "Add Widgets...">
+<!ENTITY word-topic-Cordonata:PE:Controls:Mini:Codegen	 "生成HTML代码...">
+<!ENTITY word-ttp-Cordonata:PE:Mini	 "选择最能代表您个性的三个小部件!">
+<!ENTITY word-lbl-Cordonata:PE:Tabs:Intro	 "Intro">
+<!ENTITY word-lbl-Cordonata:PE:Tabs:Walls	 "留言墙">
+<!ENTITY word-lbl-Cordonata:PE:Tabs:Mini	 "Trillian Mini">
+<!ENTITY word-lbl-Cordonata:EC:Cancel	 "取消">
+<!ENTITY word-topic-Cordonata:PE:Controls:Walls:AddWidget	 "添加小部件...">
+<!ENTITY word-topic-Cordonata:PE:Controls:Walls:Add	 "新建留言墙...">
+<!ENTITY word-topic-Cordonata:PE:Controls:Walls:Settings	 "留言墙设置">
+<!ENTITY word-topic-Cordonata:PE:Controls:Walls:Delete	 "删除留言墙">
+
+
+
+
+
+
+

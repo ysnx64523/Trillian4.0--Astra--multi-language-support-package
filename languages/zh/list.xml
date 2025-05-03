@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="Chinese(Simplified)">
+	<translation from="All Floating Off" to="全部关闭浮动"/>
+	<translation from="Background" to="背景"/>
+	<translation from="Cancel" to="取消"/>
+	<translation from="Collapse" to="折叠"/>
+	<translation from="Collapse All" to="全部折叠"/>
+	<translation from="Copy" to="复制"/>
+	<translation from="Default" to="默认"/>
+	<translation from="Expand" to="展开"/>
+	<translation from="Expand All" to="全部展开"/>
+	<translation from="Floating Off" to="关闭浮动"/>
+	<translation from="Floating On" to="启用浮动"/>
+	<translation from="Hide" to="隐藏"/>
+	<translation from="List Management" to="列表管理"/>
+	<translation from="Move" to="移动"/>
+	<translation from="Move down" to="下移"/>
+	<translation from="Move to" to="移动到"/>
+	<translation from="Move up" to="上移"/>
+	<translation from="Normal" to="普通模式"/>
+	<translation from="Root (No Group)" to="根目录（未分组）"/>
+	<translation from="textErrorClipboard" to="无法访问剪贴板。"/>
+	<translation from="textErrorDragSameEntry" to="无法拖拽：目标条目与原始条目相同。"/>
+	<translation from="textErrorDragSameGroup" to="无法移动：目标分组与原始分组相同。"/>
+	<translation from="textErrorDragSection" to="无法拖拽：目标位于其他区块中。"/>
+	<translation from="textErrorDragSubentry" to="无法拖拽：目标是原始条目的子条目。"/>
+	<translation from="textErrorDragSubgroup" to="无法移动：目标是原始分组的子分组。"/>
+	<translation from="textErrorDragUnknown" to="无法拖拽：目标未知。"/>
+	<translation from="titleError" to="Trillian 错误"/>
+</language>
